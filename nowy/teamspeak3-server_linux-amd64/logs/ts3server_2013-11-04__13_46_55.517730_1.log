@@ -17358,3 +17358,11 @@
 2013-11-13 22:47:45.641907|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:4) reason 'reasonmsg=connection lost'
 2013-11-13 22:48:15.075622|INFO    |VirtualServer |  1| query client connected 'Unknown from 62.75.222.14:48540'(id:4)
 2013-11-13 22:48:15.457380|INFO    |VirtualServer |  1| query client disconnected 'Unknown from 62.75.222.14:48540'(id:4) reason 'reasonmsg=disconnecting'
+2013-11-13 22:50:20.775805|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:56873'(id:4)
+2013-11-13 22:50:21.017589|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:4) reason 'reasonmsg=connection lost'
+2013-11-13 22:52:45.838168|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:52377'(id:4)
+2013-11-13 22:52:46.170065|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:4) reason 'reasonmsg=connection lost'
+2013-11-13 22:54:26.622865|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:40099'(id:4)
+2013-11-13 22:54:27.308741|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:4) reason 'reasonmsg=connection lost'
+2013-11-13 22:55:45.172636|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:49285'(id:4)
+2013-11-13 22:55:45.666690|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:4) reason 'reasonmsg=connection lost'
