@@ -1,0 +1,14 @@
+2013-10-26 15:33:56.346702|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-10-26 15:33:56.384987|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-10-26 15:33:56.385037|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-10-26 15:33:56.385282|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2013-10-26 15:33:57.017847|INFO    |Accounting    |   | Licensing Information
+2013-10-26 15:33:57.017900|INFO    |Accounting    |   | type              : Non-profit
+2013-10-26 15:33:57.017939|INFO    |Accounting    |   | starting date     : Tue Jun  4 00:00:00 2013
+2013-10-26 15:33:57.017956|INFO    |Accounting    |   | ending date       : Tue Dec 17 00:00:00 2013
+2013-10-26 15:33:57.017971|INFO    |Accounting    |   | max virtualservers: 10
+2013-10-26 15:33:57.017984|INFO    |Accounting    |   | max slots         : 512
+2013-10-26 15:33:57.034461|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2013-10-26 15:33:57.319043|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2013-10-26 15:33:57.319446|INFO    |Query         |   | listening on 0.0.0.0:10011
+2013-10-26 15:36:53.277331|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

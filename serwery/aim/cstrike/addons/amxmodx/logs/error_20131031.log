@@ -1,0 +1,5 @@
+L 10/31/2013 - 22:10:35: Start of error session.
+L 10/31/2013 - 22:10:35: Info (map "aim_dgl") (file "addons/amxmodx/logs/error_20131031.log")
+L 10/31/2013 - 22:10:35: Played 4 is not in game
+L 10/31/2013 - 22:10:35: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 10/31/2013 - 22:10:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

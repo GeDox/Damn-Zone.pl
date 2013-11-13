@@ -1,0 +1,21 @@
+L 11/04/2013 - 15:20:54: Start of error session.
+L 11/04/2013 - 15:20:54: Info (map "aim_awp") (file "addons/amxmodx/logs/error_20131104.log")
+L 11/04/2013 - 15:20:54: Player 1 is not ingame
+L 11/04/2013 - 15:20:54: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/04/2013 - 15:20:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/04/2013 - 17:33:38: Start of error session.
+L 11/04/2013 - 17:33:38: Info (map "aim_famas_x") (file "addons/amxmodx/logs/error_20131104.log")
+L 11/04/2013 - 17:33:38: Invalid CVAR pointer
+L 11/04/2013 - 17:33:38: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/04/2013 - 17:33:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/04/2013 - 17:34:03: Invalid CVAR pointer
+L 11/04/2013 - 17:34:03: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/04/2013 - 17:34:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/04/2013 - 17:36:18: Invalid CVAR pointer
+L 11/04/2013 - 17:36:18: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/04/2013 - 17:36:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/04/2013 - 18:54:24: Start of error session.
+L 11/04/2013 - 18:54:24: Info (map "aim_headshot") (file "addons/amxmodx/logs/error_20131104.log")
+L 11/04/2013 - 18:54:24: Invalid CVAR pointer
+L 11/04/2013 - 18:54:24: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/04/2013 - 18:54:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,75 @@
+﻿
+[en]
+INFO = 32-bit video mode is required on this server. Let's check it. ^nOn your screen there were multiple pictures shown. ^nWith correct settings you can easly distinguish one picture in a row. ^nChoose the one that differs from the rest:
+SHOW_AGAIN = Show pictures again
+TEST_OK = Test passed. Have fun.
+TEST_BAD = Wrong. %d tries left.
+TEST_BAD_1_TRY_LEFT = Wrong. One try left.
+
+[bg]
+INFO = 32-bit video rejim se iziskva v tozi server. Neka go proverim. ^nNa vashia ekran ima pokazani nyakolko kartinki. ^nS pravilnite nastoyki lesno mojete da razlichite edna kartinka na red. ^nIzberete tazi, koyato se razlichava ot ostanalite:
+SHOW_AGAIN = Pokaji kartinkite otnovo
+TEST_OK = Vie preminahte testa. Priatna igra!
+TEST_BAD = Greshka. %d opita ostavat.
+TEST_BAD_1_TRY_LEFT = Greshka. Edin opit ostava.
+
+[de]
+INFO = 32-Bit Anzeige Einstellung werden benoetigt auf diesem Server. Lass es ueberpruefen. ^nDu konntest mehrere Bilder sehen. ^nMit richtigen Einstellungen, solltest du die Bilder gut unterscheiden koennen. ^nWaehle das Bild aus, dass sich von den anderen unterscheidet:
+SHOW_AGAIN = Zeige Bilder
+TEST_OK = Test bestanden. Viel Spass!
+TEST_BAD = Falsch. %d Versuche verbleibend.
+TEST_BAD_1_TRY_LEFT = Falsch. Ein Versuch verbleibend.
+
+[es]
+INFO = El modo de video 32-bits esta requerido en este servidor. ^nVeras varias imagenes. ^nCon las opciones correctas, tu podras distinguir facilmente la imagen de cada fila. ^nElige las imagenes que sean diferentes de cada fila:
+SHOW_AGAIN = Mostrar las imagenes otra vez
+TEST_OK = Test concluido correctamente. Diviertete.
+TEST_BAD = Incorrecto. %d intentos restantes.
+TEST_BAD_1_TRY_LEFT = Incorrecto. Un intento restante.
+
+[fr]
+INFO:
+Le mode video 32bit est obligatoire sur ce serveur. Testons-le.^n
+Il y'avait plusieurs images sur l'ecran.^n
+En 32bit tu peux distinguer une image dans le tas.^n
+Choisis l'image qui est differente des autres:
+:
+SHOW_AGAIN = Revoir l'image
+TEST_OK = Test reussi. Have fun.
+TEST_BAD = Mauvaise reponse. %d essais restants.
+TEST_BAD_1_TRY_LEFT = Mauvaise reponse. 1 essai restant.
+
+[nl]
+INFO = 32-bit video modus is verplicht op deze server. Laten we het nagaan. ^nOp jouw scherm werden er meerdere afbeeldingen weergegeven. ^nMet de correcte instellingen kan je eenvoudig een afbeelding zien die verschillend is van de rest. ^nKies degene die verschilend is van de rest:
+SHOW_AGAIN = Toon Afbeeldingen Opnieuw
+TEST_OK = Test Geslaagd. Veel Plezier.
+TEST_BAD = Fout. %d beurten over.
+TEST_BAD_1_TRY_LEFT = Fout. 1 beurt over. 
+
+[pl]
+INFO = Aby grac na tym serwerze musisz miec ustawione 32-bit (Video). ^nSprawdzimy teraz czy masz. Na twoim ekranie pojawily sie obrazki. ^nPrzy poprawnych ustawieniach 1 obrazek w rzedzie sie wyroznia. ^nWybierz ten, ktory sie wyroznia:
+SHOW_AGAIN = Pokaz obrazki jeszcze raz
+TEST_OK = Test wykonany poprawnie. Milej gry.
+TEST_BAD = Bledny wybor. Pozostaly ci jeszcze %d proby.
+TEST_BAD_1_TRY_LEFT = Bledny wybor. Pozostala ci jeszcze jedna proba.
+
+[ro]
+INFO = Modul video in 32-bit este obligatoriu pentru a juca pe acest server. Test video: ^nV-au fost afisate 3 siruri de iconite. ^nIn modul video 32-bit puteti diferentia cu usurinta cate o iconita diferita pe fiecare sir. ^nAlegeti iconita diferita de pe fiecare sir:
+SHOW_AGAIN = Afiseaza iconitele din nou.
+TEST_OK = Ai trecut testul. Distractie placuta!
+TEST_BAD = Gresit! Mai ai dreptul la %d incercari.
+TEST_BAD_1_TRY_LEFT = Gresit! Mai ai dreptul la o singura incercare.
+
+[ru]
+INFO = На этом сервере можно играть только с 32-битным разрешением . Давай проверим это. ^nТебе будут показано несколько картинок. ^nС правильными настройками ты легко различишь одну картинку с отличием. ^nВыбери ту которая отличается от остальных:
+SHOW_AGAIN = Показать картинки опять
+TEST_OK = Тест пройден. Желаю удачи.
+TEST_BAD = Неправильно. Осталось %d попыток.
+TEST_BAD_1_TRY_LEFT = Неправильно. Осталась одна попытка.
+
+[sr]
+INFO = Na ovom serveru je neophodan 32-bitni graficki rezim. Hajde da proverimo. ^nNa vasem ekranu ce biti prikazan niz slika. ^nSa korektnim podesavanjima mozete lako izdvojiti po jednu sliku u svakom redu. ^nOdaberite one koje se razlikuju od ostalih:
+SHOW_AGAIN = Ponovo prikazi slike
+TEST_OK = Prosli ste test. Uzivajte na nasem serveru.
+TEST_BAD = Pogrešno. Preostalo %d pokusaja.
+Test_BAD_1_TRY_LEFT = Pogresno! Preostao je jedan pokusaj!

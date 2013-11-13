@@ -1,0 +1,8 @@
+2013-11-04 13:46:55.526715|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-11-04 13:46:55.564353|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-11-04 13:46:55.566168|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-11-04 13:46:55.579547|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2013-11-04 13:46:55.761323|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2013-11-04 13:46:55.859883|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2013-11-04 13:46:56.261813|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2013-11-04 13:46:56.262219|INFO    |Query         |   | listening on 0.0.0.0:10011

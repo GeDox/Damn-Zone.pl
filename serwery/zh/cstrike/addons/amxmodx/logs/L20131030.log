@@ -1,0 +1,22 @@
+L 10/30/2013 - 18:28:32: -------- Mapchange to de_dust2 --------
+L 10/30/2013 - 18:28:35: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 10/30/2013 - 18:28:35: [gunxpmod.amxx] Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 10/30/2013 - 18:28:35: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 10/30/2013 - 18:28:35: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 10/30/2013 - 18:28:35: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383157715,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 10/30/2013 - 18:28:35: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 10/30/2013 - 18:28:36: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 10/30/2013 - 19:19:47: [amxbans_core.amxx] Login: "Player<20><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 10/30/2013 - 19:20:07: [amxbans_main.amxx] [AMXBans PlayerMenu 0] 11 choice: 75 | STEAM_0:0:979616577 | 78.88.8.109 | 14
+L 10/30/2013 - 19:20:09: [amxbans_main.amxx] [AMXBans BantimeMenu 0] 11 choice: 10080 min
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans CustomReason] 11 choice: Reklama! (10080 min)
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans cmdMenuBan 11] 14 | KoKs007 | STEAM_0:0:979616577 | 78.88.8.109 | Reklama! (10080 min)
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans cmdMenuBan] Banned a player by SteamID
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans cmdMenuBan function 2]Playerid: 14
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans cmdBan function 5]Playerid: 14
+L 10/30/2013 - 19:20:13: [amxbans_main.amxx] [AMXBans cmdBan function 5]Bid: 1
+L 10/30/2013 - 19:20:14: [amxbans_main.amxx] [AMXBans cmdBan function 6]Playerid: 14, Bid: 1
+L 10/30/2013 - 19:20:14: [amxbans_main.amxx] [AMXBans cmdBan function 6.2]Bid: 1 URL=  Kickdelay:10.000000
+L 10/30/2013 - 19:20:14: [amxbans_main.amxx] Player<20><STEAM_0:0:1341029><CT> zostal zbanowany KoKs007<STEAM_0:0:979616577> na 1 tydzien (10080 Minut/y). Powod: Reklama!.
+L 10/30/2013 - 19:20:24: [amxbans_main.amxx] [AMXBANS DEBUG] Delayed Kick ID: <14>
+L 10/30/2013 - 20:05:25: [afkdf.amxx] C.I.N.C.A.D.Z.E. zostal wywalony za bycie AFK przez 90 sekund

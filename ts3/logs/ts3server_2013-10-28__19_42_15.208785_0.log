@@ -1,0 +1,7 @@
+2013-10-28 19:42:15.208976|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-10-28 19:42:15.254039|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-10-28 19:42:15.254095|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-10-28 19:42:15.254320|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2013-10-28 19:43:18.569328|ERROR   |              |   | TS3ANetwork::Connect failed error: 110
+2013-10-28 19:43:18.569424|ERROR   |Accounting    |   | Unable to connect to accounting server
+2013-10-28 19:43:18.569451|ERROR   |ServerLibPriv |   | Server() error while starting servermanager, error: unable to connect to accounting server

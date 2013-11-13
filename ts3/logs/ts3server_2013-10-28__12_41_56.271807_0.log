@@ -1,0 +1,4 @@
+2013-10-28 12:41:56.271978|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-10-28 12:41:56.297364|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-10-28 12:41:56.297405|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-10-28 12:41:56.300678|INFO    |DatabaseQuery |   | checking database integrity (may take a while)

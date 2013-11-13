@@ -1,0 +1,1579 @@
+L 11/01/2013 - 00:10:09: -------- Mapchange to aim_map --------
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 00:10:09: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:10:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 00:10:10: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 00:10:10: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 00:34:17: -------- Mapchange to awp_space --------
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 00:34:17: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:34:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 00:34:18: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 00:34:18: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 00:58:24: -------- Mapchange to awp_india --------
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 00:58:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 00:58:25: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 00:58:26: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 00:58:26: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 01:22:33: -------- Mapchange to aim_dgl --------
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 01:22:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:22:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 01:22:42: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 01:22:42: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 01:46:48: -------- Mapchange to aim_famas_x --------
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 01:46:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 01:46:49: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 01:46:50: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 01:46:50: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 02:10:56: -------- Mapchange to aim_fixit_deagle --------
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 02:10:56: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:10:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 02:10:59: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 02:10:59: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 02:35:05: -------- Mapchange to aim_headshot --------
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 02:35:05: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:35:06: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 02:35:07: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 02:35:07: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 02:59:13: -------- Mapchange to aim_killer --------
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 02:59:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 02:59:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 02:59:15: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 02:59:15: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 03:23:21: -------- Mapchange to aim_map --------
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 03:23:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:23:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 03:23:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 03:23:22: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 03:47:29: -------- Mapchange to awp_space --------
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 03:47:29: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 03:47:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 03:47:31: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 03:47:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 04:11:37: -------- Mapchange to awp_india --------
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 04:11:37: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:11:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 04:11:38: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 04:11:38: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 04:35:44: -------- Mapchange to aim_dgl --------
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 04:35:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:35:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 04:35:46: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 04:35:46: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 04:59:52: -------- Mapchange to aim_famas_x --------
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 04:59:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 04:59:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 04:59:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 04:59:54: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 05:23:59: -------- Mapchange to aim_fixit_deagle --------
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 05:23:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:24:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 05:24:00: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 05:24:01: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 05:48:07: -------- Mapchange to aim_headshot --------
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 05:48:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 05:48:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 05:48:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 05:48:08: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 06:12:14: -------- Mapchange to aim_killer --------
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 06:12:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:12:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 06:12:16: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 06:12:16: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 06:36:22: -------- Mapchange to aim_map --------
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 06:36:22: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 06:36:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 06:36:23: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 06:36:23: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 07:00:31: -------- Mapchange to awp_space --------
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 07:00:31: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:00:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 07:00:32: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 07:00:33: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 07:24:38: -------- Mapchange to awp_india --------
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 07:24:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:24:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 07:24:41: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 07:24:41: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 07:48:47: -------- Mapchange to aim_crazyjump --------
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 07:48:48: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 07:48:48: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 07:48:49: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 07:48:49: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 08:13:06: -------- Mapchange to aim_map_glock --------
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 08:13:06: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:13:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 08:13:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 08:13:08: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 08:21:34: -------- Mapchange to de_piranesi --------
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 08:21:34: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:21:34: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 08:21:35: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 08:21:35: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 08:34:19: -------- Mapchange to de_dust --------
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 08:34:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:34:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 08:34:20: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 08:34:20: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 08:58:45: -------- Mapchange to awp_warzone --------
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 08:58:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 08:58:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 08:58:46: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 08:58:46: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 09:22:51: -------- Mapchange to awp_warzone --------
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 09:22:51: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 09:22:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 09:22:52: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 09:22:52: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 09:43:11: [afkkicker.amxx] Children of Darkness zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/01/2013 - 10:00:50: -------- Mapchange to awp_warzone --------
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 10:00:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:00:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 10:00:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 10:00:51: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 10:24:57: -------- Mapchange to awp_warzone --------
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 10:24:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 10:24:57: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 10:24:58: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 10:24:58: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 10:48:32: [afkkicker.amxx] ja lubie kashke <33 zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/01/2013 - 11:27:38: -------- Mapchange to aim_famas_x --------
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 11:27:38: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:27:38: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 11:27:39: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 11:27:39: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 11:51:45: -------- Mapchange to aim_fixit_deagle --------
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 11:51:45: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 11:51:45: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 11:51:46: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 11:51:46: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 12:15:52: -------- Mapchange to aim_headshot --------
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 12:15:52: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:15:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 12:15:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 12:15:54: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 12:40:00: -------- Mapchange to aim_killer --------
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 12:40:00: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 12:40:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 12:40:01: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 12:40:01: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 13:04:07: -------- Mapchange to aim_map --------
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 13:04:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:04:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 13:04:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 13:04:08: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 13:28:15: -------- Mapchange to awp_space --------
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 13:28:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:28:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 13:28:15: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 13:28:16: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 13:52:21: -------- Mapchange to awp_india --------
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 13:52:21: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 13:52:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 13:52:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 13:52:22: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 14:16:28: -------- Mapchange to aim_headshot --------
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 14:16:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:16:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 14:16:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 14:16:30: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 14:31:13: [amxbans_core.amxx] Login: "Klaudia<204><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 14:34:08: [adminchat.amxx] Chat: "Klaudia<204><STEAM_0:0:19838297><>" tsay "rasz = ban!"
+L 11/01/2013 - 14:34:39: [ReasonKicker.amxx] Kick: "Klaudia<204><STEAM_0:0:19838297><>" kick "kuba<203><STEAM_ID_LAN><>Powod: "
+L 11/01/2013 - 14:37:34: [mapsmenu.amxx] Vote: "Klaudia<204><STEAM_0:0:19838297><>" vote maps (map#1 "aim_awp") (map#2 "") (map#3 "") (map#4 "")
+L 11/01/2013 - 14:37:46: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/01/2013 - 14:37:48: [mapsmenu.amxx] Vote: Result accepted
+L 11/01/2013 - 14:37:50: -------- Mapchange to aim_awp --------
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 14:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 14:37:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 14:37:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 14:37:51: [amxbans_core.amxx] Login: "Klaudia<204><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 14:37:51: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 14:39:27: [adminchat.amxx] Chat: "Klaudia<204><STEAM_0:0:19838297><>" tsay "nie bij z respa!"
+L 11/01/2013 - 14:44:44: [amxbans_core.amxx] Login: "Klaudia<216><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 15:01:42: -------- Mapchange to aim_map_deagle --------
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 15:01:42: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:01:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 15:01:43: [amxbans_core.amxx] Login: "Klaudia<216><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 15:01:43: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 15:01:43: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 15:01:46: [amxbans_core.amxx] Login: "Klaudia<234><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 15:15:15: [amxbans_core.amxx] Login: "GeDox<245><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:15:48: [amxbans_core.amxx] Login: "GeDox<246><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:20:13: -------- Mapchange to cs_italy --------
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 15:20:13: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:20:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 15:20:16: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 15:20:16: [amxbans_core.amxx] Login: "GeDox<246><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:20:16: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 15:22:34: [adminvote.amxx] Vote: "GeDox<246><STEAM_0:1:28747762><>" vote maps (map#1 "aim_aztec") (map#2 "") (map#3 "") (map#4 "")
+L 11/01/2013 - 15:22:46: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "changelevel aim_aztec")
+L 11/01/2013 - 15:22:56: [adminvote.amxx] Vote: Result refused
+L 11/01/2013 - 15:25:54: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" psay "GODYED<240><STEAM_0:0:1331064594><>" ""Idz nie biegnij :P"
+L 11/01/2013 - 15:26:14: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" psay "GODYED<240><STEAM_0:0:1331064594><>" "Bo slychac"
+L 11/01/2013 - 15:26:45: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" tsay "Bo only hs? :O"
+L 11/01/2013 - 15:29:24: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" tsay "Same heady bo only HS :F"
+L 11/01/2013 - 15:30:02: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" psay "GODYED<240><STEAM_0:0:1331064594><>" "headshoot"
+L 11/01/2013 - 15:32:51: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" psay "jeste wantz<249><STEAM_0:1:50508640><>" "Co o nim myslisz? Screenowac?"
+L 11/01/2013 - 15:34:14: [amxbans_main.amxx] GeDox<246><STEAM_0:1:28747762><SPECTATOR> banned noob Master<STEAM_0:0:1205924798> Duration: PERMANENT. Reason: Wstaw screeny na twojastrona.pl.
+L 11/01/2013 - 15:34:18: [adminchat.amxx] Chat: "GeDox<246><STEAM_0:1:28747762><>" tsay "Podejrzane ,)"
+L 11/01/2013 - 15:34:31: [plmenu.amxx] Cmd: "GeDox<246><STEAM_0:1:28747762><>" transfer "GeDox<246><STEAM_0:1:28747762><>" (team "CT")
+L 11/01/2013 - 15:34:43: [admincmd.amxx] Cmd: "GeDox<246><STEAM_0:1:28747762><>" slay "GODYED<240><STEAM_0:0:1331064594><>"
+L 11/01/2013 - 15:37:47: [mapsmenu.amxx] Cmd: "GeDox<246><STEAM_0:1:28747762><>" changelevel "3d_aim_dust2"
+L 11/01/2013 - 15:37:49: -------- Mapchange to 3d_aim_dust2 --------
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 15:37:50: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:37:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 15:37:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 15:37:51: [amxbans_core.amxx] Login: "GeDox<246><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:37:51: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 15:38:02: [amxbans_core.amxx] Login: "GeDox<252><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:54:27: [mapsmenu.amxx] Cmd: "GeDox<252><STEAM_0:1:28747762><>" changelevel "aim_ak-colt"
+L 11/01/2013 - 15:54:30: -------- Mapchange to aim_ak-colt --------
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 15:54:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 15:54:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 15:54:31: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 15:54:31: [amxbans_core.amxx] Login: "GeDox<252><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 15:54:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 15:54:37: [amxbans_core.amxx] Login: "GeDox<253><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 16:11:28: -------- Mapchange to awp_india --------
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 16:11:28: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:11:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 16:11:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 16:11:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 16:37:49: -------- Mapchange to aim_crazyjump --------
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 16:37:49: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:37:49: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 16:37:50: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 16:37:50: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 16:47:23: -------- Mapchange to awp_space --------
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 16:47:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 16:47:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 16:47:24: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 16:47:24: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 17:10:53: -------- Mapchange to aim_awp --------
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 17:10:53: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:10:54: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 17:10:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 17:10:55: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 17:57:24: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 17:57:24: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 17:57:26: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 17:57:28: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 17:57:28: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 18:23:12: [amxbans_core.amxx] Login: "Player<335><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:23:25: -------- Mapchange to 3d_AIM_TRAIN_A --------
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 18:23:25: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:23:26: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 18:23:26: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 18:23:27: [amxbans_core.amxx] Login: "Player<335><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:23:27: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 18:23:34: [amxbans_core.amxx] Login: "Player<336><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:23:40: [amxbans_core.amxx] Login: "Player<337><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:23:45: [amxbans_core.amxx] Login: "Player<338><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:43:04: [amxbans_core.amxx] Login: "Klaudia<341><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:43:09: [amxbans_core.amxx] Login: "Klaudia<342><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:43:23: [amxbans_core.amxx] Login: "Klaudia<343><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:43:36: [amxbans_core.amxx] Login: "Klaudia<344><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:46:24: [amxbans_core.amxx] Login: "Klaudia<345><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:46:35: [amxbans_core.amxx] Login: "Klaudia<346><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:47:19: [amxbans_core.amxx] Login: "Klaudia<347><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:47:33: -------- Mapchange to 3d_AIM_TRAIN_B --------
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 18:47:33: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:47:33: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 18:47:34: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 18:47:34: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 18:48:15: -------- Mapchange to aim_map --------
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 18:48:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:48:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 18:48:17: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 18:48:17: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 18:48:26: [amxbans_core.amxx] Login: "Player<348><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:48:40: [amxbans_core.amxx] Login: "Klaudia<349><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:49:09: [amxbans_core.amxx] Login: "Klaudia<352><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:50:29: [ReasonKicker.amxx] Kick: "Klaudia<352><STEAM_0:0:19838297><>" kick "my bitch caught a finger.<351><STEAM_0:0:60588030><>Powod: "
+L 11/01/2013 - 18:52:21: [amxbans_core.amxx] Login: "Klaudia<356><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:52:55: [mapsmenu.amxx] Vote: "Klaudia<356><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "awp_india") (map#3 "") (map#4 "")
+L 11/01/2013 - 18:53:07: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to awp_india
+L 11/01/2013 - 18:53:10: [mapsmenu.amxx] Vote: Result accepted
+L 11/01/2013 - 18:53:12: -------- Mapchange to awp_india --------
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 18:53:12: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 18:53:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 18:53:13: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 18:53:14: [amxbans_core.amxx] Login: "Player<348><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:53:14: [amxbans_core.amxx] Login: "Klaudia<356><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 18:53:14: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 18:53:29: [amxbans_core.amxx] Login: "Player<357><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 18:55:18: [ReasonKicker.amxx] Kick: "Klaudia<356><STEAM_0:0:19838297><>" kick "my bitch caught a finger.<353><STEAM_0:0:60588030><>Powod: RASZUJESZ BATONIE"
+L 11/01/2013 - 18:55:48: [amxbans_core.amxx] Login: "Klaudia<361><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 19:05:44: [mapsmenu.amxx] Vote: "Klaudia<361><STEAM_0:0:19838297><>" vote maps (map#1 "aim_awp") (map#2 "") (map#3 "") (map#4 "")
+L 11/01/2013 - 19:05:56: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/01/2013 - 19:05:57: [mapsmenu.amxx] Vote: Result accepted
+L 11/01/2013 - 19:05:59: -------- Mapchange to aim_awp --------
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 19:05:59: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:06:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 19:06:00: [amxbans_core.amxx] Login: "Klaudia<361><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/01/2013 - 19:06:00: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 19:06:01: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 19:06:01: [amxbans_core.amxx] Login: "Player<357><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 19:44:07: -------- Mapchange to aim_aztec --------
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 19:44:07: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 19:44:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 19:44:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 19:44:08: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 19:44:22: [amxbans_core.amxx] Login: "Player<394><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.10.4.182") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/01/2013 - 19:46:32: [afkkicker.amxx] Jim zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/01/2013 - 20:08:15: -------- Mapchange to aim_b0n0 --------
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 20:08:15: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:08:15: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 20:08:16: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 20:08:17: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 20:32:23: -------- Mapchange to aim_crazyjump --------
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 20:32:23: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:32:23: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 20:32:24: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 20:32:24: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 20:56:30: -------- Mapchange to aim_dgl --------
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 20:56:30: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 20:56:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 20:56:31: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 20:56:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 21:19:57: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 21:19:57: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:19:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 21:19:59: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 21:19:59: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/01/2013 - 21:44:19: -------- Mapchange to awp_warzone --------
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/01/2013 - 21:44:19: [alt_end_round_sounds.amxx] ---
+L 11/01/2013 - 21:44:19: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/01/2013 - 21:44:20: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/01/2013 - 21:44:20: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.

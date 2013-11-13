@@ -1,0 +1,15 @@
+L 11/01/2013 - 15:16:54: Start of error session.
+L 11/01/2013 - 15:16:54: Info (map "aim_map_deagle") (file "addons/amxmodx/logs/error_20131101.log")
+L 11/01/2013 - 15:16:54: Played 4 is not in game
+L 11/01/2013 - 15:16:54: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/01/2013 - 15:16:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2013 - 16:40:49: Start of error session.
+L 11/01/2013 - 16:40:49: Info (map "aim_crazyjump") (file "addons/amxmodx/logs/error_20131101.log")
+L 11/01/2013 - 16:40:49: Played 1 is not in game
+L 11/01/2013 - 16:40:49: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/01/2013 - 16:40:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/01/2013 - 20:04:49: Start of error session.
+L 11/01/2013 - 20:04:49: Info (map "aim_aztec") (file "addons/amxmodx/logs/error_20131101.log")
+L 11/01/2013 - 20:04:49: Played 1 is not in game
+L 11/01/2013 - 20:04:49: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/01/2013 - 20:04:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

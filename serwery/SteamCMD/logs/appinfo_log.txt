@@ -1,0 +1,21 @@
+
+
+[2013-10-25 20:28:15] RequestAppInfoUpdate: nNumAppIDs 1
+[2013-10-25 20:28:15] ProductInfoChanges: change number 0->315049, apps: 0/0, packages: 0/0
+[2013-10-25 20:28:15] ProductInfoChanges: change number 0->315049, apps: 0/0, packages: 0/0
+[2013-10-25 20:28:18] JobAppInfoDone: OK, nAppsUpdated 1
+[2013-10-25 20:28:20] JobAppInfoDone: OK, nAppsUpdated 34
+[2013-10-25 20:29:06] RequestAppInfoUpdate: nNumAppIDs 1
+[2013-10-25 20:29:06] JobAppInfoDone: OK, nAppsUpdated 0
+[2013-10-25 20:29:07] JobAppInfoDone: OK, nAppsUpdated 1
+
+
+[2013-10-25 20:31:04] RequestAppInfoUpdate: nNumAppIDs 1
+[2013-10-25 20:31:04] ProductInfoChanges: change number 0->315053, apps: 0/0, packages: 0/0
+[2013-10-25 20:31:04] ProductInfoChanges: change number 0->315053, apps: 0/0, packages: 0/0
+[2013-10-25 20:31:06] JobAppInfoDone: OK, nAppsUpdated 6
+[2013-10-25 20:31:32] RequestAppInfoUpdate: nNumAppIDs 1
+[2013-10-25 20:31:32] JobAppInfoDone: OK, nAppsUpdated 0
+[2013-10-25 20:31:33] JobAppInfoDone: OK, nAppsUpdated 1
+[2013-10-25 20:31:56] RequestAppInfoUpdate: nNumAppIDs 1
+[2013-10-25 20:31:56] JobAppInfoDone: OK, nAppsUpdated 0

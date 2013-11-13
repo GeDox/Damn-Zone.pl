@@ -1,0 +1,190 @@
+L 11/03/2013 - 00:00:18: [amxbans_core.amxx] Login: "oGARNIACZ<2822><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:05:09: [amxbans_core.amxx] Login: "oGARNIACZ<2822><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:08:13: [amxbans_core.amxx] Login: "oGARNIACZ<2837><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:08:16: [amxbans_core.amxx] Login: "oGARNIACZ<2838><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:08:52: [amxbans_core.amxx] Login: "oGARNIACZ<2839><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:09:06: [amxbans_core.amxx] Login: "oGARNIACZ<2839><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/03/2013 - 00:56:29: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 00:56:34: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:01:42: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:07:22: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:12:35: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:16:36: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:23:06: [amxbans_core.amxx] Login: "Cr3@tive<2842><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:23:10: -------- Mapchange to cs_italy --------
+L 11/03/2013 - 01:23:33: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/03/2013 - 01:23:34: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/03/2013 - 01:23:34: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/03/2013 - 01:23:34: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383441814,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/03/2013 - 01:23:34: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/03/2013 - 01:23:35: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/03/2013 - 01:23:37: [amxbans_core.amxx] Login: "Cr3@tive<2850><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:23:39: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:23:45: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:26:49: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:31:31: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:33:50: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:36:24: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:40:19: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:44:17: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:47:30: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:51:09: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 01:53:17: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2859><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 01:53:19: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2860><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 01:56:17: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2860><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 01:56:17: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:00:59: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2860><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:00:59: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:05:47: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2860><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:05:47: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:05:52: -------- Mapchange to de_train --------
+L 11/03/2013 - 02:06:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/03/2013 - 02:06:04: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/03/2013 - 02:06:04: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/03/2013 - 02:06:04: [amxbans_core.amxx] Login: "Cr3@tive<2856><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:06:04: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383444364,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/03/2013 - 02:06:04: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/03/2013 - 02:06:04: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2860><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:06:04: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/03/2013 - 02:06:06: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:06:08: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:06:15: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:06:15: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:07:48: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:07:48: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:10:31: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:10:31: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:13:04: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:13:04: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:16:01: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:16:01: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:19:10: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:19:10: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:21:47: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:21:47: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:24:56: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:24:56: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:28:16: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:28:16: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:33:28: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:33:28: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:38:48: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:38:48: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:38:51: -------- Mapchange to gg_33_circa --------
+L 11/03/2013 - 02:38:59: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/03/2013 - 02:38:59: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/03/2013 - 02:38:59: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/03/2013 - 02:38:59: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383446339,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/03/2013 - 02:38:59: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/03/2013 - 02:38:59: [amxbans_core.amxx] Login: "Cr3@tive<2872><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:38:59: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2867><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:39:00: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/03/2013 - 02:39:01: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:39:01: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2887><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:39:07: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2887><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:39:07: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:39:48: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2887><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:39:48: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:39:59: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2895><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:40:01: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:41:17: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:41:17: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:42:55: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:42:55: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:44:47: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:44:47: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:46:46: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:46:46: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:49:31: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:49:31: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 02:52:22: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<2896><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.138.185") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/03/2013 - 02:52:22: [amxbans_core.amxx] Login: "Cr3@tive<2886><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:28:09: [afkdf.amxx] Szybki Major ! zostal wywalony za bycie AFK przez 90 sekund
+L 11/03/2013 - 03:31:11: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:31:16: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:34:20: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:37:23: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:40:09: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:43:13: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:47:20: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:47:51: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:53:17: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 03:56:09: [amxbans_core.amxx] Login: "Cr3@tive<2901><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.80") (nick "Cr3@tive") (static 1)
+L 11/03/2013 - 06:20:42: [amxbans_core.amxx] Login: "MaQu<2911><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:21:12: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:21:28: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:26:08: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:26:08: [afkdf.amxx] BBC zostal wywalony za bycie AFK przez 90 sekund
+L 11/03/2013 - 06:28:58: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:33:03: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:38:34: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:41:29: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:47:33: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 06:53:53: [amxbans_core.amxx] Login: "MaQu<2912><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 07:51:46: [amxbans_core.amxx] Login: "MaQu<2931><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 07:51:49: [amxbans_core.amxx] Login: "MaQu<2932><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 07:55:30: [amxbans_core.amxx] Login: "MaQu<2932><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 07:59:12: [amxbans_core.amxx] Login: "MaQu<2932><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.33") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:29:17: [amxbans_main.amxx] [AMXBans] Player Check on Connect:
+bid: 5 
+when: 1383424372 
+lenght: 259200 
+reason: Reklama 
+admin: GeDox 
+adminsteamID: STEAM_0:1:28747762 
+Playername SobaczkoS 
+server: [ZombieHell][GunXpMod] @Damn-Zone.pl (cs_italy) 
+serverip: 185.17.41.144:27002 
+bantype: SI
+L 11/03/2013 - 08:29:17: [amxbans_main.amxx] [AMXBans] BID:<5> Player:<SobaczkoS> <STEAM_ID_LAN> connected and got kicked, because of an active ban
+L 11/03/2013 - 08:29:17: [amxbans_main.amxx] [AMXBans] Delayed Kick-TASK ID1: <12>  ID2: <12>
+L 11/03/2013 - 08:29:21: [amxbans_main.amxx] [AMXBANS DEBUG] Delayed Kick ID: <12>
+L 11/03/2013 - 08:29:28: [amxbans_main.amxx] [AMXBans] Player Check on Connect:
+bid: 5 
+when: 1383424372 
+lenght: 259200 
+reason: Reklama 
+admin: GeDox 
+adminsteamID: STEAM_0:1:28747762 
+Playername SobaczkoS 
+server: [ZombieHell][GunXpMod] @Damn-Zone.pl (cs_italy) 
+serverip: 185.17.41.144:27002 
+bantype: SI
+L 11/03/2013 - 08:29:28: [amxbans_main.amxx] [AMXBans] BID:<5> Player:<SobaczkoS> <STEAM_ID_LAN> connected and got kicked, because of an active ban
+L 11/03/2013 - 08:29:28: [amxbans_main.amxx] [AMXBans] Delayed Kick-TASK ID1: <12>  ID2: <12>
+L 11/03/2013 - 08:29:31: [amxbans_main.amxx] [AMXBANS DEBUG] Delayed Kick ID: <12>
+L 11/03/2013 - 08:33:54: [amxbans_core.amxx] Login: "MaQu<2954><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:33:57: [amxbans_core.amxx] Login: "MaQu<2955><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:34:41: [amxbans_core.amxx] Login: "MaQu<2955><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:40:11: [amxbans_core.amxx] Login: "MaQu<2955><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:46:04: [amxbans_core.amxx] Login: "MaQu<2955><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:46:09: -------- Mapchange to de_mirage --------
+L 11/03/2013 - 08:46:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/03/2013 - 08:46:22: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/03/2013 - 08:46:22: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/03/2013 - 08:46:22: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383468382,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/03/2013 - 08:46:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/03/2013 - 08:46:22: [amxbans_core.amxx] Login: "MaQu<2955><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:46:23: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/03/2013 - 08:46:44: [amxbans_core.amxx] Login: "MaQu<2973><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:46:53: [amxbans_core.amxx] Login: "MaQu<2976><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:46:59: [amxbans_core.amxx] Login: "MaQu<2976><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:48:13: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:51:00: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:53:27: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:54:50: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 08:58:33: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:00:51: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:03:49: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:05:53: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:06:13: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:09:00: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:13:11: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:16:50: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:20:44: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:24:36: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:28:13: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:32:46: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:35:02: [afkdf.amxx] FerdeKK KjepSkIi zostal wywalony za bycie AFK przez 90 sekund
+L 11/03/2013 - 09:38:53: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)
+L 11/03/2013 - 09:43:52: [amxbans_core.amxx] Login: "MaQu<2982><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.235.120") (nick "MaQu") (static 0)

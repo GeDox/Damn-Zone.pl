@@ -1,0 +1,23 @@
+
+
+
+DebugAssert, Name: ?, Line: 1106, Expr: "open for read/write failed in CreateFile" && !pchErr, File: /home/buildbot/buildslave_steam/steam2_rel_beta_linux/build/Projects/GazelleProto/Client/Engine/../../../Common/Misc/PosixWin32.cpp
+
+CsComm        Session               Oct-25-2013  20:28:08.968  [3063409520]  ReconnectThread (3063409520) Starting
+
+DebugAssert, Name: ?, Line: 4618, Expr: lReleaseCount >= 1, File: /home/buildbot/buildslave_steam/steam2_rel_beta_linux/build/Projects/GazelleProto/Client/Engine/../../../Common/Misc/PosixWin32.cpp
+
+
+DebugAssert, Name: ?, Line: 4627, Expr: pSem->m_pPThreadSem->m_cSem > 0, File: /home/buildbot/buildslave_steam/steam2_rel_beta_linux/build/Projects/GazelleProto/Client/Engine/../../../Common/Misc/PosixWin32.cpp
+
+CsComm        Session               Oct-25-2013  20:29:44.114  [3063409520]  ReconnectThread (3063409520) Told to exit
+
+
+CsComm        Session               Oct-25-2013  20:31:00.104  [3063487344]  ReconnectThread (3063487344) Starting
+
+DebugAssert, Name: ?, Line: 4618, Expr: lReleaseCount >= 1, File: /home/buildbot/buildslave_steam/steam2_rel_beta_linux/build/Projects/GazelleProto/Client/Engine/../../../Common/Misc/PosixWin32.cpp
+
+
+DebugAssert, Name: ?, Line: 4627, Expr: pSem->m_pPThreadSem->m_cSem > 0, File: /home/buildbot/buildslave_steam/steam2_rel_beta_linux/build/Projects/GazelleProto/Client/Engine/../../../Common/Misc/PosixWin32.cpp
+
+CsComm        Session               Oct-25-2013  20:36:40.582  [3063487344]  ReconnectThread (3063487344) Told to exit

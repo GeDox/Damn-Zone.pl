@@ -1,0 +1,64 @@
+L 10/27/2013 - 12:19:44: Log file started (file "logs/L1027000.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 10/27/2013 - 12:19:44: Server cvar "pb_welcomemsgs" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_usespeech" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_minbots" = "10"
+L 10/27/2013 - 12:19:44: Server cvar "pb_maxbots" = "10"
+L 10/27/2013 - 12:19:44: Server cvar "pb_bot_quota_match" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_bot_join_team" = "T"
+L 10/27/2013 - 12:19:44: Server cvar "pb_timer_sound" = "0.5"
+L 10/27/2013 - 12:19:44: Server cvar "pb_spray" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_numfollowuser" = "5"
+L 10/27/2013 - 12:19:44: Server cvar "pb_minbotskill" = "100"
+L 10/27/2013 - 12:19:44: Server cvar "pb_maxweaponpickup" = "1"
+L 10/27/2013 - 12:19:44: Server cvar "pb_autokill" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_autokilldelay" = "45"
+L 10/27/2013 - 12:19:44: Server cvar "pb_jasonmode" = "1"
+L 10/27/2013 - 12:19:44: Server cvar "pb_dangerfactor" = "1250"
+L 10/27/2013 - 12:19:44: Server cvar "pb_chat" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "pb_radio" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "sv_contact" = "bok@amxx.pl"
+L 10/27/2013 - 12:19:44: Server cvar "sv_proxies" = "2"
+L 10/27/2013 - 12:19:44: Server cvar "sv_region" = "3"
+L 10/27/2013 - 12:19:44: Server cvar "sv_maxrate" = "25000"
+L 10/27/2013 - 12:19:44: Server cvar "mp_logdetail" = "3"
+L 10/27/2013 - 12:19:44: Server cvar "sv_logblocks" = "1"
+L 10/27/2013 - 12:19:44: Server cvar "mp_autoteambalance" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "mp_buytime" = "0.35"
+L 10/27/2013 - 12:19:44: Server cvar "mp_c4timer" = "35"
+L 10/27/2013 - 12:19:44: Server cvar "mp_flashlight" = "1"
+L 10/27/2013 - 12:19:44: Server cvar "mp_freezetime" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "mp_hostagepenalty" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "mp_limitteams" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "mp_roundtime" = "2.00"
+L 10/27/2013 - 12:19:44: Server cvar "sv_maxspeed" = "320"
+L 10/27/2013 - 12:19:44: Server cvar "allow_spectators" = "1"
+L 10/27/2013 - 12:19:44: Server cvar "mp_autokick" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "mp_chattime" = "3"
+L 10/27/2013 - 12:19:44: Server cvar "sv_aim" = "0"
+L 10/27/2013 - 12:19:44: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 10/27/2013 - 12:19:44: Server cvar "max_queries_window" = "***PROTECTED***"
+L 10/27/2013 - 12:19:49: "MamCieKotku<1><BOT><>" entered the game
+L 10/27/2013 - 12:19:49: "MamCieKotku<1><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:19:50: "LowcaGlow<2><BOT><>" entered the game
+L 10/27/2013 - 12:19:50: "LowcaGlow<2><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:19:50: "GdzieMojMozg<3><BOT><>" entered the game
+L 10/27/2013 - 12:19:51: "Kasztan<4><BOT><>" entered the game
+L 10/27/2013 - 12:19:51: "Drago<5><BOT><>" entered the game
+L 10/27/2013 - 12:19:52: "Urgash<6><BOT><>" entered the game
+L 10/27/2013 - 12:19:52: World triggered "Round_Start"
+L 10/27/2013 - 12:19:52: "OddajSwojeSerce<7><BOT><>" entered the game
+L 10/27/2013 - 12:19:53: "MiszczJest1<8><BOT><>" entered the game
+L 10/27/2013 - 12:19:53: "Troll<9><BOT><>" entered the game
+L 10/27/2013 - 12:19:54: "fatal1TY<10><BOT><>" entered the game
+L 10/27/2013 - 12:20:05: [DPROTO]: Client 10 - Set AuthIdType 1 [Native]; pClient = 0xb39b4490
+L 10/27/2013 - 12:20:05: "Mlody<11><STEAM_0:1:41431957><>" connected, address "87.207.95.225:27005"
+L 10/27/2013 - 12:20:17: "Mlody<11><STEAM_0:1:41431957><>" entered the game
+L 10/27/2013 - 12:20:21: "Mlody<11><STEAM_0:1:41431957><>" joined team "CT"
+L 10/27/2013 - 12:20:22: World triggered "Game_Commencing"
+L 10/27/2013 - 12:20:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 10/27/2013 - 12:20:22: World triggered "Round_End"
+L 10/27/2013 - 12:20:22: "GdzieMojMozg<3><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:20:22: "Kasztan<4><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:20:22: "Drago<5><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:20:22: "Urgash<6><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 12:20:22: "OddajSwojeSer

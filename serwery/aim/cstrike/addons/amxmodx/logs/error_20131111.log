@@ -1,0 +1,49 @@
+L 11/11/2013 - 10:04:40: Start of error session.
+L 11/11/2013 - 10:04:40: Info (map "aim_ak47") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 10:04:40: Player 3 is not ingame
+L 11/11/2013 - 10:04:40: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 10:04:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 11:11:05: Start of error session.
+L 11/11/2013 - 11:11:05: Info (map "aim_aztec") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 11:11:05: Player 1 is not ingame
+L 11/11/2013 - 11:11:05: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 11:11:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 11:49:15: Start of error session.
+L 11/11/2013 - 11:49:15: Info (map "aim_b0n0") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 11:49:15: Player 3 is not ingame
+L 11/11/2013 - 11:49:15: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 11:49:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 12:29:33: Start of error session.
+L 11/11/2013 - 12:29:33: Info (map "aim_crazyjump") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 12:29:33: Player 1 is not ingame
+L 11/11/2013 - 12:29:33: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 12:29:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 13:39:15: Start of error session.
+L 11/11/2013 - 13:39:15: Info (map "aim_famas_x") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 13:39:15: Player 1 is not ingame
+L 11/11/2013 - 13:39:15: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 13:39:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 13:45:12: Player 1 is not ingame
+L 11/11/2013 - 13:45:12: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 13:45:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 14:27:05: Player 5 is not ingame
+L 11/11/2013 - 14:27:05: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 14:27:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 14:57:08: Start of error session.
+L 11/11/2013 - 14:57:08: Info (map "aim_ak47") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 14:57:08: Player 5 is not ingame
+L 11/11/2013 - 14:57:08: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 14:57:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 18:28:46: Start of error session.
+L 11/11/2013 - 18:28:46: Info (map "aim_taliban") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 18:28:46: Player 1 is not ingame
+L 11/11/2013 - 18:28:46: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 18:28:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 19:40:33: Start of error session.
+L 11/11/2013 - 19:40:33: Info (map "awp_india") (file "addons/amxmodx/logs/error_20131111.log")
+L 11/11/2013 - 19:40:33: Player 1 is not ingame
+L 11/11/2013 - 19:40:33: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 19:40:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/11/2013 - 20:06:18: Player 1 is not ingame
+L 11/11/2013 - 20:06:18: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/11/2013 - 20:06:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

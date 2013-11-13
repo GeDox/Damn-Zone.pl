@@ -1,0 +1,181 @@
+L 10/27/2013 - 19:41:16: Log file started (file "logs/L1027002.log") (game "cstrike") (version "48/1.1.2.6/Stdio/5787")
+L 10/27/2013 - 19:41:16: Server cvar "pb_welcomemsgs" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_usespeech" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_minbots" = "10"
+L 10/27/2013 - 19:41:16: Server cvar "pb_maxbots" = "10"
+L 10/27/2013 - 19:41:16: Server cvar "pb_bot_quota_match" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_bot_join_team" = "T"
+L 10/27/2013 - 19:41:16: Server cvar "pb_timer_sound" = "0.5"
+L 10/27/2013 - 19:41:16: Server cvar "pb_spray" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_numfollowuser" = "5"
+L 10/27/2013 - 19:41:16: Server cvar "pb_minbotskill" = "100"
+L 10/27/2013 - 19:41:16: Server cvar "pb_maxweaponpickup" = "1"
+L 10/27/2013 - 19:41:16: Server cvar "pb_autokill" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_autokilldelay" = "45"
+L 10/27/2013 - 19:41:16: Server cvar "pb_jasonmode" = "1"
+L 10/27/2013 - 19:41:16: Server cvar "pb_dangerfactor" = "1250"
+L 10/27/2013 - 19:41:16: Server cvar "pb_chat" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "pb_radio" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "sv_contact" = "bok@amxx.pl"
+L 10/27/2013 - 19:41:16: Server cvar "sv_proxies" = "2"
+L 10/27/2013 - 19:41:16: Server cvar "sv_region" = "3"
+L 10/27/2013 - 19:41:16: Server cvar "sv_maxrate" = "25000"
+L 10/27/2013 - 19:41:16: Server cvar "mp_logdetail" = "3"
+L 10/27/2013 - 19:41:16: Server cvar "sv_logblocks" = "1"
+L 10/27/2013 - 19:41:16: Server cvar "mp_autoteambalance" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "mp_buytime" = "0.35"
+L 10/27/2013 - 19:41:16: Server cvar "mp_c4timer" = "35"
+L 10/27/2013 - 19:41:16: Server cvar "mp_flashlight" = "1"
+L 10/27/2013 - 19:41:16: Server cvar "mp_freezetime" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "mp_hostagepenalty" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "mp_limitteams" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "mp_roundtime" = "2.00"
+L 10/27/2013 - 19:41:16: Server cvar "sv_maxspeed" = "320"
+L 10/27/2013 - 19:41:16: Server cvar "allow_spectators" = "1"
+L 10/27/2013 - 19:41:16: Server cvar "mp_autokick" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "mp_chattime" = "3"
+L 10/27/2013 - 19:41:16: Server cvar "sv_aim" = "0"
+L 10/27/2013 - 19:41:16: Server cvar "max_queries_sec" = "***PROTECTED***"
+L 10/27/2013 - 19:41:16: Server cvar "max_queries_window" = "***PROTECTED***"
+L 10/27/2013 - 19:41:18: Your server will be restarted on map change.
+L 10/27/2013 - 19:41:20: "MiszczJest1<1><BOT><>" entered the game
+L 10/27/2013 - 19:41:20: "MiszczJest1<1><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:41:21: "M3fisto<2><BOT><>" entered the game
+L 10/27/2013 - 19:41:21: "M3fisto<2><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:41:21: "Drago<3><BOT><>" entered the game
+L 10/27/2013 - 19:41:22: "TryAgain<4><BOT><>" entered the game
+L 10/27/2013 - 19:41:22: "GdzieMojMozg<5><BOT><>" entered the game
+L 10/27/2013 - 19:41:23: "Cherry Lady<6><BOT><>" entered the game
+L 10/27/2013 - 19:41:23: World triggered "Round_Start"
+L 10/27/2013 - 19:41:23: "Troll<7><BOT><>" entered the game
+L 10/27/2013 - 19:41:24: "Kasztan<8><BOT><>" entered the game
+L 10/27/2013 - 19:41:24: "MamCieKotku<9><BOT><>" entered the game
+L 10/27/2013 - 19:41:25: "fatal1TY<10><BOT><>" entered the game
+L 10/27/2013 - 19:41:33: Your server will be restarted on map change.
+L 10/27/2013 - 19:41:53: [DPROTO]: Client 10 - Set AuthIdType 1 [dp_RevEmu]; pClient = 0xb39dd490
+L 10/27/2013 - 19:41:53: "Bara Bara :D<11><STEAM_0:0:334021570><>" connected, address "79.191.188.253:27005"
+L 10/27/2013 - 19:42:03: "Bara Bara :D<11><STEAM_0:0:334021570><>" entered the game
+L 10/27/2013 - 19:42:20: "Bara Bara :D<11><STEAM_0:0:334021570><>" joined team "CT"
+L 10/27/2013 - 19:42:21: World triggered "Game_Commencing"
+L 10/27/2013 - 19:42:21: World triggered "Game_Commencing" (CT "0") (T "0")
+L 10/27/2013 - 19:42:21: World triggered "Round_End"
+L 10/27/2013 - 19:42:21: "Drago<3><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "TryAgain<4><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "GdzieMojMozg<5><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "Cherry Lady<6><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "Troll<7><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "Kasztan<8><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "MamCieKotku<9><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:21: "fatal1TY<10><BOT><>" joined team "TERRORIST"
+L 10/27/2013 - 19:42:23: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "witam" (dead)
+L 10/27/2013 - 19:42:24: World triggered "Round_Start"
+L 10/27/2013 - 19:42:27: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "co sie stalo ?"
+L 10/27/2013 - 19:42:42: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MiszczJest1<1><BOT><TERRORIST>" with "usp" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 10/27/2013 - 19:42:42: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "MiszczJest1<1><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:42:45: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Drago<3><BOT><TERRORIST>" with "usp" (damage "132") (damage_armor "0") (health "-32") (armor "0")
+L 10/27/2013 - 19:42:45: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Drago<3><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:42:50: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Cherry Lady<6><BOT><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 10/27/2013 - 19:42:54: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Cherry Lady<6><BOT><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 10/27/2013 - 19:42:54: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Cherry Lady<6><BOT><TERRORIST>" with "knife"
+L 10/27/2013 - 19:43:01: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "lola"
+L 10/27/2013 - 19:43:07: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 10/27/2013 - 19:43:08: "GdzieMojMozg<5><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 10/27/2013 - 19:43:12: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "usp" (damage "124") (damage_armor "0") (health "-39") (armor "0")
+L 10/27/2013 - 19:43:12: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "GdzieMojMozg<5><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:43:17: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 10/27/2013 - 19:43:17: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "42") (armor "0")
+L 10/27/2013 - 19:43:18: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "usp" (damage "112") (damage_armor "0") (health "-70") (armor "0")
+L 10/27/2013 - 19:43:18: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "TryAgain<4><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:43:20: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "usp" (damage "112") (damage_armor "0") (health "-12") (armor "0")
+L 10/27/2013 - 19:43:20: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "M3fisto<2><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:43:23: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MamCieKotku<9><BOT><TERRORIST>" with "usp" (damage "100") (damage_armor "0") (health "0") (armor "0")
+L 10/27/2013 - 19:43:23: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "MamCieKotku<9><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:43:34: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "ja siocgam battlefield bad company 2 :D"
+L 10/27/2013 - 19:43:40: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "usp" (damage "128") (damage_armor "0") (health "-33") (armor "0")
+L 10/27/2013 - 19:43:40: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "fatal1TY<10><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:43:46: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Kasztan<8><BOT><TERRORIST>" with "usp" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 10/27/2013 - 19:43:46: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Kasztan<8><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:44:01: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Troll<7><BOT><TERRORIST>" with "usp" (damage "120") (damage_armor "0") (health "-22") (armor "0")
+L 10/27/2013 - 19:44:01: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Troll<7><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:44:01: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 10/27/2013 - 19:44:01: World triggered "Round_End"
+L 10/27/2013 - 19:44:06: World triggered "Round_Start"
+L 10/27/2013 - 19:44:20: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Drago<3><BOT><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 10/27/2013 - 19:44:20: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Drago<3><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:22: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 10/27/2013 - 19:44:22: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "GdzieMojMozg<5><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:25: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Cherry Lady<6><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:44:25: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Cherry Lady<6><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:31: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Troll<7><BOT><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 10/27/2013 - 19:44:31: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Troll<7><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:32: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Kasztan<8><BOT><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 10/27/2013 - 19:44:32: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Kasztan<8><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:40: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 10/27/2013 - 19:44:40: "TryAgain<4><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 10/27/2013 - 19:44:40: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 10/27/2013 - 19:44:41: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-92") (armor "0")
+L 10/27/2013 - 19:44:41: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "TryAgain<4><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:44: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 10/27/2013 - 19:44:46: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MiszczJest1<1><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 10/27/2013 - 19:44:46: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MiszczJest1<1><BOT><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-59") (armor "0")
+L 10/27/2013 - 19:44:46: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "MiszczJest1<1><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:47: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 10/27/2013 - 19:44:47: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "4") (armor "0")
+L 10/27/2013 - 19:44:47: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-28") (armor "0")
+L 10/27/2013 - 19:44:47: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "fatal1TY<10><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:44:57: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MamCieKotku<9><BOT><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 10/27/2013 - 19:44:59: "MamCieKotku<9><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "55") (damage_armor "5") (health "-10") (armor "90")
+L 10/27/2013 - 19:44:59: "MamCieKotku<9><BOT><TERRORIST>" killed "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife"
+L 10/27/2013 - 19:44:59: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 10/27/2013 - 19:44:59: World triggered "Round_End"
+L 10/27/2013 - 19:45:01: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "LD LDL" (dead)
+L 10/27/2013 - 19:45:04: World triggered "Round_Start"
+L 10/27/2013 - 19:45:24: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MiszczJest1<1><BOT><TERRORIST>" with "awp" (damage "448") (damage_armor "0") (health "-348") (armor "0")
+L 10/27/2013 - 19:45:24: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "MiszczJest1<1><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:45:31: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Cherry Lady<6><BOT><TERRORIST>" with "usp" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:45:31: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Cherry Lady<6><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:45:33: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "usp" (damage "29") (damage_armor "0") (health "71") (armor "0")
+L 10/27/2013 - 19:45:34: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "TryAgain<4><BOT><TERRORIST>" with "usp" (damage "120") (damage_armor "0") (health "-49") (armor "0")
+L 10/27/2013 - 19:45:34: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "TryAgain<4><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:45:36: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "usp" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:45:36: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "M3fisto<2><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:45:39: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Kasztan<8><BOT><TERRORIST>" with "usp" (damage "116") (damage_armor "0") (health "-16") (armor "0")
+L 10/27/2013 - 19:45:39: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Kasztan<8><BOT><TERRORIST>" with "usp"
+L 10/27/2013 - 19:45:40: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "usp" (damage "88") (damage_armor "0") (health "12") (armor "0")
+L 10/27/2013 - 19:45:48: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "fatal1TY<10><BOT><TERRORIST>" with "awp" (damage "456") (damage_armor "0") (health "-356") (armor "0")
+L 10/27/2013 - 19:45:48: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "fatal1TY<10><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:45:51: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Drago<3><BOT><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-14") (armor "0")
+L 10/27/2013 - 19:45:51: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Drago<3><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:45:59: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "awp" (damage "114") (damage_armor "0") (health "-102") (armor "0")
+L 10/27/2013 - 19:45:59: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "GdzieMojMozg<5><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:46:05: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "MamCieKotku<9><BOT><TERRORIST>" with "awp" (damage "452") (damage_armor "0") (health "-352") (armor "0")
+L 10/27/2013 - 19:46:05: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "MamCieKotku<9><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:46:12: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Troll<7><BOT><TERRORIST>" with "awp" (damage "56") (damage_armor "0") (health "44") (armor "0")
+L 10/27/2013 - 19:46:14: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Troll<7><BOT><TERRORIST>" with "awp" (damage "456") (damage_armor "0") (health "-412") (armor "0")
+L 10/27/2013 - 19:46:14: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Troll<7><BOT><TERRORIST>" with "awp"
+L 10/27/2013 - 19:46:14: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 10/27/2013 - 19:46:14: World triggered "Round_End"
+L 10/27/2013 - 19:46:19: World triggered "Round_Start"
+L 10/27/2013 - 19:46:19: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" say "hahaah"
+L 10/27/2013 - 19:46:32: Your server will be restarted on map change.
+L 10/27/2013 - 19:46:38: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Cherry Lady<6><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:46:38: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Cherry Lady<6><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:46:42: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 10/27/2013 - 19:46:43: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 10/27/2013 - 19:46:44: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "GdzieMojMozg<5><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-55") (armor "0")
+L 10/27/2013 - 19:46:44: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "GdzieMojMozg<5><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:46:50: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "39") (armor "0")
+L 10/27/2013 - 19:46:50: "Drago<3><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "55") (damage_armor "5") (health "45") (armor "95")
+L 10/27/2013 - 19:46:51: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Drago<3><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:46:51: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Drago<3><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:46:52: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "m4a1" (damage "31") (damage_armor "0") (health "8") (armor "0")
+L 10/27/2013 - 19:47:00: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "M3fisto<2><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-116") (armor "0")
+L 10/27/2013 - 19:47:00: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "M3fisto<2><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:47:03: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Troll<7><BOT><TERRORIST>" with "m4a1" (damage "120") (damage_armor "0") (health "-20") (armor "0")
+L 10/27/2013 - 19:47:03: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Troll<7><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:47:05: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" attacked "Kasztan<8><BOT><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 10/27/2013 - 19:47:05: "Bara Bara :D<11><STEAM_0:0:334021570><CT>" killed "Kasztan<8><BOT><TERRORIST>" with "m4a1"
+L 10/27/2013 - 19:47:07: "MiszczJest1<1><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "12") (damage_armor "1") (health "33") (armor "94")
+L 10/27/2013 - 19:47:08: "MiszczJest1<1><BOT><TERRORIST>" attacked "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife" (damage "51") (damage_armor "5") (health "-18") (armor "89")
+L 10/27/2013 - 19:47:08: "MiszczJest1<1><BOT><TERRORIST>" killed "Bara Bara :D<11><STEAM_0:0:334021570><CT>" with "knife"
+L 10/27/2013 -

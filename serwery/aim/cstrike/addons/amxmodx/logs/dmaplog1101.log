@@ -1,0 +1,541 @@
+L 11/01/2013 - 00:10:12: Log file started (file "cstrike/addons/amxmodx/logs/dmaplog1101.log") (game "cstrike") (amx "1.8.1.3711")
+L 11/01/2013 - 00:10:12: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 00:10:13: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 00:10:13: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 00:10:13: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 00:33:25: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 00:33:25: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 00:33:25: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 00:33:25: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 00:33:25: Vote: Voting for the nextmap started
+L 11/01/2013 - 00:33:45: Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/01/2013 - 00:34:20: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 00:34:20: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 00:34:20: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 00:34:20: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 00:57:32: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 00:57:32: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 00:57:32: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 00:57:32: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 00:57:32: Vote: Voting for the nextmap started
+L 11/01/2013 - 00:57:52: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/01/2013 - 00:58:28: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 00:58:28: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 00:58:28: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 00:58:28: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 01:21:40: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 01:21:41: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 6 are custom
+L 11/01/2013 - 01:21:41: Randomly Filling slots for the vote with 5 out of 18
+L 11/01/2013 - 01:21:41: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 01:21:41: Vote: Voting for the nextmap started
+L 11/01/2013 - 01:22:01: Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/01/2013 - 01:22:43: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 01:22:44: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 01:22:44: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 01:22:44: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 01:45:56: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 01:45:56: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 01:45:56: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 01:45:56: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 01:45:56: Vote: Voting for the nextmap started
+L 11/01/2013 - 01:46:16: Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/01/2013 - 01:46:52: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 01:46:52: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 01:46:52: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 01:46:52: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 02:10:05: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 02:10:05: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 02:10:05: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 02:10:05: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 02:10:05: Vote: Voting for the nextmap started
+L 11/01/2013 - 02:10:25: Vote: Voting for the nextmap finished. The nextmap will be aim_fixit_deagle
+L 11/01/2013 - 02:11:00: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 02:11:00: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 02:11:00: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 02:11:01: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 02:34:13: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 02:34:13: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 6 are custom
+L 11/01/2013 - 02:34:13: Randomly Filling slots for the vote with 5 out of 18
+L 11/01/2013 - 02:34:13: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 02:34:13: Vote: Voting for the nextmap started
+L 11/01/2013 - 02:34:33: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/01/2013 - 02:35:09: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 02:35:09: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 02:35:09: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 02:35:10: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 02:58:22: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 02:58:22: Filled 21 slots in the fill maps array with maps from mapcycle.txt, 9 are custom
+L 11/01/2013 - 02:58:22: Randomly Filling slots for the vote with 5 out of 21
+L 11/01/2013 - 02:58:22: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 02:58:22: Vote: Voting for the nextmap started
+L 11/01/2013 - 02:58:42: Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/01/2013 - 02:59:17: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 02:59:17: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 02:59:17: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 02:59:17: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 03:22:29: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 03:22:29: Filled 17 slots in the fill maps array with maps from mapcycle.txt, 5 are custom
+L 11/01/2013 - 03:22:29: Randomly Filling slots for the vote with 5 out of 17
+L 11/01/2013 - 03:22:29: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 03:22:29: Vote: Voting for the nextmap started
+L 11/01/2013 - 03:22:49: Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/01/2013 - 03:23:24: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 03:23:24: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 03:23:24: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 03:23:24: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 03:46:37: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 03:46:37: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 03:46:37: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 03:46:37: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 03:46:37: Vote: Voting for the nextmap started
+L 11/01/2013 - 03:46:57: Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/01/2013 - 03:47:33: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 03:47:33: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 03:47:33: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 03:47:33: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 04:10:45: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 04:10:45: Filled 19 slots in the fill maps array with maps from mapcycle.txt, 7 are custom
+L 11/01/2013 - 04:10:45: Randomly Filling slots for the vote with 5 out of 19
+L 11/01/2013 - 04:10:45: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 04:10:45: Vote: Voting for the nextmap started
+L 11/01/2013 - 04:11:05: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/01/2013 - 04:11:40: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 04:11:40: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 04:11:40: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 04:11:40: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 04:34:53: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 04:34:53: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 04:34:53: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 04:34:53: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 04:34:53: Vote: Voting for the nextmap started
+L 11/01/2013 - 04:35:13: Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/01/2013 - 04:35:48: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 04:35:48: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 04:35:48: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 04:35:48: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 04:59:00: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 04:59:00: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 6 are custom
+L 11/01/2013 - 04:59:00: Randomly Filling slots for the vote with 5 out of 18
+L 11/01/2013 - 04:59:00: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 04:59:00: Vote: Voting for the nextmap started
+L 11/01/2013 - 04:59:20: Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/01/2013 - 04:59:55: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 04:59:55: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 04:59:55: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 04:59:56: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 05:23:08: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 05:23:08: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 05:23:08: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 05:23:08: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 05:23:08: Vote: Voting for the nextmap started
+L 11/01/2013 - 05:23:28: Vote: Voting for the nextmap finished. The nextmap will be aim_fixit_deagle
+L 11/01/2013 - 05:24:02: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 05:24:02: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 05:24:02: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 05:24:03: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 05:47:15: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 05:47:15: Filled 17 slots in the fill maps array with maps from mapcycle.txt, 5 are custom
+L 11/01/2013 - 05:47:15: Randomly Filling slots for the vote with 5 out of 17
+L 11/01/2013 - 05:47:15: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 05:47:15: Vote: Voting for the nextmap started
+L 11/01/2013 - 05:47:35: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/01/2013 - 05:48:10: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 05:48:10: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 05:48:10: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 05:48:10: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 06:11:23: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 06:11:23: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 06:11:23: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 06:11:23: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 06:11:23: Vote: Voting for the nextmap started
+L 11/01/2013 - 06:11:43: Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/01/2013 - 06:12:18: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 06:12:18: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 06:12:18: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 06:12:18: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 06:35:30: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 06:35:30: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 06:35:30: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 06:35:30: Filled 5 vote slots with random maps, 5 are custom
+L 11/01/2013 - 06:35:30: Vote: Voting for the nextmap started
+L 11/01/2013 - 06:35:50: Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/01/2013 - 06:36:25: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 06:36:25: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 06:36:25: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 06:36:25: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 06:59:38: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 06:59:38: Filled 19 slots in the fill maps array with maps from mapcycle.txt, 7 are custom
+L 11/01/2013 - 06:59:38: Randomly Filling slots for the vote with 5 out of 19
+L 11/01/2013 - 06:59:38: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 06:59:38: Vote: Voting for the nextmap started
+L 11/01/2013 - 06:59:58: Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/01/2013 - 07:00:34: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 07:00:34: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 07:00:34: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 07:00:35: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 07:23:47: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 07:23:47: Filled 21 slots in the fill maps array with maps from mapcycle.txt, 9 are custom
+L 11/01/2013 - 07:23:47: Randomly Filling slots for the vote with 5 out of 21
+L 11/01/2013 - 07:23:47: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 07:23:47: Vote: Voting for the nextmap started
+L 11/01/2013 - 07:24:07: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/01/2013 - 07:24:43: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 07:24:43: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 07:24:43: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 07:24:43: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 07:47:56: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 07:47:56: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 07:47:56: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 07:47:56: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 07:47:56: Vote: Voting for the nextmap started
+L 11/01/2013 - 07:48:16: Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/01/2013 - 07:48:51: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 07:48:51: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 07:48:51: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 07:48:51: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 08:12:03: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 08:12:03: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 08:12:03: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 08:12:03: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 08:12:03: Vote: Voting for the nextmap started
+L 11/01/2013 - 08:12:23: Vote: Voting for the nextmap finished. The nextmap will be aim_map_glock
+L 11/01/2013 - 08:13:10: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 08:13:10: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 08:13:10: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 08:13:10: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 08:20:45: Time limit changed to 9 to enable vote to occur now
+L 11/01/2013 - 08:20:56: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 08:20:56: Filled 21 slots in the fill maps array with maps from mapcycle.txt, 9 are custom
+L 11/01/2013 - 08:20:56: Randomly Filling slots for the vote with 5 out of 21
+L 11/01/2013 - 08:20:56: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 08:20:56: Vote: Voting for the nextmap started
+L 11/01/2013 - 08:21:16: Vote: Voting for the nextmap finished. The nextmap will be de_piranesi
+L 11/01/2013 - 08:21:37: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 08:21:37: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 08:21:37: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 08:21:37: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 08:33:29: Time limit changed to 7 to enable vote to occur now
+L 11/01/2013 - 08:33:40: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 08:33:40: Filled 15 slots in the fill maps array with maps from mapcycle.txt, 3 are custom
+L 11/01/2013 - 08:33:40: Randomly Filling slots for the vote with 5 out of 15
+L 11/01/2013 - 08:33:40: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 08:33:40: Vote: Voting for the nextmap started
+L 11/01/2013 - 08:34:00: Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 11/01/2013 - 08:34:22: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 08:34:22: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 08:34:22: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 08:34:22: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 08:57:50: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 08:57:50: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 08:57:50: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 08:57:50: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 08:57:50: Vote: Voting for the nextmap started
+L 11/01/2013 - 08:58:10: Vote: Voting for the nextmap finished. The nextmap will be awp_warzone
+L 11/01/2013 - 08:58:48: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 08:58:48: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 08:58:48: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 08:58:48: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 09:22:00: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 09:22:00: Filled 23 slots in the fill maps array with maps from mapcycle.txt, 11 are custom
+L 11/01/2013 - 09:22:00: Randomly Filling slots for the vote with 5 out of 23
+L 11/01/2013 - 09:22:00: Filled 5 vote slots with random maps, 4 are custom
+L 11/01/2013 - 09:22:00: Vote: Voting for the nextmap started
+L 11/01/2013 - 09:22:20: Vote: Voting for the nextmap finished. The nextmap will be awp_warzone
+L 11/01/2013 - 09:22:54: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 09:22:54: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 09:22:54: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 09:22:55: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 44 are available for filling slots
+L 11/01/2013 - 09:59:52: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 09:59:52: Filled 25 slots in the fill maps array with maps from mapcycle.txt, 13 are custom
+L 11/01/2013 - 09:59:52: Randomly Filling slots for the vote with 5 out of 25
+L 11/01/2013 - 09:59:52: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 09:59:52: Vote: Voting for the nextmap started
+L 11/01/2013 - 10:00:12: Vote: Voting for the nextmap finished. The nextmap will be awp_warzone
+L 11/01/2013 - 10:00:53: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 10:00:53: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 10:00:53: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 10:00:53: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 45 are available for filling slots
+L 11/01/2013 - 10:24:06: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 10:24:06: Filled 21 slots in the fill maps array with maps from mapcycle.txt, 9 are custom
+L 11/01/2013 - 10:24:06: Randomly Filling slots for the vote with 5 out of 21
+L 11/01/2013 - 10:24:06: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 10:24:06: Vote: Voting for the nextmap started
+L 11/01/2013 - 10:24:26: Vote: Voting for the nextmap finished. The nextmap will be awp_warzone
+L 11/01/2013 - 10:25:00: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 10:25:00: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 10:25:00: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 10:25:00: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 46 are available for filling slots
+L 11/01/2013 - 11:26:43: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 11:26:43: Filled 25 slots in the fill maps array with maps from mapcycle.txt, 13 are custom
+L 11/01/2013 - 11:26:43: Randomly Filling slots for the vote with 5 out of 25
+L 11/01/2013 - 11:26:43: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 11:26:43: Vote: Voting for the nextmap started
+L 11/01/2013 - 11:27:03: Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/01/2013 - 11:27:41: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 11:27:41: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 11:27:41: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 11:27:41: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 46 are available for filling slots
+L 11/01/2013 - 11:50:53: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 11:50:54: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 11:50:54: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 11:50:54: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 11:50:54: Vote: Voting for the nextmap started
+L 11/01/2013 - 11:51:13: Vote: Voting for the nextmap finished. The nextmap will be aim_fixit_deagle
+L 11/01/2013 - 11:51:48: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 11:51:48: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 11:51:48: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 11:51:49: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 45 are available for filling slots
+L 11/01/2013 - 12:15:01: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 12:15:01: Filled 23 slots in the fill maps array with maps from mapcycle.txt, 11 are custom
+L 11/01/2013 - 12:15:01: Randomly Filling slots for the vote with 5 out of 23
+L 11/01/2013 - 12:15:01: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 12:15:01: Vote: Voting for the nextmap started
+L 11/01/2013 - 12:15:21: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/01/2013 - 12:15:56: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 12:15:56: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 12:15:56: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 12:15:56: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 44 are available for filling slots
+L 11/01/2013 - 12:39:08: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 12:39:09: Filled 23 slots in the fill maps array with maps from mapcycle.txt, 11 are custom
+L 11/01/2013 - 12:39:09: Randomly Filling slots for the vote with 5 out of 23
+L 11/01/2013 - 12:39:09: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 12:39:09: Vote: Voting for the nextmap started
+L 11/01/2013 - 12:39:29: Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/01/2013 - 12:40:03: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 12:40:03: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 12:40:03: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 12:40:03: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 13:03:15: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 13:03:16: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 13:03:16: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 13:03:16: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 13:03:16: Vote: Voting for the nextmap started
+L 11/01/2013 - 13:03:36: Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/01/2013 - 13:04:10: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 13:04:10: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 13:04:10: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 13:04:10: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 13:27:23: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 13:27:23: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 6 are custom
+L 11/01/2013 - 13:27:23: Randomly Filling slots for the vote with 5 out of 18
+L 11/01/2013 - 13:27:23: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 13:27:23: Vote: Voting for the nextmap started
+L 11/01/2013 - 13:27:43: Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/01/2013 - 13:28:17: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 13:28:17: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 13:28:17: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 13:28:18: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 13:51:30: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 13:51:30: Filled 21 slots in the fill maps array with maps from mapcycle.txt, 9 are custom
+L 11/01/2013 - 13:51:30: Randomly Filling slots for the vote with 5 out of 21
+L 11/01/2013 - 13:51:30: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 13:51:30: Vote: Voting for the nextmap started
+L 11/01/2013 - 13:51:50: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/01/2013 - 13:52:24: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 13:52:24: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 13:52:24: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 13:52:24: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 14:15:37: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 14:15:37: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 14:15:37: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 14:15:37: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 14:15:37: Vote: Voting for the nextmap started
+L 11/01/2013 - 14:15:57: Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/01/2013 - 14:16:31: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 14:16:31: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 14:16:31: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 14:16:32: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 14:37:53: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 14:37:53: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 14:37:53: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 14:37:53: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 15:00:42: Time limit changed to 17 to enable vote to occur now
+L 11/01/2013 - 15:01:06: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 15:01:06: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 6 are custom
+L 11/01/2013 - 15:01:06: Randomly Filling slots for the vote with 5 out of 18
+L 11/01/2013 - 15:01:06: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 15:01:06: Vote: Voting for the nextmap started
+L 11/01/2013 - 15:01:26: Vote: Voting for the nextmap finished. The nextmap will be aim_map_deagle
+L 11/01/2013 - 15:01:45: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 15:01:45: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 15:01:45: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 15:01:45: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 15:19:06: Time limit changed to 19 to enable vote to occur now
+L 11/01/2013 - 15:19:30: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 15:19:30: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 15:19:30: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 15:19:30: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 15:19:30: Vote: Voting for the nextmap started
+L 11/01/2013 - 15:19:50: Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 11/01/2013 - 15:20:17: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 15:20:17: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 15:20:17: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 15:20:18: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 15:37:53: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 15:37:53: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 15:37:53: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 15:37:53: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 15:54:33: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 15:54:33: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 15:54:33: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 15:54:33: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 16:10:27: Time limit changed to 17 to enable vote to occur now
+L 11/01/2013 - 16:10:51: Nominations for the map vote: 1 out of 5 possible nominations
+L 11/01/2013 - 16:10:52: Filled 18 slots in the fill maps array with maps from mapcycle.txt, 7 are custom
+L 11/01/2013 - 16:10:52: Randomly Filling slots for the vote with 4 out of 18
+L 11/01/2013 - 16:10:52: Filled 4 vote slots with random maps, 2 are custom
+L 11/01/2013 - 16:10:52: Vote: Voting for the nextmap started
+L 11/01/2013 - 16:11:12: Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/01/2013 - 16:11:31: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 16:11:31: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 16:11:31: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 16:11:31: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 16:36:41: Time limit changed to 9 to enable vote to occur now
+L 11/01/2013 - 16:37:12: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 16:37:12: Filled 20 slots in the fill maps array with maps from mapcycle.txt, 8 are custom
+L 11/01/2013 - 16:37:12: Randomly Filling slots for the vote with 5 out of 20
+L 11/01/2013 - 16:37:12: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 16:37:12: Vote: Voting for the nextmap started
+L 11/01/2013 - 16:37:32: Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/01/2013 - 16:37:52: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 16:37:52: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 16:37:52: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 16:37:52: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 16:46:17: Time limit changed to 10 to enable vote to occur now
+L 11/01/2013 - 16:46:27: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 16:46:27: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 16:46:27: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 16:46:27: Filled 5 vote slots with random maps, 4 are custom
+L 11/01/2013 - 16:46:27: Vote: Voting for the nextmap started
+L 11/01/2013 - 16:46:47: Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/01/2013 - 16:47:26: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 16:47:26: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 16:47:26: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 16:47:26: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 17:10:11: Time limit changed to 24 to enable vote to occur now
+L 11/01/2013 - 17:10:21: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 17:10:21: Filled 19 slots in the fill maps array with maps from mapcycle.txt, 7 are custom
+L 11/01/2013 - 17:10:21: Randomly Filling slots for the vote with 5 out of 19
+L 11/01/2013 - 17:10:21: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 17:10:21: Vote: Voting for the nextmap started
+L 11/01/2013 - 17:10:41: Vote: Voting for the nextmap finished. The nextmap will be aim_awp
+L 11/01/2013 - 17:10:56: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 17:10:56: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 17:10:56: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 17:10:57: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 17:54:15: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 17:54:15: Filled 17 slots in the fill maps array with maps from mapcycle.txt, 5 are custom
+L 11/01/2013 - 17:54:15: Randomly Filling slots for the vote with 5 out of 17
+L 11/01/2013 - 17:54:15: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 17:54:15: Vote: Voting for the nextmap started
+L 11/01/2013 - 17:54:35: Vote: Voting for the nextmap finished. Map aim_awp will be extended to next 15 minutes
+L 11/01/2013 - 17:56:24: Time limit changed to 27 to enable vote to occur now
+L 11/01/2013 - 17:56:48: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 17:56:48: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 17:56:48: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 17:56:48: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 17:56:48: Vote: Voting for the nextmap started
+L 11/01/2013 - 17:57:08: Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 11/01/2013 - 17:57:29: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 17:57:30: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 17:57:30: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 17:57:30: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 18:22:27: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 18:22:27: Filled 27 slots in the fill maps array with maps from mapcycle.txt, 15 are custom
+L 11/01/2013 - 18:22:27: Randomly Filling slots for the vote with 5 out of 27
+L 11/01/2013 - 18:22:27: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 18:22:27: Vote: Voting for the nextmap started
+L 11/01/2013 - 18:22:47: Vote: Voting for the nextmap finished. The nextmap will be 3d_AIM_TRAIN_A
+L 11/01/2013 - 18:23:28: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 18:23:28: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 18:23:28: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 18:23:29: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 18:46:41: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 18:46:41: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 18:46:41: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 18:46:41: Filled 5 vote slots with random maps, 3 are custom
+L 11/01/2013 - 18:46:41: Vote: Voting for the nextmap started
+L 11/01/2013 - 18:47:01: Vote: Voting for the nextmap finished. The nextmap will be 3d_AIM_TRAIN_B
+L 11/01/2013 - 18:47:36: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 18:47:36: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 18:47:36: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 18:47:36: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 18:48:19: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 18:48:19: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 18:48:19: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 18:48:19: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 18:53:15: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 18:53:15: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 18:53:15: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 18:53:16: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 19:06:02: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 19:06:02: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 19:06:02: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 19:06:03: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 19:43:15: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 19:43:15: Filled 19 slots in the fill maps array with maps from mapcycle.txt, 7 are custom
+L 11/01/2013 - 19:43:15: Randomly Filling slots for the vote with 5 out of 19
+L 11/01/2013 - 19:43:15: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 19:43:15: Vote: Voting for the nextmap started
+L 11/01/2013 - 19:43:35: Vote: Voting for the nextmap finished. The nextmap will be aim_aztec
+L 11/01/2013 - 19:44:10: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 19:44:10: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 19:44:10: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 19:44:10: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 20:07:23: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 20:07:23: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 20:07:23: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 20:07:23: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 20:07:23: Vote: Voting for the nextmap started
+L 11/01/2013 - 20:07:43: Vote: Voting for the nextmap finished. The nextmap will be aim_b0n0
+L 11/01/2013 - 20:08:18: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 20:08:18: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 20:08:18: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 20:08:19: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 20:31:31: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 20:31:31: Filled 17 slots in the fill maps array with maps from mapcycle.txt, 5 are custom
+L 11/01/2013 - 20:31:31: Randomly Filling slots for the vote with 5 out of 17
+L 11/01/2013 - 20:31:31: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 20:31:31: Vote: Voting for the nextmap started
+L 11/01/2013 - 20:31:51: Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/01/2013 - 20:32:26: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 20:32:26: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 20:32:26: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 20:32:26: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 20:55:38: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 20:55:38: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 20:55:38: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 20:55:38: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 20:55:38: Vote: Voting for the nextmap started
+L 11/01/2013 - 20:55:58: Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/01/2013 - 20:56:33: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 20:56:33: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 20:56:33: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 20:56:33: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 21:18:46: Time limit changed to 8 to enable vote to occur now
+L 11/01/2013 - 21:19:24: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 21:19:24: Filled 16 slots in the fill maps array with maps from mapcycle.txt, 4 are custom
+L 11/01/2013 - 21:19:24: Randomly Filling slots for the vote with 5 out of 16
+L 11/01/2013 - 21:19:24: Filled 5 vote slots with random maps, 0 are custom
+L 11/01/2013 - 21:19:24: Vote: Voting for the nextmap started
+L 11/01/2013 - 21:19:44: Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 11/01/2013 - 21:20:01: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 21:20:01: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 21:20:01: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 21:20:01: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 42 are available for filling slots
+L 11/01/2013 - 21:43:28: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 21:43:29: Filled 22 slots in the fill maps array with maps from mapcycle.txt, 10 are custom
+L 11/01/2013 - 21:43:29: Randomly Filling slots for the vote with 5 out of 22
+L 11/01/2013 - 21:43:29: Filled 5 vote slots with random maps, 1 are custom
+L 11/01/2013 - 21:43:29: Vote: Voting for the nextmap started
+L 11/01/2013 - 21:43:49: Vote: Voting for the nextmap finished. The nextmap will be awp_warzone
+L 11/01/2013 - 21:44:22: Did not ban any maps from mapstoban.ini file
+L 11/01/2013 - 21:44:22: Loaded 0 Maps into the maps that will be picked for the vote
+L 11/01/2013 - 21:44:22: 0 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 11/01/2013 - 21:44:22: Found 47 Maps in your mapcycle.txt/allmaps.txt file, 43 are available for filling slots
+L 11/01/2013 - 22:07:34: Nominations for the map vote: 0 out of 5 possible nominations
+L 11/01/2013 - 22:07:34: Filled 24 slots in the fill maps array with maps from mapcycle.txt, 12 are custom
+L 11/01/2013 - 22:07:34: Randomly Filling slots for the vote with 5 out of 24
+L 11/01/2013 - 22:07:34: Filled 5 vote slots with random maps, 2 are custom
+L 11/01/2013 - 22:07:34: Vote: Voting for the nextmap started
+L 11/01/2013 - 22:07:54: Vote: Voting for the nextmap finished. The nextmap will be awp_ruins

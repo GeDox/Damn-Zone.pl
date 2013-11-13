@@ -1,0 +1,453 @@
+L 11/04/2013 - 13:45:49: -------- Mapchange to de_inferno --------
+L 11/04/2013 - 13:45:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 13:45:57: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 13:45:58: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 13:45:58: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 13:45:58: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383572758,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 13:45:58: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 13:54:17: [afkdf.amxx] Laczek123 zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 14:21:27: [amxbans_core.amxx] Login: "Cr3@tive<21><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:21:31: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:24:29: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:27:36: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:32:51: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:37:58: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:42:43: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:47:43: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:53:48: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 14:58:38: [amxbans_core.amxx] Login: "Cr3@tive<22><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:00:23: [amxbans_core.amxx] Login: "MaQu<96><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:00:29: [amxbans_core.amxx] Login: "MaQu<97><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:02:32: [amxbans_core.amxx] Login: "Cr3@tive<102><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:03:20: [amxbans_core.amxx] Login: "MaQu<97><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:03:20: [amxbans_core.amxx] Login: "Cr3@tive<102><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:05:22: [amxbans_core.amxx] Login: "Cr3@tive<107><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:11:04: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:11:32: [amxbans_core.amxx] Login: "MaQu<97><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:11:32: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:11:36: -------- Mapchange to de_inferno --------
+L 11/04/2013 - 15:11:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 15:11:44: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 15:11:44: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 15:11:44: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:11:44: [amxbans_core.amxx] Login: "MaQu<97><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:11:44: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383577904,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 15:11:44: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 15:11:44: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 15:11:49: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:13:40: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:16:17: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:18:41: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:24:06: [amxbans_core.amxx] Login: "Cr3@tive<113><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:25:21: [amxbans_core.amxx] Login: "Cr3@tive<143><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:25:28: [amxbans_core.amxx] Login: "Cr3@tive<143><STEAM_ID_LAN><>" became an admin (account "Cr3@tive") (access "q") (address "188.125.131.16") (nick "Cr3@tive") (static 1)
+L 11/04/2013 - 15:30:48: [afkdf.amxx] marcinuseksex zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 15:43:58: [amxbans_core.amxx] Login: "MaQu<173><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:44:01: [amxbans_core.amxx] Login: "MaQu<174><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:44:13: [amxbans_core.amxx] Login: "MaQu<175><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:44:32: [amxbans_core.amxx] Login: "MaQu<176><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:45:10: [amxbans_core.amxx] Login: "MaQu<177><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:45:50: [amxbans_core.amxx] Login: "MaQu<179><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:45:53: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:48:18: [amxbans_core.amxx] Login: "GeDox<183><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 15:48:43: [amxbans_core.amxx] Login: "GeDox<184><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 15:49:56: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:50:14: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 15:50:52: [std_admin_color_chat.amxx] PM From: "GeDox<16><STEAM_0:1:28747762><>" To: "MaQu<12><STEAM_ID_LAN><>" Message: "Hmm?"
+L 11/04/2013 - 15:51:13: [std_admin_color_chat.amxx] PM From: "GeDox<16><STEAM_0:1:28747762><>" To: "MaQu<12><STEAM_ID_LAN><>" Message: "Jak?"
+L 11/04/2013 - 15:53:29: [admincmd.amxx] Cmd: "GeDox<185><STEAM_0:1:28747762><>" set cvar (name "survivor_respawn") (value "1")
+L 11/04/2013 - 15:54:11: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:54:11: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 15:58:02: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 15:58:02: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:01:52: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:01:52: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:05:34: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:05:34: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:08:08: [admincmd.amxx] Cmd: "GeDox<185><STEAM_0:1:28747762><>" set cvar (name "survivor_respawn_time") (value "5.0")
+L 11/04/2013 - 16:10:54: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:10:54: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:15:40: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:15:40: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:15:44: -------- Mapchange to zm_rats2009 --------
+L 11/04/2013 - 16:15:44: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 16:15:44: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 16:15:44: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 16:15:44: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383581744,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 16:15:44: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 16:15:44: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:15:45: [amxbans_core.amxx] Login: "MaQu<180><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:15:45: [amxbans_core.amxx] Login: "GeDox<185><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:15:45: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 16:15:48: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:15:51: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:15:54: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:16:40: [adminchat.amxx] Chat: "GeDox<210><STEAM_0:1:28747762><>" tsay "Dziala respawn?"
+L 11/04/2013 - 16:17:02: [adminchat.amxx] Chat: "GeDox<210><STEAM_0:1:28747762><>" tsay "Ale na tej mapie :)"
+L 11/04/2013 - 16:17:53: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:17:53: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:19:31: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:19:31: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:21:09: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:21:09: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:22:58: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:22:58: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:25:07: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:25:07: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:27:04: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:27:04: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:28:43: [mapsmenu.amxx] Cmd: "GeDox<210><STEAM_0:1:28747762><>" changelevel "fy_snow2"
+L 11/04/2013 - 16:28:46: -------- Mapchange to fy_snow2 --------
+L 11/04/2013 - 16:28:46: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 16:28:46: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 16:28:46: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 16:28:46: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383582526,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 16:28:46: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 16:28:47: [amxbans_core.amxx] Login: "MaQu<205><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:28:47: [amxbans_core.amxx] Login: "GeDox<210><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:28:47: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 16:28:50: [amxbans_core.amxx] Login: "MaQu<218><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:28:50: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:28:57: [amxbans_core.amxx] Login: "MaQu<218><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:28:57: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:30:06: [amxbans_core.amxx] Login: "MaQu<226><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:30:39: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:30:40: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:32:27: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:32:27: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:33:22: [amxbans_core.amxx] Login: "Husqvarna<228><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:33:26: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:33:41: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:33:41: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:33:41: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:35:05: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:35:05: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:35:05: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:37:21: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:37:21: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:37:21: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:39:31: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:39:31: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:39:31: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:39:35: [afkdf.amxx] Laczek123 zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 16:41:43: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:41:43: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:41:43: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:44:07: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:44:07: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:44:07: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:46:05: [afkdf.amxx] Laczek123 zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 16:46:50: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:46:50: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:46:50: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:49:10: [afkdf.amxx] Laczek123 zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 16:49:47: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:49:47: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:49:47: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:49:50: -------- Mapchange to fy_snow2 --------
+L 11/04/2013 - 16:49:50: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 16:49:50: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 16:49:50: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 16:49:51: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383583791,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 16:49:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 16:49:51: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:49:51: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:49:51: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:49:51: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 16:49:57: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:49:57: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:49:57: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:51:04: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:51:04: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:51:04: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:52:25: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:52:25: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:52:25: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:53:58: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:53:58: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:53:58: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:55:35: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:55:35: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:55:35: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:57:32: [amxbans_core.amxx] Login: "MaQu<227><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 16:57:32: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:57:32: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 16:59:36: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 16:59:36: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:02:00: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:02:00: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:04:05: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:04:05: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:07:35: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:07:35: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:09:10: [amxbans_core.amxx] Login: "Voloi<253><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/04/2013 - 17:09:43: [amxbans_core.amxx] Login: "Voloi<254><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/04/2013 - 17:11:23: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:11:23: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:11:26: -------- Mapchange to de_aztec --------
+L 11/04/2013 - 17:11:27: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 17:11:27: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 17:11:27: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 17:11:28: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383585088,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 17:11:28: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 17:11:28: [amxbans_core.amxx] Login: "Husqvarna<229><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:11:28: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:11:28: [amxbans_core.amxx] Login: "GeDox<219><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:11:28: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 17:11:31: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:11:32: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:11:41: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:11:41: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:12:33: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<271><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:12:36: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<272><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:13:29: [std_admin_color_chat.amxx] PM From: "GeDox<16><STEAM_0:1:28747762><>" To: "{CST} Solejukowa ^.^<11><STEAM_ID_LAN><>" Message: "Siema. ZNowu atak byl. WPisz /respawn"
+L 11/04/2013 - 17:14:01: [amxbans_core.amxx] Login: "Voloi<273><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/04/2013 - 17:16:05: [amxbans_core.amxx] Login: "MaQu<275><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:16:09: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:16:28: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<272><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:16:28: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:16:28: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:16:28: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:19:46: [admincmd.amxx] Cmd: "GeDox<267><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "de_westwood")
+L 11/04/2013 - 17:21:29: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<272><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:21:29: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:21:29: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:21:29: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:22:59: [amxbans_core.amxx] Login: "Voloi<281><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/04/2013 - 17:25:22: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<272><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:25:22: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:25:22: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:25:22: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:27:32: [afkdf.amxx] | Zuzii ~ zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 17:28:27: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<272><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 17:28:27: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:28:27: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:28:27: [amxbans_core.amxx] Login: "GeDox<267><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:29:07: [afkdf.amxx] C.I.N.C.A.D.Z.E. zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 17:33:52: [amxbans_core.amxx] Login: "GeDox<291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:34:04: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:34:34: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:34:34: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:34:34: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:34:42: [admincmd.amxx] Cmd: "GeDox<293><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "zm_silent_hill")
+L 11/04/2013 - 17:39:09: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:39:09: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:39:09: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:43:10: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:43:10: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:43:10: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:44:00: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Dex<20><STEAM_0:0:17597148><>" Message: "Slabo, slabo."
+L 11/04/2013 - 17:44:06: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Dex<20><STEAM_0:0:17597148><>" Message: "To juz nie ZH xd"
+L 11/04/2013 - 17:44:13: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "GeDox<16><STEAM_0:1:28747762><>" Message: "jak nie zh? -.-"
+L 11/04/2013 - 17:44:30: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "GeDox<16><STEAM_0:1:28747762><>" Message: "to co?"
+L 11/04/2013 - 17:44:33: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Dex<20><STEAM_0:0:17597148><>" Message: ",3"
+L 11/04/2013 - 17:44:34: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "GeDox<16><STEAM_0:1:28747762><>" Message: "jak nie zh"
+L 11/04/2013 - 17:44:49: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Dex<20><STEAM_0:0:17597148><>" Message: "Jak cos to nie widze, co piszesz."
+L 11/04/2013 - 17:48:24: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:48:24: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:48:24: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:55:48: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:55:48: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:55:48: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:55:52: -------- Mapchange to zm_silent_hill --------
+L 11/04/2013 - 17:55:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 17:55:52: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 17:55:52: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 17:55:52: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383587752,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 17:55:52: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 17:55:53: [amxbans_core.amxx] Login: "MaQu<276><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "87.116.198.62") (nick "MaQu") (static 0)
+L 11/04/2013 - 17:55:53: [amxbans_core.amxx] Login: "GeDox<293><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:55:53: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 17:55:53: [amxbans_core.amxx] Login: "Husqvarna<265><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:55:58: [amxbans_core.amxx] Login: "GeDox<299><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:56:07: [amxbans_core.amxx] Login: "Husqvarna<300><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:56:31: [mapsmenu.amxx] Cmd: "GeDox<299><STEAM_0:1:28747762><>" changelevel "de_westwood"
+L 11/04/2013 - 17:56:34: -------- Mapchange to de_westwood --------
+L 11/04/2013 - 17:56:34: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 17:56:34: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 17:56:34: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 17:56:35: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383587795,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 17:56:35: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 17:56:35: [amxbans_core.amxx] Login: "Husqvarna<300><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:56:35: [amxbans_core.amxx] Login: "GeDox<299><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:56:35: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 17:56:37: [amxbans_core.amxx] Login: "Husqvarna<304><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:56:41: [amxbans_core.amxx] Login: "GeDox<308><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:57:05: [amxbans_core.amxx] Login: "Husqvarna<304><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:57:05: [amxbans_core.amxx] Login: "GeDox<308><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:57:33: [adminchat.amxx] Chat: "GeDox<308><STEAM_0:1:28747762><>" tsay "Nie ma waypointow..."
+L 11/04/2013 - 17:57:40: [mapsmenu.amxx] Cmd: "GeDox<308><STEAM_0:1:28747762><>" changelevel "zm_rats2009"
+L 11/04/2013 - 17:57:42: -------- Mapchange to zm_rats2009 --------
+L 11/04/2013 - 17:57:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 17:57:43: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 17:57:43: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 17:57:43: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383587863,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 17:57:43: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 17:57:43: [amxbans_core.amxx] Login: "Husqvarna<304><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:57:43: [amxbans_core.amxx] Login: "GeDox<308><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:57:43: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 17:57:47: [amxbans_core.amxx] Login: "GeDox<327><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:57:48: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:57:57: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:57:57: [amxbans_core.amxx] Login: "GeDox<327><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 17:59:27: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 17:59:27: [amxbans_core.amxx] Login: "GeDox<327><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 18:01:25: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:01:25: [amxbans_core.amxx] Login: "GeDox<327><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 18:02:52: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:02:52: [amxbans_core.amxx] Login: "GeDox<327><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.129.23") (nick "G3D0X") (static 0)
+L 11/04/2013 - 18:05:30: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:09:05: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:12:40: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:16:22: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:20:21: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:24:56: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:24:59: -------- Mapchange to de_dust --------
+L 11/04/2013 - 18:25:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 18:25:00: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 18:25:00: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 18:25:00: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383589500,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 18:25:00: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 18:25:00: [amxbans_core.amxx] Login: "Husqvarna<329><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:25:01: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 18:25:02: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:28:18: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:30:44: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:32:44: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:35:41: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:39:43: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:44:02: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:47:08: [amxbans_core.amxx] Login: "SzpiegooO<358><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 18:47:24: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 18:47:43: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:47:43: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 18:53:37: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:53:37: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 18:57:53: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 18:57:53: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 18:59:34: [afkdf.amxx] YourTurn zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 19:02:17: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:02:17: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:05:39: [afkdf.amxx] YourTurn zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 19:06:57: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:06:57: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:08:16: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<367><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:08:21: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<368><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:10:04: [afkdf.amxx] Akira zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 19:11:34: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<368><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:11:34: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:11:34: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:11:38: -------- Mapchange to cs_italy --------
+L 11/04/2013 - 19:11:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 19:11:40: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 19:11:40: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 19:11:40: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383592300,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 19:11:40: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 19:11:40: [amxbans_core.amxx] Login: "Husqvarna<343><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:11:40: [amxbans_core.amxx] Login: "SzpiegooO<359><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:11:40: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<368><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:11:40: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 19:11:42: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:11:43: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:11:43: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:11:49: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:13:32: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:13:32: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:13:32: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:15:04: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:15:04: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:15:04: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:17:29: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:17:29: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:17:29: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:18:24: [afkdf.amxx] Dex zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 19:20:11: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<376><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:20:11: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:20:11: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:22:30: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "H4CKER<11><STEAM_ID_LAN><>" Message: "Siemasz Husq jakos tam xd"
+L 11/04/2013 - 19:24:09: [afkdf.amxx] Akira zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 19:26:47: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:26:47: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:33:27: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:33:27: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:39:19: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:39:19: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:43:44: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:43:44: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:47:12: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<391><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:47:14: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<392><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:48:56: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<392><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:48:56: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:48:56: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:52:50: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<392><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:52:50: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:52:50: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:52:54: -------- Mapchange to de_train --------
+L 11/04/2013 - 19:52:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 19:52:55: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 19:52:55: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 19:52:55: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<392><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:52:55: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383594775,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 19:52:55: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 19:52:55: [amxbans_core.amxx] Login: "Husqvarna<378><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:52:55: [amxbans_core.amxx] Login: "SzpiegooO<379><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:52:56: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 19:52:58: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:52:58: [amxbans_core.amxx] Login: "SzpiegooO<407><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:53:00: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:53:03: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:55:38: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:55:38: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:55:38: [amxbans_core.amxx] Login: "SzpiegooO<407><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:57:30: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:57:30: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:57:30: [amxbans_core.amxx] Login: "SzpiegooO<407><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 19:59:39: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 19:59:39: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 19:59:39: [amxbans_core.amxx] Login: "SzpiegooO<407><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:01:54: [afkdf.amxx] YourTurn zostal wywalony za bycie AFK przez 90 sekund
+L 11/04/2013 - 20:01:56: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 20:01:56: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:05:29: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 20:05:29: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:08:52: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 20:08:52: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:12:46: [amxbans_core.amxx] Login: "{CST} Solejukowa ^.^<404><STEAM_ID_LAN><>" became an admin (account "{CST} Solejukowa ^.^") (access "q") (address "188.125.143.143") (nick "{CST} Solejukowa ^.^") (static 1)
+L 11/04/2013 - 20:12:46: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:17:37: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:17:50: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:21:00: [amxbans_core.amxx] Login: "Husqvarna<412><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/04/2013 - 20:23:03: [amxbans_core.amxx] Login: "SzpiegooO<421><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:23:06: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:28:31: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:33:28: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:39:50: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:47:37: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 20:53:50: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:01:38: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:01:41: -------- Mapchange to gg_33_circa --------
+L 11/04/2013 - 21:01:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 21:01:42: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 21:01:42: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 21:01:42: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383598902,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 21:01:42: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 21:01:42: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:01:42: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/04/2013 - 21:01:44: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:02:13: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:05:33: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:08:50: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:11:36: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:14:45: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:19:38: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:24:58: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:30:10: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:34:19: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:39:44: [amxbans_core.amxx] Login: "SzpiegooO<428><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.6.18.240") (nick "SzpiegooO") (static 0)
+L 11/04/2013 - 21:51:26: -------- Mapchange to de_mirage --------
+L 11/04/2013 - 21:51:27: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/04/2013 - 21:51:28: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/04/2013 - 21:51:28: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/04/2013 - 21:51:28: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383601888,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/04/2013 - 21:51:28: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/04/2013 - 21:51:28: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.

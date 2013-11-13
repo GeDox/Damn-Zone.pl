@@ -1,0 +1,17 @@
+2013-10-28 20:34:12.564199|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-10-28 20:34:12.564547|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-10-28 20:34:12.564573|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-10-28 20:34:12.564759|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2013-10-28 20:34:13.091056|INFO    |Accounting    |   | Licensing Information
+2013-10-28 20:34:13.091125|INFO    |Accounting    |   | type              : Non-profit
+2013-10-28 20:34:13.091162|INFO    |Accounting    |   | starting date     : Tue Jun  4 00:00:00 2013
+2013-10-28 20:34:13.091178|INFO    |Accounting    |   | ending date       : Tue Dec 17 00:00:00 2013
+2013-10-28 20:34:13.091193|INFO    |Accounting    |   | max virtualservers: 10
+2013-10-28 20:34:13.091206|INFO    |Accounting    |   | max slots         : 512
+2013-10-28 20:34:13.108953|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2013-10-28 20:34:13.383559|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2013-10-28 20:34:13.383882|INFO    |Query         |   | listening on 0.0.0.0:10011
+2013-10-28 20:34:13.681789|ERROR   |Accounting    |   | too many slots hosted, shutting down!
+2013-10-28 20:40:09.081623|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2013-10-28 20:40:31.755263|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2013-10-28 20:40:57.517626|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

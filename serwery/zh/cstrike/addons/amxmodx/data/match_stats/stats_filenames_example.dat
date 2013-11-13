@@ -1,0 +1,8 @@
+// File names
+
+Main file: main.dat
+Match files: <matchnumber>_0<mapnumber><halfnumber>.dat
+
+Ex.
+The file 'main.dat' contains matches 0 & 1; The folder 'data/match_stats' can contain: 'main.dat', '0_001.dat', '0_002.dat', 
+'1_001.dat', '1_002.dat', '1_011.dat', '1_012.dat'.

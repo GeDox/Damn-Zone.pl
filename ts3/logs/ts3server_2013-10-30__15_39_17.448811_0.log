@@ -1,0 +1,10 @@
+2013-10-30 15:39:17.448979|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.6.1 (2012-06-29 07:59:05)
+2013-10-30 15:39:17.449289|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2013-10-30 15:39:17.449315|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2013-10-30 15:39:17.449551|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2013-10-30 15:39:17.658032|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2013-10-30 15:39:17.674101|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2013-10-30 15:39:17.816673|ERROR   |VirtualSvrMgr |   | loading VirtualServer(1) failed to start, error: max slot limit reached
+2013-10-30 15:39:17.816852|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2013-10-30 15:39:17.817182|INFO    |Query         |   | listening on 0.0.0.0:10011
+2013-10-30 15:39:52.843441|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

@@ -1,0 +1,23 @@
+[en]
+ERS_CMD_DISABLED            =  This command has been !tdisabled!n by an admin!
+ERS_SOUND_DISABLED          =  Sounds !tDisabled!n! You should not hear end round sounds anymore.
+ERS_SOUND_ENABLED           =  Sounds !tEnabled!n! You should hear the end round sounds again.
+ERS_DISPLAY_ADS             =  Say !t%s!n to enable or disable the end round sounds for you.
+
+ERS_LOG_LOADING             =  Loading File: "%s"
+ERS_LOG_UNKNOW_EXTENSION    =  Error - Unknow Extension: "%s"
+ERS_LOG_INEXISTENT_FILE     =  Error - Inexistent File: "%s"
+ERS_LOG_NO_TEAM_SOUND       =  Error - You have to specify a team ("T" or "CT") for this sound: "%s"
+ERS_LOG_NO_FILES_FOUND      =  No files found.
+
+[pl]
+ERS_CMD_DISABLED = Ta komenda zostala !twylaczone!n przez administratora!
+ERS_SOUND_DISABLED = Muzyka !twylaczona.
+ERS_SOUND_ENABLED = Muzyka !twlaczona.
+ERS_DISPLAY_ADS = Aby wlaczyc lub wylaczyc muzyke pod koniec rundy wpisz !t%s!n
+
+ERS_LOG_LOADING = Wczytywanie pliku: "%s"
+ERS_LOG_UNKNOW_EXTENSION = Blad - Unknow Extension: "%s"
+ERS_LOG_INEXISTENT_FILE = Blad - Inexistent File: "%s"
+ERS_LOG_NO_TEAM_SOUND = Blad - Powinienes oznaczyc piosenke ("T" albo "CT") dla tego utworu: "%s"
+ERS_LOG_NO_FILES_FOUND = Nie odnaleziono pliku.

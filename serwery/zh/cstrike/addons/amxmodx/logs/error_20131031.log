@@ -1,0 +1,35 @@
+L 10/31/2013 - 12:59:08: Start of error session.
+L 10/31/2013 - 12:59:08: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20131031.log")
+L 10/31/2013 - 12:59:08: [FUN] Player out of range (0)
+L 10/31/2013 - 12:59:08: [AMXX] Displaying debug trace (plugin "zhsVIP.amxx")
+L 10/31/2013 - 12:59:08: [AMXX] Run time error 10: native error (native "set_user_health")
+L 10/31/2013 - 12:59:08: [AMXX]    [0] zhsVIP.sma::user_killed (line 118)
+L 10/31/2013 - 18:05:13: [FUN] Player out of range (0)
+L 10/31/2013 - 18:05:13: [AMXX] Displaying debug trace (plugin "zhsVIP.amxx")
+L 10/31/2013 - 18:05:13: [AMXX] Run time error 10: native error (native "set_user_health")
+L 10/31/2013 - 18:05:13: [AMXX]    [0] zhsVIP.sma::user_killed (line 118)
+L 10/31/2013 - 19:38:13: Start of error session.
+L 10/31/2013 - 19:38:13: Info (map "de_inferno") (file "addons/amxmodx/logs/error_20131031.log")
+L 10/31/2013 - 19:38:13: [FUN] Player out of range (0)
+L 10/31/2013 - 19:38:13: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 19:38:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 21:56:07: Start of error session.
+L 10/31/2013 - 21:56:07: Info (map "de_train") (file "addons/amxmodx/logs/error_20131031.log")
+L 10/31/2013 - 21:56:07: [FUN] Player out of range (0)
+L 10/31/2013 - 21:56:07: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 21:56:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 22:09:24: [FUN] Player out of range (0)
+L 10/31/2013 - 22:09:24: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 22:09:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 22:12:39: [FUN] Player out of range (0)
+L 10/31/2013 - 22:12:39: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 22:12:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 22:32:45: [FUN] Player out of range (0)
+L 10/31/2013 - 22:32:45: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 22:32:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 22:48:42: [FUN] Player out of range (0)
+L 10/31/2013 - 22:48:42: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 22:48:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 10/31/2013 - 22:57:55: [FUN] Player out of range (0)
+L 10/31/2013 - 22:57:55: [AMXX] Run time error 10 (plugin "zhsVIP.amxx") (native "set_user_health") - debug not enabled!
+L 10/31/2013 - 22:57:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

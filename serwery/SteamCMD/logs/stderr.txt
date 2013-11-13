@@ -1,0 +1,5 @@
+unlinked 0 orphaned pipes
+unlinked 0 orphaned pipes
+CAsyncIOManager: 0 threads terminating.  0 reads, 0 writes, 0 deferrals.
+CAsyncIOManager: 227 single object sleeps, 0 multi object sleeps
+CAsyncIOManager: 0 single object alertable sleeps, 6 multi object alertable sleeps

@@ -1,0 +1,125 @@
+L 10/29/2013 - 00:22:12: Start of error session.
+L 10/29/2013 - 00:22:12: Info (map "de_prodigy") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 00:22:12: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 00:22:12: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 00:22:12: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 00:47:23: Start of error session.
+L 10/29/2013 - 00:47:23: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 00:47:23: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 00:47:23: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 00:47:23: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 01:12:32: Start of error session.
+L 10/29/2013 - 01:12:32: Info (map "cs_office") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 01:12:32: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 01:12:32: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 01:12:32: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 01:37:42: Start of error session.
+L 10/29/2013 - 01:37:42: Info (map "cs_italy") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 01:37:42: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 01:37:42: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 01:37:42: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 02:02:52: Start of error session.
+L 10/29/2013 - 02:02:52: Info (map "cs_backalley") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 02:02:52: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 02:02:52: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 02:02:52: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 02:28:03: Start of error session.
+L 10/29/2013 - 02:28:03: Info (map "cs_militia") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 02:28:03: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 02:28:03: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 02:28:03: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 02:53:13: Start of error session.
+L 10/29/2013 - 02:53:13: Info (map "de_train") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 02:53:13: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 02:53:13: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 02:53:13: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 03:18:22: Start of error session.
+L 10/29/2013 - 03:18:22: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 03:18:22: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 03:18:22: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 03:18:22: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 03:43:34: Start of error session.
+L 10/29/2013 - 03:43:34: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 03:43:34: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 03:43:34: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 03:43:34: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 04:08:48: Start of error session.
+L 10/29/2013 - 04:08:48: Info (map "de_chateau") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 04:08:48: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 04:08:48: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 04:08:48: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 04:33:58: Start of error session.
+L 10/29/2013 - 04:33:58: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 04:33:58: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 04:33:58: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 04:33:58: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 04:59:08: Start of error session.
+L 10/29/2013 - 04:59:08: Info (map "as_oilrig") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 04:59:08: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 04:59:08: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 04:59:08: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 05:24:17: Start of error session.
+L 10/29/2013 - 05:24:17: Info (map "cs_siege") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 05:24:17: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 05:24:17: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 05:24:17: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 05:49:27: Start of error session.
+L 10/29/2013 - 05:49:27: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 05:49:27: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 05:49:27: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 05:49:27: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 06:14:37: Start of error session.
+L 10/29/2013 - 06:14:37: Info (map "de_dust") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 06:14:37: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 06:14:37: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 06:14:37: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 06:39:47: Start of error session.
+L 10/29/2013 - 06:39:47: Info (map "cs_747") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 06:39:47: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 06:39:47: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 06:39:47: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 07:04:57: Start of error session.
+L 10/29/2013 - 07:04:57: Info (map "de_prodigy") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 07:04:57: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 07:04:57: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 07:04:57: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 07:30:10: Start of error session.
+L 10/29/2013 - 07:30:10: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 07:30:10: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 07:30:10: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 07:30:10: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 07:55:23: Start of error session.
+L 10/29/2013 - 07:55:23: Info (map "cs_office") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 07:55:23: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 07:55:23: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 07:55:23: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 08:20:32: Start of error session.
+L 10/29/2013 - 08:20:32: Info (map "cs_italy") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 08:20:32: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 08:20:32: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 08:20:32: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 08:45:42: Start of error session.
+L 10/29/2013 - 08:45:42: Info (map "cs_backalley") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 08:45:42: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 08:45:42: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 08:45:42: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 09:10:52: Start of error session.
+L 10/29/2013 - 09:10:52: Info (map "cs_militia") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 09:10:52: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 09:10:52: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 09:10:52: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 09:36:04: Start of error session.
+L 10/29/2013 - 09:36:04: Info (map "de_train") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 09:36:04: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 09:36:04: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 09:36:04: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 10:01:17: Start of error session.
+L 10/29/2013 - 10:01:17: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 10:01:17: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 10:01:17: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 10:01:17: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")
+L 10/29/2013 - 10:26:28: Start of error session.
+L 10/29/2013 - 10:26:28: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20131029.log")
+L 10/29/2013 - 10:26:28: [AMXX] Plugin file open error (plugin "amxbans_freeze.amxx")
+L 10/29/2013 - 10:26:28: [AMXX] Plugin file open error (plugin "amxbans_flagged.amxx")
+L 10/29/2013 - 10:26:28: [AMXX] Plugin file open error (plugin "amxbans_ssban.amxx")

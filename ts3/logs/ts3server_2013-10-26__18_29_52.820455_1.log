@@ -1,0 +1,49 @@
+2013-10-26 18:29:53.475575|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2013-10-26 18:30:51.461448|INFO    |VirtualServer |  1| query client connected 'Unknown from 62.75.222.14:41525'(id:11)
+2013-10-26 18:30:51.907604|INFO    |VirtualServer |  1| query client disconnected 'Unknown from 62.75.222.14:41525'(id:11) reason 'reasonmsg=disconnecting'
+2013-10-26 18:32:20.587489|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:36173'(id:11)
+2013-10-26 18:32:21.085281|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:33:04.613561|INFO    |VirtualServer |  1| client connected '&#729;&#903;&#1632;&#8226;&#9679;MaQu&#9679;&#8226;&#1632;&#903;&#729;'(id:2457) from 46.186.43.187:1348
+2013-10-26 18:35:20.594058|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:54102'(id:11)
+2013-10-26 18:35:20.983309|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:37:43.717115|INFO    |VirtualServer |  1| client connected 'zN*'(id:2261) from 195.117.40.203:1624
+2013-10-26 18:38:02.431907|INFO    |VirtualServer |  1| client connected 'PsychoPatka'(id:3502) from 83.29.94.235:53723
+2013-10-26 18:38:14.852040|INFO    |VirtualServer |  1| channel '[cspacer]8. zN*'(id:213) edited by 'zN*'(id:2261)
+2013-10-26 18:38:51.011513|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:56647'(id:11)
+2013-10-26 18:38:51.386809|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:39:27.475107|INFO    |VirtualServer |  1| client disconnected 'PsychoPatka'(id:3502) reason 'reasonmsg=Huehue, jeszcze tu wr&#243;c&#281;:D'
+2013-10-26 18:39:40.844438|INFO    |VirtualServer |  1| client connected 'Nanana'(id:3502) from 83.29.94.235:62474
+2013-10-26 18:39:43.421389|INFO    |VirtualServer |  1| client connected 'HitmaN'(id:3264) from 188.47.176.38:57658
+2013-10-26 18:39:50.127402|INFO    |VirtualServer |  1| client connected 'Maggie'(id:153) from 83.23.134.194:27884
+2013-10-26 18:40:10.860780|INFO    |VirtualServer |  1| client disconnected 'HitmaN'(id:3264) reason 'reasonmsg=connection lost'
+2013-10-26 18:40:27.492201|INFO    |VirtualServer |  1| client disconnected 'Nanana'(id:3502) reason 'reasonmsg=Huehue, jeszcze tu wr&#243;c&#281;:D'
+2013-10-26 18:40:28.033409|INFO    |VirtualServer |  1| client connected 'HitmaN'(id:3264) from 188.47.176.38:57658
+2013-10-26 18:40:53.017882|INFO    |VirtualServer |  1| client disconnected 'HitmaN'(id:3264) reason 'reasonmsg=connection lost'
+2013-10-26 18:41:15.246662|INFO    |VirtualServer |  1| client connected 'HitmaN'(id:3264) from 188.47.176.38:57658
+2013-10-26 18:41:25.266748|INFO    |VirtualServer |  1| client disconnected 'HitmaN'(id:3264) reason 'reasonmsg=leaving'
+2013-10-26 18:42:20.491009|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:55631'(id:11)
+2013-10-26 18:42:20.896392|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:42:31.505606|INFO    |VirtualServer |  1| client connected 'HitmaN'(id:3264) from 188.47.133.179:57417
+2013-10-26 18:43:09.769911|INFO    |VirtualServer |  1| query client connected 'Unknown from 62.75.222.14:38520'(id:11)
+2013-10-26 18:43:10.204113|INFO    |VirtualServer |  1| query client disconnected 'Unknown from 62.75.222.14:38520'(id:11) reason 'reasonmsg=disconnecting'
+2013-10-26 18:45:18.022460|INFO    |VirtualServer |  1| client connected 'Costa'(id:1966) from 83.28.249.243:49480
+2013-10-26 18:45:21.080907|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:58263'(id:11)
+2013-10-26 18:45:21.461220|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:45:29.896911|INFO    |VirtualServer |  1| client disconnected 'Costa'(id:1966) reason 'reasonmsg=leaving'
+2013-10-26 18:46:25.901425|INFO    |VirtualServer |  1| client connected 'Husqvarna'(id:2) from 83.5.15.90:52747
+2013-10-26 18:48:20.715182|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:40779'(id:11)
+2013-10-26 18:48:21.089838|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:51:20.394707|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:51707'(id:11)
+2013-10-26 18:51:20.784927|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:51:44.295077|INFO    |VirtualServer |  1| client disconnected 'zN*'(id:2261) reason 'reasonmsg=connection lost'
+2013-10-26 18:53:39.462491|INFO    |VirtualServer |  1| ban added reason='Reklama ;)' cluid='JG64DvAmYDdbFDzt+gYcqrbEZYg=' bantime=0 by client 'Husqvarna'(id:2)
+2013-10-26 18:53:39.462767|INFO    |VirtualServer |  1| ban added reason='Reklama ;)' ip='31.182.87.74' bantime=0 by client 'Husqvarna'(id:2)
+2013-10-26 18:54:50.638097|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.148:51822'(id:11)
+2013-10-26 18:54:51.079584|INFO    |VirtualServer |  1| query client disconnected 'GameTracker'(id:11) reason 'reasonmsg=connection lost'
+2013-10-26 18:55:25.062103|INFO    |VirtualServer |  1| query client connected 'Unknown from 62.75.222.14:35436'(id:11)
+2013-10-26 18:55:25.490139|INFO    |VirtualServer |  1| query client disconnected 'Unknown from 62.75.222.14:35436'(id:11) reason 'reasonmsg=disconnecting'
+2013-10-26 18:55:54.518049|INFO    |VirtualServer |  1| client disconnected '&#729;&#903;&#1632;&#8226;&#9679;MaQu&#9679;&#8226;&#1632;&#903;&#729;'(id:2457) reason 'reasonmsg=Server Shutdown!'
+2013-10-26 18:55:54.518335|INFO    |VirtualServer |  1| client disconnected 'Maggie'(id:153) reason 'reasonmsg=Server Shutdown!'
+2013-10-26 18:55:54.518494|INFO    |VirtualServer |  1| client disconnected 'HitmaN'(id:3264) reason 'reasonmsg=Server Shutdown!'
+2013-10-26 18:55:54.518632|INFO    |VirtualServer |  1| client disconnected 'Husqvarna'(id:2) reason 'reasonmsg=Server Shutdown!'
+2013-10-26 18:55:54.820176|INFO    |VirtualServer |  1| stopped

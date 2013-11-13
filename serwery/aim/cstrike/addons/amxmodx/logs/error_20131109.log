@@ -1,0 +1,171 @@
+L 11/09/2013 - 10:03:45: Start of error session.
+L 11/09/2013 - 10:03:45: Info (map "aim_ak47") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 10:03:45: Player 1 is not ingame
+L 11/09/2013 - 10:03:45: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 10:03:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 11:35:48: Start of error session.
+L 11/09/2013 - 11:35:48: Info (map "aim_aztec") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 11:35:48: Player 2 is not ingame
+L 11/09/2013 - 11:35:48: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 11:35:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 13:14:47: Start of error session.
+L 11/09/2013 - 13:14:47: Info (map "aim_dgl") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 13:14:47: Player 1 is not ingame
+L 11/09/2013 - 13:14:47: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 13:14:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 14:54:48: Start of error session.
+L 11/09/2013 - 14:54:48: Info (map "aim_headshot") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 14:54:48: Invalid CVAR pointer
+L 11/09/2013 - 14:54:48: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 14:54:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 14:57:34: Player 1 is not ingame
+L 11/09/2013 - 14:57:34: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 14:57:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 15:53:57: Start of error session.
+L 11/09/2013 - 15:53:57: Info (map "aim_awp") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 15:53:57: Invalid CVAR pointer
+L 11/09/2013 - 15:53:57: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 15:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 15:56:19: Invalid CVAR pointer
+L 11/09/2013 - 15:56:19: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 15:56:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 15:57:13: Player 2 is not ingame
+L 11/09/2013 - 15:57:13: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 15:57:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:00:01: Invalid CVAR pointer
+L 11/09/2013 - 16:00:01: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 16:00:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:02:55: Start of error session.
+L 11/09/2013 - 16:02:55: Info (map "aim_map") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 16:02:55: Player 5 is not ingame
+L 11/09/2013 - 16:02:55: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 16:02:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:05:34: Played 2 is not in game
+L 11/09/2013 - 16:05:34: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/09/2013 - 16:05:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:05:35: Player 2 is not ingame
+L 11/09/2013 - 16:05:35: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 16:05:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:06:44: Player 5 is not ingame
+L 11/09/2013 - 16:06:44: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 16:06:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:50:42: Player 3 is not ingame
+L 11/09/2013 - 16:50:42: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 16:50:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 16:54:58: Player 1 is not ingame
+L 11/09/2013 - 16:54:58: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 16:54:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:06:00: Start of error session.
+L 11/09/2013 - 18:06:00: Info (map "aim_map_deagle") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 18:06:00: Invalid CVAR pointer
+L 11/09/2013 - 18:06:00: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:06:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:17:56: Invalid CVAR pointer
+L 11/09/2013 - 18:17:56: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:17:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:18:18: Invalid CVAR pointer
+L 11/09/2013 - 18:18:18: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:18:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:27:24: Invalid CVAR pointer
+L 11/09/2013 - 18:27:24: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:27:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:27:28: Invalid CVAR pointer
+L 11/09/2013 - 18:27:28: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:27:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:36:17: Invalid CVAR pointer
+L 11/09/2013 - 18:36:17: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:36:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:42:35: Player 8 is not ingame
+L 11/09/2013 - 18:42:35: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 18:42:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:48:38: Invalid CVAR pointer
+L 11/09/2013 - 18:48:38: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 18:48:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:55:41: Start of error session.
+L 11/09/2013 - 18:55:41: Info (map "aim_crazyjump") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 18:55:41: Player 2 is not ingame
+L 11/09/2013 - 18:55:41: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 18:55:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:56:26: Player 7 is not ingame
+L 11/09/2013 - 18:56:26: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 18:56:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 18:56:47: Player 1 is not ingame
+L 11/09/2013 - 18:56:47: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 18:56:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 19:17:47: Invalid CVAR pointer
+L 11/09/2013 - 19:17:47: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 19:17:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 19:36:44: Start of error session.
+L 11/09/2013 - 19:36:44: Info (map "aim_awp") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 19:36:44: Invalid CVAR pointer
+L 11/09/2013 - 19:36:44: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 19:36:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:04:47: Start of error session.
+L 11/09/2013 - 20:04:47: Info (map "aim_dgl") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 20:04:47: Player 1 is not ingame
+L 11/09/2013 - 20:04:47: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 20:04:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:10:55: Invalid CVAR pointer
+L 11/09/2013 - 20:10:55: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:10:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:13:16: Invalid CVAR pointer
+L 11/09/2013 - 20:13:16: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:13:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:13:25: Invalid CVAR pointer
+L 11/09/2013 - 20:13:25: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:13:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:13:47: Invalid CVAR pointer
+L 11/09/2013 - 20:13:47: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:13:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:13:50: Invalid CVAR pointer
+L 11/09/2013 - 20:13:50: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:13:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:20:24: Start of error session.
+L 11/09/2013 - 20:20:24: Info (map "aim_map2") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 20:20:24: Played 8 is not in game
+L 11/09/2013 - 20:20:24: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/09/2013 - 20:20:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:22:00: Invalid CVAR pointer
+L 11/09/2013 - 20:22:00: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:22:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:22:26: Played 7 is not in game
+L 11/09/2013 - 20:22:26: [AMXX] Run time error 10 (plugin "vote_hsonly.amxx") (native "menu_cancel") - debug not enabled!
+L 11/09/2013 - 20:22:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:22:27: Player 7 is not ingame
+L 11/09/2013 - 20:22:27: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 20:22:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:34:12: Invalid CVAR pointer
+L 11/09/2013 - 20:34:12: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:34:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 20:34:22: Invalid CVAR pointer
+L 11/09/2013 - 20:34:22: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 20:34:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:08:19: Player 1 is not ingame
+L 11/09/2013 - 21:08:19: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:08:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:14:53: Start of error session.
+L 11/09/2013 - 21:14:53: Info (map "awp_india") (file "addons/amxmodx/logs/error_20131109.log")
+L 11/09/2013 - 21:14:53: Player 1 is not ingame
+L 11/09/2013 - 21:14:53: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:14:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:18:14: Player 1 is not ingame
+L 11/09/2013 - 21:18:15: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:18:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:35:15: Player 5 is not ingame
+L 11/09/2013 - 21:35:15: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:35:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:49:46: Player 1 is not ingame
+L 11/09/2013 - 21:49:46: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:49:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 21:55:47: Player 5 is not ingame
+L 11/09/2013 - 21:55:47: [AMXX] Run time error 10 (plugin "wybor_interpu.amxx") (native "player_menu_info") - debug not enabled!
+L 11/09/2013 - 21:55:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 22:09:03: Invalid CVAR pointer
+L 11/09/2013 - 22:09:03: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 22:09:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 22:23:20: Invalid CVAR pointer
+L 11/09/2013 - 22:23:20: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 22:23:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/09/2013 - 22:40:35: Invalid CVAR pointer
+L 11/09/2013 - 22:40:35: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "get_pcvar_float") - debug not enabled!
+L 11/09/2013 - 22:40:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

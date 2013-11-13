@@ -1,0 +1,36 @@
+
+
+[2013-10-25 20:28:06] Startup - updater built Sep 23 2013 12:58:20
+[2013-10-25 20:28:06] Checking for update on startup
+[2013-10-25 20:28:06] Checking for available updates...
+[2013-10-25 20:28:07] Download complete.
+[2013-10-25 20:28:07] uninstalled manifest found in /home/serwery/SteamCMD/package/steam_cmd_linux (1).
+[2013-10-25 20:28:07] Found pending update
+[2013-10-25 20:28:07] Installing update...
+[2013-10-25 20:28:07] Extracting package...
+[2013-10-25 20:28:08] Installing update...
+[2013-10-25 20:28:08] Cleaning up...
+[2013-10-25 20:28:08] Update complete, launching Steam...
+[2013-10-25 20:28:08] Shutdown
+
+
+[2013-10-25 20:28:08] Startup - updater built Sep 23 2013 12:58:20
+[2013-10-25 20:28:08] Checking for update on startup
+[2013-10-25 20:28:08] Checking for available updates...
+[2013-10-25 20:28:08] Download skipped: /client/steam_cmd_linux version 1379968535, installed version 1379968535
+[2013-10-25 20:28:08] Nothing to do
+[2013-10-25 20:28:08] Verifying installation...
+[2013-10-25 20:28:08] Performing checksum verification of executable files
+[2013-10-25 20:28:08] Verification complete
+[2013-10-25 20:29:44] Shutdown
+
+
+[2013-10-25 20:30:59] Startup - updater built Sep 23 2013 12:58:20
+[2013-10-25 20:30:59] Checking for update on startup
+[2013-10-25 20:30:59] Checking for available updates...
+[2013-10-25 20:31:00] Download skipped: /client/steam_cmd_linux version 1379968535, installed version 1379968535
+[2013-10-25 20:31:00] Nothing to do
+[2013-10-25 20:31:00] Verifying installation...
+[2013-10-25 20:31:00] Performing checksum verification of executable files
+[2013-10-25 20:31:00] Verification complete
+[2013-10-25 20:36:40] Shutdown

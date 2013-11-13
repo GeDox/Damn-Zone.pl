@@ -1,0 +1,4 @@
+2013-10-26 15:33:57.318861|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2013-10-26 15:34:04.424180|INFO    |VirtualServer |  1| client connected 'Husqvarna'(id:2) from 83.5.15.90:55102
+2013-10-26 15:36:37.547021|INFO    |VirtualServer |  1| client disconnected 'Husqvarna'(id:2) reason 'reasonmsg=connection lost'
+2013-10-26 15:36:53.371912|INFO    |VirtualServer |  1| stopped

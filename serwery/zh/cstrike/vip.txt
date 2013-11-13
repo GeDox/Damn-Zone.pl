@@ -1,0 +1,6 @@
+<body bgcolor="#000000">
+	<center>
+		<iframe src="http://www.damn-zone.pl/images/vip/zh/przywileje.html" width="730" height="700" scrolling="yes" style="border:0; margin:0 auto; overflow:hidden; background:transparent;">
+		</iframe>
+	</center>
+</body>

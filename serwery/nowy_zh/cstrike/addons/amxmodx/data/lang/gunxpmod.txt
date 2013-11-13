@@ -1,0 +1,28 @@
+[pl]
+LEVEL_TEXT = Nazwa: %s^n Poziom: %d^n Ranga: %s^n
+LEVEL_TEXT2 = /gPoziom - /ctr[ /y%i /ctr] /gXP - /ctr[ /y%i /g/ /y %i /ctr]
+LEVEL_TEXT3 = /gPoziom Broni - /ctr[ /y%s /ctr] /gRanga - /ctr[ /y%s /ctr]
+LEVEL_HUD_TEXT = [Poziom : %i] [XP : %i / %i]^n[Poziom Broni : %s]^n[Ranga : %s]
+LEVEL_UP = /ctr%s /yZdobywa Poziom /g%i!
+
+BACK_MENU = Wstecz
+NEXT_MENU = Dalej
+EXIT_MENU = Wyjscie
+INFO = Info/Pomoc
+ITEM_LIST = Lista Przedmiotow
+UNLOCKS_SHOP_TEXT = Kup W sklepie
+DESCRIPTION = Miejsce kupowania jest ograniczone. Jesli uzyskasz okreslona liczbe XP, wzrosnie twoj poziom.
+DESCRIPTION2 = Wraz ze zdobywaniem nowych poziomow, nabywasz bronie i ich ulepszenia. Zyczymy milej gry Damn-Zone.pl
+CHOOSE_TEXT = Wybierz nowa bron.
+LAST_GUNS = Moja ostatnio uzywania bron.
+TITLE_MENU_INFO = \yGunXpMod \wMenu Glowne^n^n
+TITLE_MENU = \yPoziom Broni^n^n Poziom \r%i \d [%i / %i]
+TITLE_MENU_SHOP = \yKup W Sklepie : Przedmiot^n^n Doswiadczenie\d [%i / %i]^n^n
+ACTIVE_MENU_SHOP = \r%d.\w %s - \y(Xp %d) - \yNie kupione^n
+INACTIVE_MENU_SHOP = \d%d. %s - \d(\rPotrzebne Xp %i\d) - \rNie Kupione^n
+INACTIVE_MENU_SHOP_BOUGHT = \r%d.\w %s - \d(\rMozesz nabyc ponownie\d)^n
+ACTIVE_MENU = \w %s\y (Poziom %i)
+INACTIVE_MENU = \d%s (\rPotrzebny Poziom %i\d)
+
+TRIPLE_XP = +%i za Potrojne Zabicie!
+ULTRA_XP = +%i za Ultra Zabicie!

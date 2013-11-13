@@ -1,0 +1,346 @@
+
+
+[2013-10-25 20:28:08] Loaded 0 apps from install folder "/home/serwery/SteamCMD/steamapps\appmanifest_*.acf".
+[2013-10-25 20:28:26] Loaded 0 apps from install folder "/home/serwery/SteamCMD/dupa/801a04904e79c0953dc3c1715c920aac916bf04d\appmanifest_*.acf".
+[2013-10-25 20:28:41] Loaded 0 apps from install folder "/home/serwery/SteamCMD/dupa/801a04904e79c0953dc3c1715c920aac916bf04d\appmanifest_*.acf".
+[2013-10-25 20:29:06] AppID 90 state changed : 0x00000002 = Update Required,
+[2013-10-25 20:29:06] AppID 70 state changed : 0x00000001 = Uninstalled, (Missing configuration)
+[2013-10-25 20:29:06] Uninstalled app 70 (Missing configuration)
+[2013-10-25 20:29:06] Scheduler update appID 90: Priority First, legacy=no, restore=""
+[2013-10-25 20:29:06] Scheduler update appID 90: Priority First, legacy=no, restore=""
+[2013-10-25 20:29:06] AppID 90 state changed : 0x00000102 = Update Required,Update Running,
+[2013-10-25 20:29:06] AppID 90 state changed : 0x00010102 = Update Required,Update Running,Reconfiguring,
+[2013-10-25 20:29:06] Got 20 download sources via "/serverlist/38/20/" from 80.239.194.158:80
+[2013-10-25 20:29:06] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:29:06] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:29:07] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): AuthenticateDepotID (4) - Success!
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00000102 = Update Required,Update Running,
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00020102 = Update Required,Update Running,Validating,
+[2013-10-25 20:29:07] Validating files (target,full) ...
+[2013-10-25 20:29:07] File validation finished: 23 files (41586625 bytes) total, 23 files (41586625 bytes) mismatched (17 msec).
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00000102 = Update Required,Update Running,
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00080102 = Update Required,Update Running,Preallocating,
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00000102 = Update Required,Update Running,
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00000502 = Update Required,Update Running,Update Started,
+[2013-10-25 20:29:07] AppID 90 state changed : 0x00300502 = Update Required,Update Running,Update Started,Downloading,Staging,
+[2013-10-25 20:29:07] Starting update AppID 90: download 0/15368480, store 0/0, reuse 0/0, stage 0/41586625
+[2013-10-25 20:29:08] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): AuthenticateDepotID (4) - Success!
+[2013-10-25 20:29:08] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): AuthenticateDepotID (4) - Success!
+[2013-10-25 20:29:08] HTTP (CDN,2) - content2.steampowered.com (content2.steampowered.com): AuthenticateDepotID (4) - Success!
+[2013-10-25 20:29:08] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:29:11] AppID 90 state changed : 0x00000502 = Update Required,Update Running,Update Started,
+[2013-10-25 20:29:11] AppID 90 state changed : 0x00400502 = Update Required,Update Running,Update Started,Committing,
+[2013-10-25 20:29:11] AppID 90 state changed : 0x00000502 = Update Required,Update Running,Update Started,
+[2013-10-25 20:29:11] AppID 90 state changed : 0x00000104 = Fully Installed,Update Running,
+[2013-10-25 20:29:11] Finished update AppID 90, mounted depots (BuildID 63549): 4 (3196956435784640171),
+[2013-10-25 20:29:11] AppID 90 state changed : 0x00000004 = Fully Installed,
+[2013-10-25 20:29:11] Scheduler finished appID 90: removed from schedule
+[2013-10-25 20:29:19] HTTP (CDN,2) - content2.steampowered.com (content2.steampowered.com): Closing connection
+[2013-10-25 20:29:19] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): Closing connection
+[2013-10-25 20:29:20] Increasing target number of download connections to 3 (rate was 0.000, now 4.522)
+[2013-10-25 20:29:21] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Closing connection
+[2013-10-25 20:29:21] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): Closing connection
+[2013-10-25 20:29:30] HTTP (CDN,2) - content2.steampowered.com (content2.steampowered.com): Closing connection
+
+
+[2013-10-25 20:31:00] Loaded 0 apps from install folder "/home/serwery/SteamCMD/steamapps\appmanifest_*.acf".
+[2013-10-25 20:31:24] Loaded 1 apps from install folder "/home/serwery/SteamCMD/dupa/801a04904e79c0953dc3c1715c920aac916bf04d\appmanifest_*.acf".
+[2013-10-25 20:31:32] AppID 70 state changed : 0x00000042 = Update Required,Shared Only,
+[2013-10-25 20:31:32] Dependency added: parent 70, child 90, depot 1
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000006 = Update Required,Fully Installed,
+[2013-10-25 20:31:32] AppID 10 state changed : 0x00000001 = Uninstalled, (Missing configuration)
+[2013-10-25 20:31:32] Uninstalled app 10 (Missing configuration)
+[2013-10-25 20:31:32] Scheduler update appID 90: Priority First, legacy=no, restore=""
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00010106 = Update Required,Fully Installed,Update Running,Reconfiguring,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00020106 = Update Required,Fully Installed,Update Running,Validating,
+[2013-10-25 20:31:32] Validating files (target,full) ...
+[2013-10-25 20:31:32] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (22 msec).
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000506 = Update Required,Fully Installed,Update Running,Update Started,
+[2013-10-25 20:31:32] Starting update AppID 90: download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2013-10-25 20:31:32] No changes detected, active: 4 (3196956435784640171), target: 4 (3196956435784640171),
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00400506 = Update Required,Fully Installed,Update Running,Update Started,Committing,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000506 = Update Required,Fully Installed,Update Running,Update Started,
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000104 = Fully Installed,Update Running,
+[2013-10-25 20:31:32] Finished update AppID 90, mounted depots (BuildID 63549): 4 (3196956435784640171),
+[2013-10-25 20:31:32] AppID 90 state changed : 0x00000004 = Fully Installed,
+[2013-10-25 20:31:32] Scheduler finished appID 90: removed from schedule
+[2013-10-25 20:31:56] AppID 10 state changed : 0x00000042 = Update Required,Shared Only,
+[2013-10-25 20:31:56] Dependency added: parent 10, child 90, depot 11
+[2013-10-25 20:31:56] AppID 90 state changed : 0x00000006 = Update Required,Fully Installed,
+[2013-10-25 20:31:56] Dependency added: parent 70, child 90, depot 71
+[2013-10-25 20:31:56] Scheduler update appID 90: Priority First, legacy=no, restore=""
+[2013-10-25 20:31:56] AppID 10 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:56] AppID 70 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:56] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:56] AppID 10 state changed : 0x00010142 = Update Required,Shared Only,Update Running,Reconfiguring,
+[2013-10-25 20:31:56] AppID 70 state changed : 0x00010142 = Update Required,Shared Only,Update Running,Reconfiguring,
+[2013-10-25 20:31:56] AppID 90 state changed : 0x00010106 = Update Required,Fully Installed,Update Running,Reconfiguring,
+[2013-10-25 20:31:56] Got 20 download sources via "/serverlist/38/20/" from 80.239.196.242:80
+[2013-10-25 20:31:56] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:31:56] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:31:57] HTTP (CDN,11) - content7b.steampowered.com (content7b.steampowered.com): AuthenticateDepotID (11) - Success!
+[2013-10-25 20:31:57] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): AuthenticateDepotID (1) - Success!
+[2013-10-25 20:31:57] HTTP (CDN,11) - content7b.steampowered.com (content7b.steampowered.com): AuthenticateDepotID (71) - Success!
+[2013-10-25 20:31:58] AppID 10 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:58] AppID 70 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:58] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:58] AppID 10 state changed : 0x00020142 = Update Required,Shared Only,Update Running,Validating,
+[2013-10-25 20:31:58] AppID 70 state changed : 0x00020142 = Update Required,Shared Only,Update Running,Validating,
+[2013-10-25 20:31:58] AppID 90 state changed : 0x00020106 = Update Required,Fully Installed,Update Running,Validating,
+[2013-10-25 20:31:58] Validating files (target,full) ...
+[2013-10-25 20:31:58] File validation finished: 1157 files (292827978 bytes) total, 1157 files (292827978 bytes) mismatched (85 msec).
+[2013-10-25 20:31:58] Validating files (target,full) ...
+[2013-10-25 20:31:58] File validation finished: 3791 files (445330938 bytes) total, 3791 files (445330938 bytes) mismatched (367 msec).
+[2013-10-25 20:31:58] Validating files (target,full) ...
+[2013-10-25 20:31:58] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (54 msec).
+[2013-10-25 20:31:58] AppID 10 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:58] AppID 70 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:58] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:58] AppID 10 state changed : 0x00080142 = Update Required,Shared Only,Update Running,Preallocating,
+[2013-10-25 20:31:58] AppID 70 state changed : 0x00080142 = Update Required,Shared Only,Update Running,Preallocating,
+[2013-10-25 20:31:58] AppID 90 state changed : 0x00080106 = Update Required,Fully Installed,Update Running,Preallocating,
+[2013-10-25 20:31:59] AppID 10 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:59] AppID 70 state changed : 0x00000142 = Update Required,Shared Only,Update Running,
+[2013-10-25 20:31:59] AppID 90 state changed : 0x00000106 = Update Required,Fully Installed,Update Running,
+[2013-10-25 20:31:59] AppID 10 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:31:59] AppID 10 state changed : 0x00300542 = Update Required,Shared Only,Update Running,Update Started,Downloading,Staging,
+[2013-10-25 20:31:59] Starting update AppID 10: download 0/152953680, store 0/0, reuse 0/0, stage 0/292827978
+[2013-10-25 20:31:59] AppID 70 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:31:59] AppID 70 state changed : 0x00300542 = Update Required,Shared Only,Update Running,Update Started,Downloading,Staging,
+[2013-10-25 20:31:59] Starting update AppID 70: download 0/251113936, store 0/0, reuse 0/0, stage 0/445330938
+[2013-10-25 20:31:59] AppID 90 state changed : 0x00000506 = Update Required,Fully Installed,Update Running,Update Started,
+[2013-10-25 20:31:59] Starting update AppID 90: download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2013-10-25 20:31:59] No changes detected, active: 4 (3196956435784640171), target: 4 (3196956435784640171),
+[2013-10-25 20:31:59] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): AuthenticateDepotID (11) - Success!
+[2013-10-25 20:31:59] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): AuthenticateDepotID (11) - Success!
+[2013-10-25 20:31:59] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): AuthenticateDepotID (11) - Success!
+[2013-10-25 20:32:01] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:04] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:11] Increasing target number of download connections to 5 (rate was 0.000, now 29.121)
+[2013-10-25 20:32:11] HTTP (CS,139) - valve52.cs.steampowered.com (valve52.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:32:11] HTTP (CS,139) - valve52.cs.steampowered.com (valve52.cs.steampowered.com): AuthenticateDepotID (11) - Success!
+[2013-10-25 20:32:23] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:43] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:46] HTTP (CS,139) - valve52.cs.steampowered.com (valve52.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:48] HTTP (CS,124) - valve24.cs.steampowered.com (valve24.cs.steampowered.com): Closing connection
+[2013-10-25 20:32:48] HTTP (CS,56) - valve246.cs.steampowered.com (valve246.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:32:49] HTTP (CS,97) - valve14.cs.steampowered.com (valve14.cs.steampowered.com): Closing connection
+[2013-10-25 20:32:49] HTTP (CS,139) - valve52.cs.steampowered.com (valve52.cs.steampowered.com): Closing connection
+[2013-10-25 20:32:49] HTTP (CS,56) - valve246.cs.steampowered.com (valve246.cs.steampowered.com): AuthenticateDepotID (1) - Success!
+[2013-10-25 20:32:49] HTTP (CS,7) - valve152.cs.steampowered.com (valve152.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:32:49] HTTP (CS,7) - valve152.cs.steampowered.com (valve152.cs.steampowered.com): AuthenticateDepotID (1) - Success!
+[2013-10-25 20:32:49] HTTP (CS,70) - valve259.cs.steampowered.com (valve259.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:32:49] HTTP (CDN,11) - content7b.steampowered.com (content7b.steampowered.com): AuthenticateDepotID (1) - Success!
+[2013-10-25 20:32:51] HTTP (CS,56) - valve246.cs.steampowered.com (valve246.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:32:51] HTTP (CS,70) - valve259.cs.steampowered.com (valve259.cs.steampowered.com): AuthenticateDepotID (1) - Success!
+[2013-10-25 20:32:56] HTTP (CS,70) - valve259.cs.steampowered.com (valve259.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:33:47] HTTP (CS,56) - valve246.cs.steampowered.com (valve246.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:33:59] HTTP (CS,70) - valve259.cs.steampowered.com (valve259.cs.steampowered.com): Received 404 (Not Found) HTTP response
+[2013-10-25 20:35:16] HTTP (CS,56) - valve246.cs.steampowered.com (valve246.cs.steampowered.com): Closing connection
+[2013-10-25 20:35:16] HTTP (CS,70) - valve259.cs.steampowered.com (valve259.cs.steampowered.com): Closing connection
+[2013-10-25 20:35:16] HTTP (CS,7) - valve152.cs.steampowered.com (valve152.cs.steampowered.com): AuthenticateDepotID (71) - Success!
+[2013-10-25 20:35:16] HTTP (CS,37) - valve184.cs.steampowered.com (valve184.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:35:17] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): AuthenticateDepotID (71) - Success!
+[2013-10-25 20:35:17] HTTP (CS,37) - valve184.cs.steampowered.com (valve184.cs.steampowered.com): AuthenticateDepotID (71) - Success!
+[2013-10-25 20:35:17] HTTP (CS,36) - valve161.cs.steampowered.com (valve161.cs.steampowered.com): OpenConnection - Success!
+[2013-10-25 20:35:17] HTTP (CS,36) - valve161.cs.steampowered.com (valve161.cs.steampowered.com): AuthenticateDepotID (71) - Success!
+[2013-10-25 20:35:19] AppID 10 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:35:19] AppID 70 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:35:19] AppID 10 state changed : 0x00400542 = Update Required,Shared Only,Update Running,Update Started,Committing,
+[2013-10-25 20:35:19] AppID 70 state changed : 0x00400542 = Update Required,Shared Only,Update Running,Update Started,Committing,
+[2013-10-25 20:35:19] AppID 90 state changed : 0x00400506 = Update Required,Fully Installed,Update Running,Update Started,Committing,
+[2013-10-25 20:35:19] AppID 10 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:35:19] AppID 10 state changed : 0x00000144 = Fully Installed,Shared Only,Update Running,
+[2013-10-25 20:35:19] Finished update AppID 10, mounted depots (BuildID 68736): 11 (3149618157612033597),
+[2013-10-25 20:35:20] AppID 70 state changed : 0x00000542 = Update Required,Shared Only,Update Running,Update Started,
+[2013-10-25 20:35:20] AppID 70 state changed : 0x00000144 = Fully Installed,Shared Only,Update Running,
+[2013-10-25 20:35:20] Finished update AppID 70, mounted depots (BuildID 110703): 1 (5409401804038872403),71 (778444776426820105),
+[2013-10-25 20:35:20] AppID 90 state changed : 0x00000506 = Update Required,Fully Installed,Update Running,Update Started,
+[2013-10-25 20:35:20] AppID 90 state changed : 0x00000104 = Fully Installed,Update Running,
+[2013-10-25 20:35:20] Finished update AppID 90, mounted depots (BuildID 63549): 4 (3196956435784640171),
+[2013-10-25 20:35:20] AppID 10 state changed : 0x00000044 = Fully Installed,Shared Only,
+[2013-10-25 20:35:20] AppID 70 state changed : 0x00000044 = Fully Installed,Shared Only,
+[2013-10-25 20:35:20] AppID 90 state changed : 0x00000004 = Fully Installed,
+[2013-10-25 20:35:20] Scheduler finished appID 90: removed from schedule
+[2013-10-25 20:35:27] HTTP (CS,37) - valve184.cs.steampowered.com (valve184.cs.steampowered.com): Closing connection
+[2013-10-25 20:35:27] HTTP (CS,36) - valve161.cs.steampowered.com (valve161.cs.steampowered.com): Closing connection
+[2013-10-25 20:35:27] HTTP (CS,7) - valve152.cs.steampowered.com (valve152.cs.steampowered.com): Closing connection
+[2013-10-25 20:35:28] HTTP (CDN,11) - content7b.steampowered.com (content7b.steampowered.com): Closing connection
+[2013-10-25 20:35:29] HTTP (CDN,11) - content7a.steampowered.com (content7a.steampowered.com): Closing connection
+
+
+[2013-10-25 20:39:25] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-25 20:45:38] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-25 20:46:45] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-25 20:49:58] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-26 20:48:44] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 10:29:30] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 10:40:00] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 10:41:41] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 10:44:37] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:00:07] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:00:21] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:00:38] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:01:38] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:02:14] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:04:01] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:20:16] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:23:23] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 11:28:35] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 19:40:52] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-27 19:40:57] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-28 20:09:52] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-28 20:10:07] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-28 20:10:19] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-28 20:10:36] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-30 15:51:13] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-30 15:52:37] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-30 19:30:35] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-30 20:34:45] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-31 04:04:09] Loaded 0 apps from 1 install folders.
+
+
+[2013-10-31 04:05:32] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-01 18:22:50] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-01 18:48:16] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-02 11:54:53] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-02 12:06:37] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-02 12:43:55] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-02 12:51:22] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-02 13:14:13] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-03 08:09:23] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-03 08:09:53] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-04 13:45:46] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-05 09:04:34] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-05 19:43:21] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-05 19:44:23] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-06 13:29:35] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-07 10:52:03] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-07 23:53:50] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-08 10:49:30] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-09 09:30:50] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 08:28:46] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 08:31:05] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 08:41:52] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 08:44:09] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 10:52:56] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 11:05:55] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-10 19:05:14] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-11 08:36:41] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-12 08:58:09] Loaded 0 apps from 1 install folders.
+
+
+[2013-11-12 19:37:35] Loaded 0 apps from 1 install folders.

@@ -1,0 +1,45 @@
+L 11/01/2013 - 18:08:37: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 18:14:29: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 18:16:08: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 18:16:28: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 18:22:49: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 18:22:51: [gunxpmod.amxx] Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)
+L 11/01/2013 - 18:45:51: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 18:46:06: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 11/01/2013 - 18:48:01: -------- Mapchange to de_airstrip --------
+L 11/01/2013 - 19:11:01: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 19:11:16: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 11/01/2013 - 19:13:10: -------- Mapchange to cs_havana --------
+L 11/01/2013 - 19:36:11: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 19:36:26: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_chateau
+L 11/01/2013 - 19:38:20: -------- Mapchange to de_chateau --------
+L 11/01/2013 - 20:01:21: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 20:01:36: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 11/01/2013 - 20:03:30: -------- Mapchange to de_aztec --------
+L 11/01/2013 - 20:26:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 20:26:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be as_oilrig
+L 11/01/2013 - 20:28:40: -------- Mapchange to as_oilrig --------
+L 11/01/2013 - 20:51:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 20:51:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_siege
+L 11/01/2013 - 20:53:49: -------- Mapchange to cs_siege --------
+L 11/01/2013 - 21:16:49: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 21:17:05: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 11/01/2013 - 21:18:59: -------- Mapchange to de_cbble --------
+L 11/01/2013 - 21:42:00: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 21:42:15: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 11/01/2013 - 21:44:09: -------- Mapchange to de_dust --------
+L 11/01/2013 - 22:07:09: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 22:07:24: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_747
+L 11/01/2013 - 22:09:19: -------- Mapchange to cs_747 --------
+L 11/01/2013 - 22:32:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 22:32:34: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 11/01/2013 - 22:34:29: -------- Mapchange to de_prodigy --------
+L 11/01/2013 - 22:57:30: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 22:57:45: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 11/01/2013 - 22:59:39: -------- Mapchange to cs_assault --------
+L 11/01/2013 - 23:22:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 23:22:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_office
+L 11/01/2013 - 23:24:50: -------- Mapchange to cs_office --------
+L 11/01/2013 - 23:47:52: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 11/01/2013 - 23:48:07: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 11/01/2013 - 23:50:08: -------- Mapchange to cs_italy --------

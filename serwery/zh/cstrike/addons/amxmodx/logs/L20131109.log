@@ -1,0 +1,400 @@
+L 11/09/2013 - 01:11:57: [afkdf.amxx] Elitarny Patryk zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 01:30:38: -------- Mapchange to zm_rats2009 --------
+L 11/09/2013 - 01:30:53: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 01:30:54: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 01:30:54: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 01:30:54: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383960654,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 01:30:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 01:30:54: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 07:57:47: [amxbans_core.amxx] Login: "SzpiegooO<1804><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 07:57:49: [amxbans_core.amxx] Login: "SzpiegooO<1805><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 07:57:52: [afkdf.amxx] Lord _PL zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 07:58:13: [amxbans_core.amxx] Login: "SzpiegooO<1805><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:01:50: [amxbans_core.amxx] Login: "SzpiegooO<1805><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:04:07: [afkdf.amxx] SK|M4A1|Power|<zet> zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 08:05:37: [amxbans_core.amxx] Login: "SzpiegooO<1805><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:05:40: -------- Mapchange to cs_crackhouse --------
+L 11/09/2013 - 08:05:49: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 08:05:49: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 08:05:49: [amxbans_core.amxx] Login: "SzpiegooO<1805><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:05:49: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 08:05:50: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383984350,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 08:05:50: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 08:05:50: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 08:05:59: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:08:03: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:09:43: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:11:25: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:13:48: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:16:26: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:19:40: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:22:31: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:25:05: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:28:58: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:33:21: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:33:24: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 08:33:26: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 08:33:27: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 08:33:27: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 08:33:27: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383986007,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 08:33:27: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 08:33:27: [amxbans_core.amxx] Login: "SzpiegooO<1823><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:33:27: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 08:33:29: [amxbans_core.amxx] Login: "SzpiegooO<1831><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:35:43: [amxbans_core.amxx] Login: "SzpiegooO<1831><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:39:46: [amxbans_core.amxx] Login: "SzpiegooO<1831><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:41:09: [amxbans_core.amxx] Login: "SzpiegooO<1831><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:43:06: [afkdf.amxx] Lord _PL zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 08:51:42: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:52:57: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:56:15: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 08:59:22: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:02:52: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:07:31: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:07:35: -------- Mapchange to gg_hideout --------
+L 11/09/2013 - 09:07:35: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 09:07:35: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 09:07:35: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 09:07:36: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383988056,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 09:07:36: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 09:07:36: [amxbans_core.amxx] Login: "SzpiegooO<1855><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:07:36: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 09:07:38: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:07:47: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:09:45: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:11:43: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:13:22: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:15:10: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:17:50: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:21:10: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:24:19: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:27:56: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:33:02: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:33:17: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 09:33:35: [amxbans_core.amxx] Login: "SzpiegooO<1867><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 11:01:08: [afkdf.amxx] Lord _PL zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 11:12:03: [afkdf.amxx] Lord _PL zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 11:38:29: -------- Mapchange to cs_italy --------
+L 11/09/2013 - 11:38:39: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 11:38:40: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 11:38:40: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 11:38:40: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383997120,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 11:38:40: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 11:38:41: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 11:46:44: [afkdf.amxx] Tomek zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 11:58:26: [amxbans_core.amxx] Login: "SzpiegooO<1960><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 11:58:29: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:00:51: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:04:01: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:09:33: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:14:55: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:19:05: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:25:00: [amxbans_core.amxx] Login: "SzpiegooO<1961><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:25:08: -------- Mapchange to de_train --------
+L 11/09/2013 - 12:25:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 12:25:32: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 12:25:32: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 12:25:32: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383999932,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 12:25:32: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 12:25:33: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 12:25:38: [amxbans_core.amxx] Login: "SzpiegooO<1997><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:25:40: [amxbans_core.amxx] Login: "SzpiegooO<2002><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:25:46: [amxbans_core.amxx] Login: "SzpiegooO<2002><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:34:45: [amxbans_core.amxx] Login: "SzpiegooO<2012><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 12:34:48: [amxbans_core.amxx] Login: "SzpiegooO<2013><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 13:25:50: [afkdf.amxx] Tomek zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 13:59:34: [amxbans_core.amxx] Login: "MaQu<2046><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 13:59:40: [amxbans_core.amxx] Login: "MaQu<2047><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:02:51: [amxbans_core.amxx] Login: "MaQu<2047><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:07:41: [amxbans_core.amxx] Login: "MaQu<2047><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:14:09: [amxbans_core.amxx] Login: "MaQu<2047><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:14:14: -------- Mapchange to gg_33_circa --------
+L 11/09/2013 - 14:14:20: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 14:14:21: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 14:14:21: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 14:14:21: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384006461,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 14:14:21: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 14:14:21: [amxbans_core.amxx] Login: "MaQu<2047><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:14:21: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 14:14:22: [amxbans_core.amxx] Login: "MaQu<2061><STEAM_ID_LAN><>" became an admin (account "MaQu") (access "q") (address "46.186.46.241") (nick "MaQu") (static 0)
+L 11/09/2013 - 14:44:50: -------- Mapchange to de_mirage --------
+L 11/09/2013 - 14:44:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 14:44:52: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 14:44:52: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 14:44:52: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384008292,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 14:44:52: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 14:44:52: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 15:19:31: [amxbans_core.amxx] Login: "GeDox<2126><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:19:40: [amxbans_core.amxx] Login: "GeDox<2127><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:20:15: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:23:27: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:26:00: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:29:14: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:32:30: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:36:40: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:40:56: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:45:19: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:50:30: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:56:59: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:57:04: -------- Mapchange to cs_assault_upc --------
+L 11/09/2013 - 15:57:08: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 15:57:08: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 15:57:08: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 15:57:08: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384012628,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 15:57:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 15:57:08: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:57:08: [amxbans_core.amxx] Login: "GeDox<2128><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 15:57:08: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 15:57:15: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:00:09: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:02:44: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:05:22: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:08:18: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:11:01: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:13:29: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:16:17: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:18:50: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:22:06: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:24:32: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Kodziu<21><STEAM_0:0:26872636><>" Message: "Odrodzisz?"
+L 11/09/2013 - 16:24:49: [std_admin_color_chat.amxx] PM From: "GeDox<15><STEAM_0:1:28747762><>" To: "Kodziu<21><STEAM_0:0:26872636><>" Message: "Nie moge. Wpisz /respawn"
+L 11/09/2013 - 16:25:22: [std_admin_color_chat.amxx] PM From: "GeDox<15><STEAM_0:1:28747762><>" To: "Kodziu<21><STEAM_0:0:26872636><>" Message: "Wpisz /respawn :P"
+L 11/09/2013 - 16:26:46: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:26:50: -------- Mapchange to de_cbble --------
+L 11/09/2013 - 16:26:54: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 16:26:54: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 16:26:54: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 16:26:54: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384014414,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 16:26:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 16:26:55: [amxbans_core.amxx] Login: "GeDox<2161><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:26:55: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 16:27:00: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:30:05: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:32:33: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:36:25: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:36:29: [std_admin_color_chat.amxx] PM From: "GeDox<15><STEAM_0:1:28747762><>" To: "Kodziu<21><STEAM_0:0:26872636><>" Message: "Podobno Husqa dobrze znasz... :)"
+L 11/09/2013 - 16:42:09: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:45:57: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:48:32: [adminchat.amxx] Chat: "GeDox<2195><STEAM_0:1:28747762><>" tsay "Co myslicie o dodaniu nowych broni? :)"
+L 11/09/2013 - 16:49:30: [afkdf.amxx] New.Nowsteam.player zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 16:52:05: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:57:52: [admincmd.amxx] Cmd: "GeDox<2195><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "de_dust2")
+L 11/09/2013 - 16:58:18: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 16:58:55: [adminvote.amxx] Vote: "GeDox<2195><STEAM_0:1:28747762><>" vote custom (question "Jaka nastepna?") (option#1 "de_dust2") (option#2 "fy_snow2")
+L 11/09/2013 - 16:59:07: [adminvote.amxx] Vote: Voting successful (got "2") (needed "1") (result "Jaka nastepna? - de_dust2")
+L 11/09/2013 - 17:01:47: [adminchat.amxx] Chat: "GeDox<2195><STEAM_0:1:28747762><>" tsay "Zapraszajcie znajomych! :)"
+L 11/09/2013 - 17:08:15: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:08:19: -------- Mapchange to de_dust2 --------
+L 11/09/2013 - 17:08:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 17:08:30: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 17:08:30: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 17:08:30: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384016910,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 17:08:30: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 17:08:30: [amxbans_core.amxx] Login: "GeDox<2195><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:08:30: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 17:08:34: [amxbans_core.amxx] Login: "GeDox<2222><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:08:43: [amxbans_core.amxx] Login: "GeDox<2222><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:11:06: [amxbans_core.amxx] Login: "GeDox<2222><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:12:08: [admincmd.amxx] Cmd: "GeDox<2222><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "fy_snow2")
+L 11/09/2013 - 17:29:05: [afkdf.amxx] MCsikor zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 17:40:45: [afkdf.amxx] Tomek zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 17:48:10: [amxbans_core.amxx] Login: "GeDox<2255><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:48:20: [amxbans_core.amxx] Login: "GeDox<2256><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:48:24: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 17:48:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 17:48:32: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 17:48:32: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 17:48:32: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384019312,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 17:48:32: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 17:48:32: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 17:48:43: [amxbans_core.amxx] Login: "GeDox<2256><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:48:55: [amxbans_core.amxx] Login: "GeDox<2274><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:49:35: [amxbans_core.amxx] Login: "GeDox<2274><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:50:09: [amxbans_core.amxx] Login: "GeDox<2274><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:50:35: [amxbans_core.amxx] Login: "GeDox<2274><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:50:56: [amxbans_core.amxx] Login: "GeDox<2274><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:51:11: [mapsmenu.amxx] Cmd: "GeDox<2274><STEAM_0:1:28747762><>" changelevel "fy_snow2"
+L 11/09/2013 - 17:51:13: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 17:51:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 17:51:17: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 17:51:17: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 17:51:18: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384019478,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 17:51:18: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 17:51:18: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 17:51:28: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:52:34: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:52:42: [adminchat.amxx] Chat: "GeDox<2291><STEAM_0:1:28747762><>" tsay "Male problemy techniczne..."
+L 11/09/2013 - 17:53:05: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:53:31: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:53:59: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:54:29: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:54:54: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:55:22: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:55:54: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:56:24: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:56:46: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:57:15: [mapsmenu.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" changelevel "fy_snow2"
+L 11/09/2013 - 17:57:17: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 17:57:18: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 17:57:18: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 17:57:18: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 17:57:18: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384019838,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 17:57:18: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 17:57:18: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 17:57:18: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:58:06: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:58:32: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:58:55: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:59:06: [mapsmenu.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" changelevel "fy_snow2"
+L 11/09/2013 - 17:59:08: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 17:59:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 17:59:09: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 17:59:09: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 17:59:09: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 17:59:09: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384019949,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 17:59:09: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 17:59:09: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 17:59:37: [adminchat.amxx] Chat: "GeDox<2291><STEAM_0:1:28747762><>" tsay "Przepraszamy za male problemy techniczne."
+L 11/09/2013 - 18:00:36: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:01:44: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:03:20: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:04:44: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:06:24: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:08:04: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:10:48: [admincmd.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "fy_snow2")
+L 11/09/2013 - 18:10:49: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:12:57: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:14:23: [admincmd.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" set cvar (name "zombie_level") (value "1")
+L 11/09/2013 - 18:15:08: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:15:29: [adminchat.amxx] Chat: "GeDox<2291><STEAM_0:1:28747762><>" tsay "Jaka dac nastepna mape?"
+L 11/09/2013 - 18:16:14: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:16:50: [admincmd.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "gg_hideout")
+L 11/09/2013 - 18:17:31: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:19:29: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:20:24: [afkdf.amxx] Steruje strzalkami, bo lubie. zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 18:21:22: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:24:07: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:26:15: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:28:17: [adminvote.amxx] Vote: "GeDox<2291><STEAM_0:1:28747762><>" vote custom (question "przedluzamy?") (option#1 "yup") (option#2 "nope")
+L 11/09/2013 - 18:28:20: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:28:29: [adminvote.amxx] Vote: Voting successful (got "3") (needed "1") (result "przedluzamy? - yup")
+L 11/09/2013 - 18:28:35: [admincmd.amxx] Cmd: "GeDox<2291><STEAM_0:1:28747762><>" set cvar (name "zombie_level") (value "1")
+L 11/09/2013 - 18:30:04: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:31:29: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:32:31: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:34:02: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:35:55: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:37:45: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 18:37:59: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:40:13: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:42:04: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:43:56: [amxbans_core.amxx] Login: "SzpiegooO<2332><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:43:59: [amxbans_core.amxx] Login: "SzpiegooO<2333><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:44:15: [afkdf.amxx] BOT zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 18:44:40: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:44:40: [amxbans_core.amxx] Login: "SzpiegooO<2333><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:46:36: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:46:36: [amxbans_core.amxx] Login: "SzpiegooO<2333><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:46:39: -------- Mapchange to gg_hideout --------
+L 11/09/2013 - 18:46:40: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 18:46:40: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 18:46:40: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 18:46:40: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384022800,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 18:46:40: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 18:46:41: [amxbans_core.amxx] Login: "SzpiegooO<2333><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:46:41: [amxbans_core.amxx] Login: "GeDox<2291><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:46:41: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 18:46:43: [amxbans_core.amxx] Login: "SzpiegooO<2341><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:46:46: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:46:51: [amxbans_core.amxx] Login: "SzpiegooO<2341><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.131.26") (nick "SzpiegooO") (static 0)
+L 11/09/2013 - 18:49:29: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:51:48: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:53:37: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:55:53: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 18:58:23: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:00:08: [adminvote.amxx] Vote: "GeDox<2351><STEAM_0:1:28747762><>" vote custom (question "Przedluzamy potem?") (option#1 "yup") (option#2 "nope")
+L 11/09/2013 - 19:00:20: [adminvote.amxx] Vote: Voting successful (got "2") (needed "1") (result "Przedluzamy potem? - yup")
+L 11/09/2013 - 19:00:42: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:00:58: [std_admin_color_chat.amxx] PM From: "GeDox<15><STEAM_0:1:28747762><>" To: "Steruje strzalkami, bo lubie.<21><STEAM_0:0:559053922><>" Message: "Daj tytuly fajnych mapek gg_ :)"
+L 11/09/2013 - 19:02:34: [afkdf.amxx] BoR$uK zostal wywalony za bycie AFK przez 90 sekund
+L 11/09/2013 - 19:03:29: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:05:46: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:08:24: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:11:02: [amxbans_core.amxx] Login: "GeDox<2351><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:11:06: -------- Mapchange to cs_italy --------
+L 11/09/2013 - 19:11:08: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 19:11:08: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 19:11:08: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 19:11:08: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384024268,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 19:11:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 19:11:09: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 19:24:40: [amxbans_core.amxx] Login: "GeDox<2384><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:24:44: [amxbans_core.amxx] Login: "GeDox<2385><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:26:54: [admincmd.amxx] Cmd: "GeDox<2385><STEAM_0:1:28747762><>" set cvar (name "amx_nextmap") (value "fy_snow2")
+L 11/09/2013 - 19:28:37: [adminchat.amxx] Chat: "GeDox<2385><STEAM_0:1:28747762><>" tsay "NIE DAJ SIE ! :D"
+L 11/09/2013 - 19:29:05: [amxbans_core.amxx] Login: "GeDox<2385><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:32:56: [amxbans_core.amxx] Login: "GeDox<2385><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:37:38: [amxbans_core.amxx] Login: "GeDox<2385><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:41:16: [amxbans_core.amxx] Login: "GeDox<2385><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 19:53:12: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 19:53:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 19:53:14: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 19:53:14: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 19:53:14: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384026794,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 19:53:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 19:53:14: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 20:34:36: -------- Mapchange to gg_33_circa --------
+L 11/09/2013 - 20:34:41: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 20:34:41: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 20:34:41: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 20:34:41: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384029281,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 20:34:41: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 20:34:42: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 20:40:17: [amxbans_core.amxx] Login: "GeDox<2442><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:40:24: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:41:54: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:44:01: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:47:00: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:47:11: [adminchat.amxx] Chat: "GeDox<2443><STEAM_0:1:28747762><>" tsay "Czy tylko mi nie pokazuje XP'a ?"
+L 11/09/2013 - 20:50:10: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:53:10: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 20:56:20: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:00:25: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:04:56: [amxbans_core.amxx] Login: "GeDox<2443><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:05:00: -------- Mapchange to de_mirage --------
+L 11/09/2013 - 21:05:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 21:05:14: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 21:05:14: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 21:05:14: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384031114,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 21:05:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 21:05:14: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 21:05:24: [amxbans_core.amxx] Login: "GeDox<2463><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:05:31: [amxbans_core.amxx] Login: "GeDox<2464><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:07:55: [amxbans_core.amxx] Login: "GeDox<2464><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:10:33: [mapsmenu.amxx] Cmd: "GeDox<2464><STEAM_0:1:28747762><>" changelevel "fy_snow2"
+L 11/09/2013 - 21:10:35: -------- Mapchange to fy_snow2 --------
+L 11/09/2013 - 21:10:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 21:10:37: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 21:10:37: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 21:10:37: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384031437,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 21:10:37: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 21:10:37: [amxbans_core.amxx] Login: "GeDox<2464><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:10:38: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/09/2013 - 21:10:44: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:12:10: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:14:45: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:16:39: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:18:27: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:20:44: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:23:08: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:26:59: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:32:25: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:35:12: [admincmd.amxx] Cmd: "GeDox<2481><STEAM_0:1:28747762><>" set cvar (name "gxm_xp") (value "15")
+L 11/09/2013 - 21:35:49: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 21:39:22: [amxbans_core.amxx] Login: "GeDox<2481><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.133.29") (nick "G3D0X") (static 0)
+L 11/09/2013 - 22:13:30: -------- Mapchange to de_cbble --------
+L 11/09/2013 - 22:13:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/09/2013 - 22:13:44: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/09/2013 - 22:13:44: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/09/2013 - 22:13:44: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384035224,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/09/2013 - 22:13:44: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/09/2013 - 22:13:44: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.

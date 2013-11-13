@@ -1,0 +1,698 @@
+L 11/02/2013 - 11:54:47: -------- Mapchange to de_dust2 --------
+L 11/02/2013 - 11:54:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 11:54:54: -------- Mapchange to de_dust2 --------
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 11:54:54: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 11:54:55: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 11:54:56: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 11:54:57: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 12:07:51: -------- Mapchange to de_aztec --------
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 12:07:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:07:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 12:07:53: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 12:07:53: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 12:16:07: [afkkicker.amxx] Quler zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/02/2013 - 12:23:32: -------- Mapchange to aim_map_usp --------
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 12:23:32: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:23:32: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 12:23:33: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 12:23:34: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 12:27:51: [dontsayips.amxx] multi-PLM.pl /A/ CALLAWAY. (STEAM_0:0:46952877), zbanowany na 30 min reklama IP. This was written: "multi-PLM.pl /A/ CALLAWAY."
+L 11/02/2013 - 12:27:51: [adminchat.amxx] Chat: "[ AIM / AWP ] @ Damn-Zone.pl<0><><>" chat "multi-PLM.pl /A/ CALLAWAY. (STEAM_0:0:46952877): "multi-PLM.pl /A/ CALLAWAY.""
+L 11/02/2013 - 12:27:52: [amxbans_main.amxx] [ AIM / AWP ] @ Damn-Zone.pl<0><><> has banned Ale ten serwer jest zajebisty!<STEAM_0:0:46952877> for 30 minutes (30 Minutes). Reason: reklama IP.
+L 11/02/2013 - 12:33:51: -------- Mapchange to aim_headshot --------
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 12:33:51: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 12:33:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 12:33:53: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 12:33:54: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 12:47:23: [afkkicker.amxx] Quler zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/02/2013 - 12:48:38: [afkkicker.amxx] , zostal wykopany za bycie AFK dluzej niz 60 sekund
+L 11/02/2013 - 13:18:17: [adminchat.amxx] Chat: "Clear<64><STEAM_0:1:35190028><>" chat ":D"
+L 11/02/2013 - 13:18:52: [adminchat.amxx] Chat: "biodro nietoperza<62><STEAM_0:0:1788253780><>" chat " huje zewsi"
+L 11/02/2013 - 13:21:57: [adminchat.amxx] Chat: "Bolek i Lolek cie dojadom<51><STEAM_0:0:556202620><>" chat ""
+L 11/02/2013 - 13:22:17: -------- Mapchange to awp_space --------
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 13:22:17: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 13:22:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 13:22:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 13:22:23: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 13:25:06: [adminchat.amxx] Chat: "Bolek i Lolek cie dojadom<51><STEAM_0:0:556202620><>" chat "biedro nietoperza"
+L 11/02/2013 - 14:06:20: -------- Mapchange to awp_india --------
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 14:06:21: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:06:24: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 14:06:25: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 14:06:25: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 14:30:34: -------- Mapchange to 3d_AIM_TRAIN_B --------
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 14:30:35: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:30:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 14:30:44: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 14:30:44: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 14:54:51: -------- Mapchange to aim_fixit_deagle --------
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 14:54:52: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 14:54:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 14:54:58: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 14:54:58: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 14:57:01: [amxbans_core.amxx] Login: "Klaudia<89><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 14:57:07: [amxbans_core.amxx] Login: "Klaudia<90><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:08:14: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:10:59: [mapsmenu.amxx] Vote: "Klaudia<95><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "aim_awp") (map#3 "") (map#4 "")
+L 11/02/2013 - 15:11:03: [mapsmenu.amxx] Vote: Cancel vote session
+L 11/02/2013 - 15:11:49: [mapsmenu.amxx] Vote: "Klaudia<95><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "aim_awp") (map#3 "aim_map") (map#4 "")
+L 11/02/2013 - 15:12:01: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/02/2013 - 15:12:07: [mapsmenu.amxx] Vote: Result accepted
+L 11/02/2013 - 15:12:09: -------- Mapchange to aim_awp --------
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 15:12:09: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:12:10: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 15:12:11: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 15:12:11: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:12:11: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 15:14:17: [adminchat.amxx] Chat: "Klaudia<95><STEAM_0:0:19838297><>" tsay "nie bij z respa."
+L 11/02/2013 - 15:14:22: [adminchat.amxx] Chat: "Klaudia<95><STEAM_0:0:19838297><>" tsay "bo ban poleci"
+L 11/02/2013 - 15:17:47: [adminchat.amxx] Chat: "Klaudia<95><STEAM_0:0:19838297><>" tsay "nie bij z respa"
+L 11/02/2013 - 15:19:21: [admincmd.amxx] Cmd: "Klaudia<95><STEAM_0:0:19838297><>" set cvar (name "csstats_reset") (value "1")
+L 11/02/2013 - 15:19:27: -------- Mapchange to aim_aztec --------
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] Loading File: "addons/amxmodx/configs/roundsound.ini"
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] [ Loading 8 CTs Sounds ]
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/1.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/2.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/3.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/4.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/5.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/6.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/7.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/8.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] [ Loading 8 Ts Sounds ]
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/9.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/10.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/11.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/12.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/13.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/14.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/15.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx]    - sound/rs/16.mp3
+L 11/02/2013 - 15:19:27: [alt_end_round_sounds.amxx] ---
+L 11/02/2013 - 15:19:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/ultimate_sounds.txt
+L 11/02/2013 - 15:19:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 15:19:29: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:19:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 15:23:39: [amxbans_core.amxx] Login: "Player<114><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:25:27: [adminchat.amxx] Chat: "Player<114><STEAM_0:0:1341029><>" chat " mozesz mi napisac jakie to mapy chcialas"
+L 11/02/2013 - 15:25:34: [adminchat.amxx] Chat: "Player<114><STEAM_0:0:1341029><>" chat " bo mi przerwaly sluchawki"
+L 11/02/2013 - 15:26:01: [adminchat.amxx] Chat: "Player<114><STEAM_0:0:1341029><>" chat " Klaudiu."
+L 11/02/2013 - 15:27:11: [mapsmenu.amxx] Vote: "Player<114><STEAM_0:0:1341029><>" vote maps (map#1 "aim_awp") (map#2 "awp_india") (map#3 "") (map#4 "")
+L 11/02/2013 - 15:27:23: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/02/2013 - 15:27:27: [mapsmenu.amxx] Vote: Result accepted
+L 11/02/2013 - 15:27:29: -------- Mapchange to aim_awp --------
+L 11/02/2013 - 15:27:30: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 15:27:31: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 15:27:31: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:27:31: [amxbans_core.amxx] Login: "Player<114><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:27:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 15:27:35: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:27:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 15:28:15: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:28:15: [amxbans_core.amxx] Login: "Player<114><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:28:34: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:28:53: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:28:53: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:29:32: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:29:32: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:29:55: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:29:55: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:30:29: [AFK_DZ.amxx] PazZac - What the fox say ? zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 15:30:29: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:30:29: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:30:56: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:30:56: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:31:28: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:31:28: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:32:09: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:32:09: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:33:11: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:33:11: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:33:23: [adminchat.amxx] Chat: "Klaudia<95><STEAM_0:0:19838297><>" tsay "nie raszowac"
+L 11/02/2013 - 15:33:58: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:33:58: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:34:27: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:34:27: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:35:00: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:35:00: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:36:09: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:36:09: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:37:08: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:37:08: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:38:20: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:38:20: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:38:57: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:38:57: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:39:32: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:39:32: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:39:55: [AFK_DZ.amxx] luur *e5 zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 15:40:28: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:40:28: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:41:28: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:41:28: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:41:44: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:41:44: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:42:00: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:42:00: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:42:43: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:42:43: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:43:20: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:43:20: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:43:50: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:43:50: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:45:11: [amxbans_core.amxx] Login: "Klaudia<95><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 15:45:11: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:45:45: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:46:03: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:46:24: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:46:35: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:48:57: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:50:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 15:50:40: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be 3d_aim_dust2
+L 11/02/2013 - 15:52:42: -------- Mapchange to 3d_aim_dust2 --------
+L 11/02/2013 - 15:52:43: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 15:52:43: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 15:52:43: [amxbans_core.amxx] Login: "Player<122><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 15:52:43: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 15:52:49: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 15:52:55: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:00:21: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:00:40: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:00:57: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:01:26: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:02:36: [amxbans_core.amxx] Login: "Player<137><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:02:52: [amxbans_core.amxx] Login: "Player<141><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.191.26") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 16:23:27: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 16:23:37: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be 3d_AIM_TRAIN_A
+L 11/02/2013 - 16:25:28: -------- Mapchange to 3d_AIM_TRAIN_A --------
+L 11/02/2013 - 16:25:28: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 16:25:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 16:25:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 16:25:35: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 16:48:28: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 16:48:38: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_awp
+L 11/02/2013 - 16:58:12: -------- Mapchange to aim_awp --------
+L 11/02/2013 - 16:58:13: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 16:58:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 16:58:14: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 16:58:20: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 17:17:03: [AFK_DZ.amxx] Blewie zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 17:33:58: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 17:34:08: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztec
+L 11/02/2013 - 17:35:57: -------- Mapchange to aim_aztec --------
+L 11/02/2013 - 17:35:58: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 17:35:58: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 17:35:59: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 17:36:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 17:54:25: [amxbans_core.amxx] Login: "Klaudia<156><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 17:57:52: [amxbans_core.amxx] Login: "Klaudia<156><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:01:05: [amxbans_core.amxx] Login: "Klaudia<156><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:12:27: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 18:12:37: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_b0n0
+L 11/02/2013 - 18:14:28: -------- Mapchange to aim_b0n0 --------
+L 11/02/2013 - 18:14:30: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 18:14:30: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 18:14:31: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 18:14:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 18:37:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 18:37:39: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/02/2013 - 18:56:31: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:56:56: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:57:07: [mapsmenu.amxx] Vote: "Klaudia<166><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "aim_awp") (map#3 "") (map#4 "")
+L 11/02/2013 - 18:57:19: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/02/2013 - 18:57:23: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:57:24: [mapsmenu.amxx] Vote: Result accepted
+L 11/02/2013 - 18:57:26: -------- Mapchange to aim_awp --------
+L 11/02/2013 - 18:57:27: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 18:57:28: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 18:57:28: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:57:29: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 18:57:34: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:57:34: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 18:57:50: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:58:04: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Clear<5><STEAM_0:1:35190028><>" Message: "Moge odzyskac admina ,d?"
+L 11/02/2013 - 18:58:14: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:58:15: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Clear<5><STEAM_0:1:35190028><>" Message: "czy trzeba znowu podanie?>"
+L 11/02/2013 - 18:58:46: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:59:03: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:59:31: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 18:59:46: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 19:00:07: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 19:01:20: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 19:01:57: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 19:02:15: [amxbans_core.amxx] Login: "Klaudia<166><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 19:31:57: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 19:32:07: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/02/2013 - 19:34:09: -------- Mapchange to aim_dgl --------
+L 11/02/2013 - 19:34:10: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 19:34:11: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 19:34:12: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 19:34:17: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 19:54:40: [AFK_DZ.amxx] ****WorekKielbasy**** zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 19:58:20: [AFK_DZ.amxx] nemesys zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 20:00:55: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 20:01:05: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/02/2013 - 20:03:05: -------- Mapchange to aim_famas_x --------
+L 11/02/2013 - 20:03:07: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 20:03:08: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 20:03:09: [amxbans_core.amxx] Login: "Klaudia<221><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 20:03:09: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 20:03:14: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 20:11:43: [amxbans_core.amxx] Login: "Klaudia<222><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 20:42:52: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 20:43:02: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/02/2013 - 20:45:05: -------- Mapchange to aim_headshot --------
+L 11/02/2013 - 20:45:16: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 20:45:18: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 20:45:18: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 20:45:24: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 21:08:17: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 21:08:27: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/02/2013 - 21:23:33: [AFK_DZ.amxx] Batman zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 21:28:40: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:28:52: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:29:22: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:29:39: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:29:55: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:30:15: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:30:33: [mapsmenu.amxx] Vote: "Klaudia<246><STEAM_0:0:19838297><>" vote maps (map#1 "aim_awp") (map#2 "") (map#3 "") (map#4 "")
+L 11/02/2013 - 21:30:36: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:30:45: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_awp
+L 11/02/2013 - 21:30:46: [mapsmenu.amxx] Vote: Result accepted
+L 11/02/2013 - 21:30:49: -------- Mapchange to aim_awp --------
+L 11/02/2013 - 21:31:01: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 21:31:03: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 21:31:03: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:31:03: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 21:31:09: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 21:31:12: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:32:18: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:32:35: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:32:59: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:33:21: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:33:50: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:34:25: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:35:21: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:35:48: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:36:25: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:37:02: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:37:27: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:38:18: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:38:50: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:39:15: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:39:46: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:40:15: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:40:46: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:41:03: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:41:19: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:41:42: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:42:15: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:43:28: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:44:47: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:44:56: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:45:32: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:45:32: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:47:10: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:47:10: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:47:49: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:47:49: [amxbans_core.amxx] Login: "Klaudia<246><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:49:22: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:50:01: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:50:48: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:51:59: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:52:14: [amxbans_core.amxx] Login: "Player<259><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:54:19: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 21:54:19: [mapchooser4.amxx] Shevy chose aim_map_deagle
+L 11/02/2013 - 21:54:25: [mapchooser4.amxx] dildo chose aim_map_deagle
+L 11/02/2013 - 21:54:29: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map_deagle
+L 11/02/2013 - 21:56:21: -------- Mapchange to aim_map_deagle --------
+L 11/02/2013 - 21:56:23: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 21:56:24: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 21:56:24: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 21:56:30: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 21:59:19: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:59:35: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 21:59:46: [amxbans_core.amxx] Login: "Player<276><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 21:59:50: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:00:20: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:00:20: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:01:10: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:01:10: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:02:09: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:02:09: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:02:31: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:02:31: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:02:55: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:02:55: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:03:46: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:03:46: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:04:13: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:04:13: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:04:31: [mapsmenu.amxx] Vote: "Klaudia<273><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "awp_india") (map#3 "") (map#4 "")
+L 11/02/2013 - 22:04:43: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to awp_india
+L 11/02/2013 - 22:04:50: [mapsmenu.amxx] Vote: Result accepted
+L 11/02/2013 - 22:04:52: -------- Mapchange to awp_india --------
+L 11/02/2013 - 22:04:54: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 22:04:55: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:04:55: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 22:04:55: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:04:55: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 22:05:01: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:05:01: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 22:05:17: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:05:17: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:05:34: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:05:34: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:05:51: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:05:51: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:06:13: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:06:13: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:06:42: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:06:42: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:07:03: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:07:03: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:07:33: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:07:33: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:08:02: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:08:02: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:08:25: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:08:25: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:08:51: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:08:51: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:09:11: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:09:11: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:09:27: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:09:27: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:09:51: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:09:51: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:10:17: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:10:18: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:11:21: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:11:21: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:12:02: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:12:02: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:12:28: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:12:28: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:12:42: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:12:42: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:13:14: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:13:14: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:13:53: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:13:53: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:14:24: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:14:24: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:14:44: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:14:44: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:15:18: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:15:18: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:15:54: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:15:54: [amxbans_core.amxx] Login: "Player<277><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "83.29.165.149") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/02/2013 - 22:16:39: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:17:04: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:17:38: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:18:38: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:19:16: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:19:57: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:20:32: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:20:55: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:21:10: [mapsmenu.amxx] Vote: "Klaudia<273><STEAM_0:0:19838297><>" vote maps (map#1 "aim_ak47") (map#2 "aim_awp") (map#3 "") (map#4 "")
+L 11/02/2013 - 22:21:22: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to aim_ak47
+L 11/02/2013 - 22:21:32: [mapsmenu.amxx] Vote: Result refused
+L 11/02/2013 - 22:21:40: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:21:45: [mapsmenu.amxx] Cmd: "Klaudia<273><STEAM_0:0:19838297><>" changelevel "aim_ak47"
+L 11/02/2013 - 22:21:48: -------- Mapchange to aim_ak47 --------
+L 11/02/2013 - 22:21:50: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 22:21:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 22:21:51: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:21:51: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 22:21:56: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 22:21:58: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:22:22: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:22:41: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:23:07: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:23:30: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:24:15: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:24:43: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:25:13: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:25:35: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:26:20: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:26:39: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:27:28: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:27:49: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:28:15: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:28:31: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:28:48: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:29:15: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:29:48: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:30:06: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:30:43: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:31:01: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:31:18: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:31:44: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:32:14: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:32:53: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:33:23: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:33:37: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:33:58: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:34:12: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:35:15: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:35:26: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:35:58: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:36:14: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:36:30: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:36:52: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:37:22: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:37:40: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:37:55: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:38:13: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:38:45: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:39:00: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:39:33: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:40:52: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:41:26: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:41:44: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:42:06: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:42:20: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:42:35: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:44:00: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:44:21: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:44:40: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:45:18: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:45:56: [amxbans_core.amxx] Login: "Klaudia<273><STEAM_0:0:19838297><>" became an admin (account "STEAM_0:0:19838297") (access "abcdefghijklmnopqrstu") (address "46.186.127.83") (nick "Klaudia") (static 0)
+L 11/02/2013 - 22:58:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 22:58:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map2
+L 11/02/2013 - 23:00:23: -------- Mapchange to aim_map2 --------
+L 11/02/2013 - 23:00:33: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 23:00:35: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 23:00:36: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 23:00:41: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/02/2013 - 23:05:19: [AFK_DZ.amxx] dmG zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 23:11:29: [AFK_DZ.amxx] dyniu zostal wywalony za bycie AFK przez 60 sekund
+L 11/02/2013 - 23:23:34: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/02/2013 - 23:23:44: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_mp5_reflex
+L 11/02/2013 - 23:39:06: -------- Mapchange to aim_mp5_reflex --------
+L 11/02/2013 - 23:39:11: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/02/2013 - 23:39:12: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 is online, date: 20:31 07.03.2011
+L 11/02/2013 - 23:39:12: [amxbans_main.amxx] [AMXBans] No Reasons found in Database. Static reasons were loaded instead.
+L 11/02/2013 - 23:39:18: [mapchooser4.amxx] xvars for mapchooser 4 setuped.

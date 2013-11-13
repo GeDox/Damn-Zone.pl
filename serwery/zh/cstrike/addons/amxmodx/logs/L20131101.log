@@ -1,0 +1,249 @@
+L 11/01/2013 - 02:18:47: [afkdf.amxx] What? zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 02:32:17: -------- Mapchange to fy_snow2 --------
+L 11/01/2013 - 02:32:22: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 02:32:22: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 02:32:22: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 02:32:22: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383273142,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 02:32:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 02:32:23: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 02:52:59: -------- Mapchange to de_aztec --------
+L 11/01/2013 - 02:53:00: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 02:53:01: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 02:53:01: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 02:53:01: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383274381,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 02:53:01: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 02:53:01: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 08:33:31: [amxbans_core.amxx] Login: "GeDox<214><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.136.129") (nick "G3D0X") (static 0)
+L 11/01/2013 - 08:33:40: [amxbans_core.amxx] Login: "GeDox<215><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.136.129") (nick "G3D0X") (static 0)
+L 11/01/2013 - 08:34:25: [amxbans_core.amxx] Login: "GeDox<215><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.136.129") (nick "G3D0X") (static 0)
+L 11/01/2013 - 08:41:34: [amxbans_core.amxx] Login: "GeDox<215><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.136.129") (nick "G3D0X") (static 0)
+L 11/01/2013 - 09:10:05: [amxbans_core.amxx] Login: "GeDox<218><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.136.129") (nick "G3D0X") (static 0)
+L 11/01/2013 - 09:47:30: [afkdf.amxx] NamerLaNNS zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 09:48:20: [afkdf.amxx] C.I.N.C.A.D.Z.E. zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 11:33:45: [afkdf.amxx] C.I.N.C.A.D.Z.E. zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 12:17:25: [afkdf.amxx] | Zuzii ~ zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 12:39:19: [amxbans_core.amxx] Login: "GeDox<318><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:39:31: [amxbans_core.amxx] Login: "GeDox<319><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:41:36: -------- Mapchange to gg_hideout --------
+L 11/01/2013 - 12:41:42: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 12:41:42: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 12:41:42: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 12:41:42: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383309702,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 12:41:42: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 12:41:42: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 12:42:01: [amxbans_core.amxx] Login: "GeDox<338><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:42:22: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:45:34: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:46:59: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:49:15: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:51:31: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:54:05: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:56:22: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 12:58:46: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:02:40: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:06:05: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:06:08: -------- Mapchange to de_dust --------
+L 11/01/2013 - 13:06:10: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 13:06:10: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 13:06:10: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 13:06:10: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383311170,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 13:06:10: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 13:06:11: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:06:11: [amxbans_core.amxx] Login: "GeDox<339><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:06:11: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 13:06:16: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:08:42: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:11:00: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:12:15: [amxbans_core.amxx] Login: "Voloi<354><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:12:16: [amxbans_core.amxx] Login: "Voloi<355><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:14:04: [amxbans_core.amxx] Login: "Voloi<355><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:14:04: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:16:40: [amxbans_core.amxx] Login: "Voloi<355><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:16:40: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:20:02: [amxbans_core.amxx] Login: "Voloi<355><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:20:02: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:23:43: [amxbans_core.amxx] Login: "Voloi<355><STEAM_0:0:46900203><>" became an admin (account "STEAM_0:0:46900203") (access "cdefijlmu") (address "46.149.243.162") (nick "Volio [ ZH ]") (static 0)
+L 11/01/2013 - 13:23:43: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:29:38: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:34:10: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:39:07: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:40:54: [adminchat.amxx] Chat: "GeDox<353><STEAM_0:1:28747762><>" tsay "maja downa i czasem skacza czasem ni"
+L 11/01/2013 - 13:44:58: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:45:02: -------- Mapchange to cs_italy --------
+L 11/01/2013 - 13:45:03: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 13:45:03: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 13:45:03: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 13:45:03: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383313503,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 13:45:03: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 13:45:03: [amxbans_core.amxx] Login: "GeDox<353><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:45:03: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 13:45:07: [amxbans_core.amxx] Login: "GeDox<381><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:48:13: [amxbans_core.amxx] Login: "GeDox<381><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:51:18: [std_admin_color_chat.amxx] PM From: "GeDox<12><STEAM_0:1:28747762><>" To: "oGARNIACZ<14><STEAM_0:0:854130102><>" Message: "Ty chciales VIP'a? :P"
+L 11/01/2013 - 13:51:38: [std_admin_color_chat.amxx] PM From: "GeDox<12><STEAM_0:1:28747762><>" To: "oGARNIACZ<14><STEAM_0:0:854130102><>" Message: "Wyslij SMS o tresci MPA.DZVIP2 na numer 76550"
+L 11/01/2013 - 13:51:43: [std_admin_color_chat.amxx] PM From: "GeDox<12><STEAM_0:1:28747762><>" To: "oGARNIACZ<14><STEAM_0:0:854130102><>" Message: "Podaj kod na u@"
+L 11/01/2013 - 13:52:04: [std_admin_color_chat.amxx] PM From: "GeDox<12><STEAM_0:1:28747762><>" To: "oGARNIACZ<14><STEAM_0:0:854130102><>" Message: "u@ Tresc :)"
+L 11/01/2013 - 13:52:40: [amxbans_core.amxx] Login: "GeDox<381><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:55:24: [amxbans_core.amxx] Login: "GeDox<381><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 13:59:11: [adminchat.amxx] Chat: "GeDox<381><STEAM_0:1:28747762><>" tsay "Co chca kupic VIP'a walic na GG: 11607256 :)"
+L 11/01/2013 - 13:59:48: [std_admin_color_chat.amxx] PM From: "GeDox<12><STEAM_0:1:28747762><>" To: "{CST} Solejukowa ^.^<17><STEAM_ID_LAN><>" Message: "Wal na GG :P""
+L 11/01/2013 - 14:00:21: [amxbans_core.amxx] Login: "GeDox<381><STEAM_0:1:28747762><>" became an admin (account "STEAM_0:1:28747762") (access "bcdefghijklmnopqrstu") (address "79.191.137.99") (nick "G3D0X") (static 0)
+L 11/01/2013 - 14:16:12: [amxbans_core.amxx] Login: "oGARNIACZ<400><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 14:16:24: [amxbans_core.amxx] Login: "oGARNIACZ<401><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "qt") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:17:16: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "qt") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:20:23: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:22:52: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:25:35: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:30:26: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:34:07: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:42:12: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:47:14: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:54:29: [amxbans_core.amxx] Login: "oGARNIACZ<402><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 14:57:58: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:06:32: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:15:05: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:18:44: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:23:03: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:28:09: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:30:25: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:38:21: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:41:50: [amxbans_core.amxx] Login: "oGARNIACZ<415><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:50:37: [amxbans_core.amxx] Login: "oGARNIACZ<431><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 15:50:46: [amxbans_core.amxx] Login: "oGARNIACZ<432><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:50:52: [amxbans_core.amxx] Login: "oGARNIACZ<433><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:51:33: [amxbans_core.amxx] Login: "oGARNIACZ<434><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 15:51:41: [amxbans_core.amxx] Login: "oGARNIACZ<435><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:51:43: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:54:53: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 15:57:09: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:00:01: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:04:02: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:08:44: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:12:44: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:20:08: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:26:57: [amxbans_core.amxx] Login: "oGARNIACZ<436><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:32:27: [afkdf.amxx] koxPL zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 16:35:15: -------- Mapchange to de_train --------
+L 11/01/2013 - 16:35:16: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 16:35:16: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 16:35:16: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 16:35:17: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383323717,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 16:35:17: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 16:35:17: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 16:38:32: [amxbans_core.amxx] Login: "oGARNIACZ<496><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:38:37: [amxbans_core.amxx] Login: "oGARNIACZ<497><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 16:41:42: [amxbans_core.amxx] Login: "oGARNIACZ<497><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 17:22:09: -------- Mapchange to gg_33_circa --------
+L 11/01/2013 - 17:22:09: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 17:22:09: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 17:22:09: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 17:22:09: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383326529,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 17:22:09: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 17:22:10: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 17:32:18: [afkdf.amxx] rados zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 17:45:44: [amxbans_core.amxx] Login: "oGARNIACZ<677><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 17:46:21: [amxbans_core.amxx] Login: "oGARNIACZ<678><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 17:46:25: [amxbans_core.amxx] Login: "oGARNIACZ<679><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 17:47:57: [amxbans_core.amxx] Login: "oGARNIACZ<679><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 17:49:33: [afkdf.amxx] Akira zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 18:04:49: [afkdf.amxx] rados zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 18:11:56: -------- Mapchange to de_mirage --------
+L 11/01/2013 - 18:12:01: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 18:12:01: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 18:12:01: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 18:12:01: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383329521,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 18:12:01: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 18:12:02: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 18:47:01: [afkdf.amxx] MaQu zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 18:48:55: [amxbans_core.amxx] Login: "oGARNIACZ<722><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 18:49:37: [amxbans_core.amxx] Login: "oGARNIACZ<724><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:49:51: [amxbans_core.amxx] Login: "oGARNIACZ<725><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:49:55: [amxbans_core.amxx] Login: "oGARNIACZ<726><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:50:06: [amxbans_core.amxx] Login: "oGARNIACZ<727><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:50:24: [amxbans_core.amxx] Login: "oGARNIACZ<728><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:57:19: [amxbans_core.amxx] Login: "oGARNIACZ<733><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 18:57:44: [amxbans_core.amxx] Login: "oGARNIACZ<734><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:04:06: [afkdf.amxx] MaQu zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 19:04:51: [amxbans_core.amxx] Login: "oGARNIACZ<752><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:18:55: -------- Mapchange to de_dust2 --------
+L 11/01/2013 - 19:18:58: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 19:18:59: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 19:18:59: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 19:18:59: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383333539,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 19:18:59: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 19:18:59: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 19:23:43: [afkdf.amxx] MaQu zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 19:23:49: [amxbans_core.amxx] Login: "oGARNIACZ<870><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 19:24:09: [amxbans_core.amxx] Login: "oGARNIACZ<872><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:24:14: [amxbans_core.amxx] Login: "oGARNIACZ<873><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:25:39: [amxbans_core.amxx] Login: "oGARNIACZ<873><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:27:34: [amxbans_core.amxx] Login: "oGARNIACZ<873><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:30:28: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:35:07: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:37:18: [afkdf.amxx] koxPL zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 19:38:06: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:41:24: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:46:46: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:50:46: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:50:50: -------- Mapchange to cs_assault_upc --------
+L 11/01/2013 - 19:50:51: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 19:50:51: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 19:50:51: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 19:50:51: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383335451,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 19:50:51: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 19:50:52: [amxbans_core.amxx] Login: "oGARNIACZ<900><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:50:52: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 19:50:56: [amxbans_core.amxx] Login: "oGARNIACZ<959><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:53:43: [amxbans_core.amxx] Login: "oGARNIACZ<959><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:56:12: [amxbans_core.amxx] Login: "oGARNIACZ<959><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 19:58:33: [amxbans_core.amxx] Login: "oGARNIACZ<959><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:01:35: [amxbans_core.amxx] Login: "oGARNIACZ<959><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:19:24: [amxbans_core.amxx] Login: "oGARNIACZ<1012><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 20:20:04: [amxbans_core.amxx] Login: "oGARNIACZ<1013><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:20:08: [amxbans_core.amxx] Login: "oGARNIACZ<1014><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:23:23: [amxbans_core.amxx] Login: "oGARNIACZ<1017><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:25:51: [amxbans_core.amxx] Login: "oGARNIACZ<1017><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:26:15: [afkdf.amxx] Skolim zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 20:26:50: [amxbans_core.amxx] Login: "oGARNIACZ<1024><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:36:22: [amxbans_core.amxx] Login: "oGARNIACZ<1024><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:44:49: [amxbans_core.amxx] Login: "oGARNIACZ<1024><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:44:53: -------- Mapchange to de_cbble --------
+L 11/01/2013 - 20:44:54: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/01/2013 - 20:44:54: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 2 | amx
+L 11/01/2013 - 20:44:54: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/01/2013 - 20:44:54: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1383338694,hostname='[ZombieHell][GunXpMod] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/01/2013 - 20:44:54: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/01/2013 - 20:44:54: [amxbans_core.amxx] Login: "oGARNIACZ<1024><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:44:54: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/01/2013 - 20:44:58: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 20:57:23: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:03:24: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:10:38: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:18:48: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:28:02: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:35:27: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 21:42:29: [amxbans_core.amxx] Login: "oGARNIACZ<1044><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:07:00: [amxbans_core.amxx] Login: "oGARNIACZ<1085><STEAM_0:0:854130102><>" kicked due to invalid password (account "oGARNIACZ") (address "89.239.100.112")
+L 11/01/2013 - 22:07:18: [amxbans_core.amxx] Login: "oGARNIACZ<1086><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:07:20: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:09:33: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:18:06: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:28:41: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:32:35: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:40:07: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:45:10: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:52:48: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 22:56:54: [afkdf.amxx] koxPL zostal wywalony za bycie AFK przez 90 sekund
+L 11/01/2013 - 22:57:40: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:06:16: [amxbans_core.amxx] Login: "oGARNIACZ<1087><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:09:33: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:14:31: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:25:46: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:31:56: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:38:08: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:38:50: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:40:58: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:46:13: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:50:34: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:53:42: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)
+L 11/01/2013 - 23:56:57: [amxbans_core.amxx] Login: "oGARNIACZ<1165><STEAM_0:0:854130102><>" became an admin (account "oGARNIACZ") (access "q") (address "89.239.100.112") (nick "oGARNIACZ") (static 1)

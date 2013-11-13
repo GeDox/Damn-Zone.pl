@@ -1,0 +1,178 @@
+L 11/12/2013 - 05:40:25: [amxbans_core.amxx] Login: "SzpiegooO<396><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 05:40:29: [amxbans_core.amxx] Login: "SzpiegooO<397><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 05:40:43: [amxbans_core.amxx] Login: "SzpiegooO<397><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:07:51: [amxbans_core.amxx] Login: "SzpiegooO<398><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:07:53: [amxbans_core.amxx] Login: "SzpiegooO<399><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:08:05: [amxbans_core.amxx] Login: "SzpiegooO<399><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:08:17: [amxbans_core.amxx] Login: "SzpiegooO<400><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:08:24: [amxbans_core.amxx] Login: "SzpiegooO<400><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:08:34: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:08:42: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:14:26: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:18:47: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:23:46: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:35:01: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:35:06: -------- Mapchange to cs_assault_upc --------
+L 11/12/2013 - 06:35:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 06:35:14: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 06:35:14: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 06:35:14: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384238114,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 06:35:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 06:35:14: [amxbans_core.amxx] Login: "SzpiegooO<401><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:35:14: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 06:35:17: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:35:26: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:39:57: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:40:58: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:45:48: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:49:29: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:53:29: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 06:58:25: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:03:07: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:09:18: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:14:10: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:19:14: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:24:37: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:30:47: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:30:54: -------- Mapchange to de_cbble --------
+L 11/12/2013 - 07:31:08: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 07:31:09: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 07:31:09: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 07:31:09: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384241469,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 07:31:09: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 07:31:09: [amxbans_core.amxx] Login: "SzpiegooO<408><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:31:09: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 07:31:12: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 07:31:21: [amxbans_core.amxx] Login: "SzpiegooO<422><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.175.210") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 08:05:18: [afkdf.amxx] .0BeH. zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 08:29:33: [afkdf.amxx] .0BeH. zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 13:44:38: [amxbans_core.amxx] Login: "SzpiegooO<457><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.143.29") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 13:44:42: [amxbans_core.amxx] Login: "SzpiegooO<458><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.28.143.29") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 14:27:29: [afkdf.amxx] FerdeKK KjepSkIi zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 15:14:49: [afkdf.amxx] Elitarny Patryk zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 16:12:40: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 16:21:10: [amxbans_core.amxx] Login: "SzpiegooO<536><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:21:13: [amxbans_core.amxx] Login: "SzpiegooO<537><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:22:51: [amxbans_core.amxx] Login: "SzpiegooO<540><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:24:06: [amxbans_core.amxx] Login: "SzpiegooO<541><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:24:09: [amxbans_core.amxx] Login: "SzpiegooO<542><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:25:39: [amxbans_core.amxx] Login: "SzpiegooO<543><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:26:10: [amxbans_core.amxx] Login: "SzpiegooO<544><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:26:13: [amxbans_core.amxx] Login: "SzpiegooO<545><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:27:27: [amxbans_core.amxx] Login: "SzpiegooO<546><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 16:31:15: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 16:43:45: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 17:20:38: -------- Mapchange to de_kabul --------
+L 11/12/2013 - 17:20:49: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 17:20:49: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 17:20:49: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 17:20:50: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384276850,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 17:20:50: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 17:20:50: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 17:42:33: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 18:00:40: [amxbans_core.amxx] Login: "SzpiegooO<594><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:00:43: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:01:02: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:06:05: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:10:27: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:14:24: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:15:48: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:15:51: -------- Mapchange to de_westwood --------
+L 11/12/2013 - 18:15:52: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 18:15:52: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 18:15:52: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 18:15:53: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384280153,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 18:15:53: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 18:15:53: [amxbans_core.amxx] Login: "SzpiegooO<595><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:15:53: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 18:15:55: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:16:05: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:18:18: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:19:39: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:22:11: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:24:24: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:26:44: [amxbans_core.amxx] Login: "SzpiegooO<604><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "79.191.41.175") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 18:50:56: -------- Mapchange to zm_rats2009 --------
+L 11/12/2013 - 18:50:56: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 18:50:57: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 18:50:57: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 18:50:57: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384282257,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 18:50:57: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 18:50:57: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 19:21:00: [amxbans_core.amxx] Login: "SzpiegooO<671><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:21:02: [amxbans_core.amxx] Login: "SzpiegooO<672><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:21:44: [amxbans_core.amxx] Login: "SzpiegooO<672><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:24:11: [afkdf.amxx] johnny rylski 1 zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 19:26:03: [amxbans_core.amxx] Login: "SzpiegooO<672><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:26:06: -------- Mapchange to gg_buzzkill --------
+L 11/12/2013 - 19:26:07: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 19:26:07: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 19:26:07: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 19:26:07: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384284367,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 19:26:07: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 19:26:07: [amxbans_core.amxx] Login: "SzpiegooO<672><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:26:07: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 19:26:11: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:26:19: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:27:47: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:28:59: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:30:15: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:31:35: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:33:27: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:35:28: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:37:52: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:40:27: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:42:34: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:45:24: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:45:27: -------- Mapchange to fy_snow2 --------
+L 11/12/2013 - 19:45:28: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 19:45:28: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 19:45:28: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 19:45:28: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384285528,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 19:45:28: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 19:45:28: [amxbans_core.amxx] Login: "SzpiegooO<685><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:45:29: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 19:45:31: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:45:39: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:47:20: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:48:50: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:50:57: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:53:15: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:55:40: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 19:58:32: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 20:01:55: [amxbans_core.amxx] Login: "SzpiegooO<703><STEAM_ID_LAN><>" became an admin (account "SzpiegooO") (access "q") (address "83.24.110.34") (nick "SzpiegooO") (static 0)
+L 11/12/2013 - 20:16:33: [afkdf.amxx] Mroczny | MG zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 20:18:58: -------- Mapchange to gg_hideout --------
+L 11/12/2013 - 20:18:59: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 20:18:59: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 20:18:59: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 20:18:59: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384287539,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 20:18:59: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 20:18:59: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 20:42:43: [afkdf.amxx] The Pro zostal wywalony za bycie AFK przez 90 sekund
+L 11/12/2013 - 22:20:13: -------- Mapchange to gg_aztec_temple --------
+L 11/12/2013 - 22:20:14: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 22:20:14: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 22:20:14: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 22:20:14: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384294814,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 22:20:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 22:20:14: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 22:22:39: [amxbans_core.amxx] Login: "Husqvarna<749><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:22:46: [amxbans_core.amxx] Login: "Husqvarna<750><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:23:29: [amxbans_core.amxx] Login: "Husqvarna<751><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:23:37: [amxbans_core.amxx] Login: "Husqvarna<751><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:23:59: [amxbans_core.amxx] Login: "Husqvarna<752><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:24:01: [amxbans_core.amxx] Login: "Husqvarna<753><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:24:27: [mapsmenu.amxx] Vote: "Husqvarna<753><STEAM_0:0:1341029><>" vote maps (map#1 "fy_snow2") (map#2 "de_train") (map#3 "de_kabul") (map#4 "")
+L 11/12/2013 - 22:24:39: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to fy_snow2
+L 11/12/2013 - 22:24:40: [mapsmenu.amxx] Vote: Result accepted
+L 11/12/2013 - 22:24:42: -------- Mapchange to fy_snow2 --------
+L 11/12/2013 - 22:24:43: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/12/2013 - 22:24:43: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/12/2013 - 22:24:43: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/12/2013 - 22:24:43: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384295083,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/12/2013 - 22:24:43: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/12/2013 - 22:24:43: [amxbans_core.amxx] Login: "Husqvarna<753><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:24:43: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/12/2013 - 22:24:47: [amxbans_core.amxx] Login: "Husqvarna<764><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)
+L 11/12/2013 - 22:24:54: [amxbans_core.amxx] Login: "Husqvarna<764><STEAM_0:0:1341029><>" became an admin (account "STEAM_0:0:1341029") (access "abcdefghijklmnopqrstu") (address "93.105.168.223") (nick "Husqvarna [ ALL ]") (static 0)

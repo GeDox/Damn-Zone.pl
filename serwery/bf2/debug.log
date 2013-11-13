@@ -1,0 +1,77 @@
+----------------------------------------------
+CRASH: Fri Oct 25 20:45:51 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip -pingboost 3 +sys_ticrate 1100 +exec server.cfg +map de_dust -port -maxplayers 30
+----------------------------------------------
+CRASH: Sat Oct 26 18:29:08 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip -pingboost 3 +sys_ticrate 1100 +exec server.cfg +map de_dust -port -maxplayers 30
+----------------------------------------------
+CRASH: Sat Oct 26 20:37:20 UTC 2013
+Start Line: ./hlds_linux +ip 185.17.41.144 +port 27015 +map de_dust2 -game cstrike
+----------------------------------------------
+CRASH: Sat Oct 26 20:46:40 UTC 2013
+Start Line: ./hlds_linux -game cstrike +port 27015 +ip 185.17.41.144 +maxplayers 1 +exec server.cfg +map de_dust2
+----------------------------------------------
+CRASH: Sat Oct 26 20:47:09 UTC 2013
+Start Line: ./hlds_linux -game cstrike +port 27015 +ip 185.17.41.144 +maxplayers 1 +exec server.cfg +map de_dust2
+----------------------------------------------
+CRASH: Sat Oct 26 20:47:16 UTC 2013
+Start Line: ./hlds_linux -game cstrike +port 27015 +ip 185.17.41.144 +maxplayers 1 +exec server.cfg +map de_dust2
+----------------------------------------------
+CRASH: Sat Oct 26 20:48:13 UTC 2013
+Start Line: ./hlds_linux -game cstrike +port 27015 +ip 185.17.41.144 +maxplayers 1 +exec server.cfg +map de_dust2
+----------------------------------------------
+CRASH: Sat Oct 26 20:57:35 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1
+----------------------------------------------
+CRASH: Sat Oct 26 21:00:30 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1
+----------------------------------------------
+CRASH: Sat Oct 26 21:01:29 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.741.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:01:40 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.741.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:07:16 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.818.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:07:26 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.818.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:08:58 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.843.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:10:02 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.863.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:11:24 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.877.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sat Oct 26 21:11:27 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.17.41.144 +port 27015 +maxplayers 1 -debug -pidfile hlds.889.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Oct 27 11:00:07 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.117.41.144 +port 27001 +maxplayers 1 +map de_dust2 -debug -pidfile hlds.6854.pid
+End of crash report
+----------------------------------------------
+----------------------------------------------
+CRASH: Sun Oct 27 11:01:38 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip 185.117.41.144 +port 27001 +maxplayers 1 +map de_dust2 -debug -pidfile hlds.6904.pid
+End of crash report
+----------------------------------------------

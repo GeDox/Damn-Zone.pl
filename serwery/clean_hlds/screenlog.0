@@ -1,0 +1,22 @@
+Auto-restarting the server on crash
+Could not locate steam binary:steamcmd/steamcmd.sh, ignoring.
+
+Console initialized.
+Using breakpad crash handler
+Setting breakpad minidump AppID = 10
+Forcing breakpad minidump interfaces to load
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 17:45:07 Apr 25 2013 (6027)
+STEAM Auth Server
+Server IP address 185.17.41.144:27000
+[S_API FAIL] SteamAPI_Init() failed; SteamAPI_IsSteamRunning() failed.
+Looking up breakpad interfaces from steamclient
+Calling BreakpadMiniDumpSystemInit
+
+couldn't exec listip.cfg
+couldn't exec banned.cfg
+Connection to Steam servers successful.
+   VAC secure mode is activated.

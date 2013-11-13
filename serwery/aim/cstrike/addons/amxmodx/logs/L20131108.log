@@ -1,0 +1,706 @@
+L 11/08/2013 - 00:16:50: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 00:17:11: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak47
+L 11/08/2013 - 00:19:07: -------- Mapchange to aim_ak47 --------
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:07: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:19:08: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 00:19:14: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 00:42:07: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 00:42:27: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 11/08/2013 - 00:44:17: -------- Mapchange to aim_ak-colt --------
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 00:44:17: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 00:44:24: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 01:07:17: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 01:07:37: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_awp
+L 11/08/2013 - 01:09:26: -------- Mapchange to aim_awp --------
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:26: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:09:27: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 01:09:33: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 01:32:26: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 01:32:46: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztec
+L 11/08/2013 - 01:34:36: -------- Mapchange to aim_aztec --------
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:34:36: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 01:34:43: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 01:57:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 01:57:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_b0n0
+L 11/08/2013 - 01:59:45: -------- Mapchange to aim_b0n0 --------
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:45: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 01:59:46: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 01:59:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 02:22:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 02:23:06: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/08/2013 - 02:24:56: -------- Mapchange to aim_crazyjump --------
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:24:56: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 02:25:03: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 02:47:56: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 02:48:16: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/08/2013 - 02:50:05: -------- Mapchange to aim_dgl --------
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:05: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 02:50:06: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 02:50:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 03:13:06: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 03:13:26: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/08/2013 - 03:15:15: -------- Mapchange to aim_famas_x --------
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:15: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:15:16: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 03:15:22: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 03:38:15: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 03:38:35: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/08/2013 - 03:40:25: -------- Mapchange to aim_headshot --------
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 03:40:25: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 03:40:32: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 04:03:25: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 04:03:45: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/08/2013 - 04:05:36: -------- Mapchange to aim_killer --------
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:36: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:05:37: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 04:05:44: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 04:28:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 04:28:57: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/08/2013 - 04:30:46: -------- Mapchange to aim_map --------
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:46: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:30:48: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 04:30:54: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 04:53:47: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 04:54:07: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map_deagle
+L 11/08/2013 - 04:55:57: -------- Mapchange to aim_map_deagle --------
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:57: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 04:55:58: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 04:56:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 05:18:57: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 05:19:17: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map_usp
+L 11/08/2013 - 05:21:06: -------- Mapchange to aim_map_usp --------
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:06: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:21:07: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 05:21:14: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 05:44:07: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 05:44:27: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map2
+L 11/08/2013 - 05:46:16: -------- Mapchange to aim_map2 --------
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 05:46:16: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 05:46:23: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 06:09:16: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 06:09:36: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_mp5_reflex
+L 11/08/2013 - 06:11:25: -------- Mapchange to aim_mp5_reflex --------
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:25: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:11:26: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 06:11:32: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 06:34:25: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 06:34:45: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_taliban
+L 11/08/2013 - 06:36:35: -------- Mapchange to aim_taliban --------
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:35: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 06:36:36: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 06:36:43: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 06:59:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 06:59:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/08/2013 - 07:01:46: -------- Mapchange to awp_space --------
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:46: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:01:47: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 07:01:54: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 07:24:47: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 07:25:07: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/08/2013 - 07:26:56: -------- Mapchange to awp_india --------
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:56: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:26:57: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 07:27:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 07:49:57: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 07:50:17: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_metro
+L 11/08/2013 - 07:52:06: -------- Mapchange to awp_metro --------
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:06: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 07:52:07: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 07:52:13: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 08:15:06: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 08:15:26: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_snowfun
+L 11/08/2013 - 08:17:16: -------- Mapchange to awp_snowfun --------
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:16: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 08:17:17: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 08:17:24: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 08:40:17: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 08:40:37: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_ruins
+L 11/08/2013 - 10:49:26: -------- Mapchange to de_dust2 --------
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:27: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 10:49:29: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 10:49:39: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 11:12:32: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 11:12:52: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak47
+L 11/08/2013 - 11:14:42: -------- Mapchange to aim_ak47 --------
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:42: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:14:43: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 11:14:49: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 11:37:42: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 11:38:02: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 11/08/2013 - 11:39:51: -------- Mapchange to aim_ak-colt --------
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:51: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 11:39:52: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 11:39:59: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 12:02:52: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 12:03:12: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_awp
+L 11/08/2013 - 12:05:01: -------- Mapchange to aim_awp --------
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:01: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:05:02: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 12:05:08: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 12:28:02: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 12:28:22: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztec
+L 11/08/2013 - 12:30:13: -------- Mapchange to aim_aztec --------
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:13: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:30:14: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 12:30:20: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 12:53:13: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 12:53:33: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_b0n0
+L 11/08/2013 - 12:55:23: -------- Mapchange to aim_b0n0 --------
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:23: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 12:55:24: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 12:55:30: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 13:18:23: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 13:18:43: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_crazyjump
+L 11/08/2013 - 13:20:34: -------- Mapchange to aim_crazyjump --------
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:20:34: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 13:20:41: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 13:43:34: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 13:43:54: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_dgl
+L 11/08/2013 - 13:45:44: -------- Mapchange to aim_dgl --------
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 13:45:44: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 13:45:51: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 14:08:44: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 14:09:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_famas_x
+L 11/08/2013 - 14:10:53: -------- Mapchange to aim_famas_x --------
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:53: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:10:55: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 14:11:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 14:48:40: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 14:49:00: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 11/08/2013 - 14:50:50: -------- Mapchange to aim_headshot --------
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:50: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 14:50:51: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 14:50:57: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 15:13:50: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 15:14:11: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_killer
+L 11/08/2013 - 15:30:46: -------- Mapchange to aim_killer --------
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 15:30:46: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 15:30:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 15:53:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 15:54:06: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/08/2013 - 16:27:16: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 16:27:36: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 11/08/2013 - 16:29:26: -------- Mapchange to aim_map --------
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 16:29:26: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 16:29:33: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 17:25:51: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Soo GooD:><1><STEAM_0:1:35190028><>" Message: ":D"
+L 11/08/2013 - 17:26:50: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Smutny<4><STEAM_0:0:239415769><>" Message: "[MILF AntiCheat] f9 pressed!"
+L 11/08/2013 - 17:26:50: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Smutny<4><STEAM_0:0:239415769><>" Message: "[MILF AntiCheat] f10 pressed!"
+L 11/08/2013 - 17:26:51: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Smutny<4><STEAM_0:0:239415769><>" Message: "[MILF AntiCheat] f11 pressed!"
+L 11/08/2013 - 17:51:41: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 17:52:01: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map_usp
+L 11/08/2013 - 17:53:43: -------- Mapchange to aim_map_usp --------
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 17:53:43: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 17:53:50: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 17:57:58: [AFK_DZ.amxx] Lucas LuDaskt Jernberg zostal wywalony za bycie AFK przez 90 sekund
+L 11/08/2013 - 18:16:43: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 18:17:03: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map_usp
+L 11/08/2013 - 18:19:03: -------- Mapchange to aim_map_usp --------
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:03: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:19:04: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 18:19:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 18:43:09: [AFK_DZ.amxx] IloveSensImusiC zostal wywalony za bycie AFK przez 90 sekund
+L 11/08/2013 - 18:50:05: -------- Mapchange to aim_map --------
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 18:50:05: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 18:50:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 19:31:17: [std_admin_color_chat.amxx] ADMINS amx_chat, From: "Wi*Lan<2><STEAM_0:1:42341385><>" Message: "kurwa nie bic z respa bo ban 1!!!"
+L 11/08/2013 - 19:39:05: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 19:39:25: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map2
+L 11/08/2013 - 19:40:59: -------- Mapchange to aim_map2 --------
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 19:40:59: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 19:41:06: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 20:14:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 20:14:49: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_taliban
+L 11/08/2013 - 20:16:45: -------- Mapchange to aim_taliban --------
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 20:16:45: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 20:16:52: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 20:39:45: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 20:40:05: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/08/2013 - 21:10:45: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 21:11:05: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_space
+L 11/08/2013 - 21:12:55: -------- Mapchange to awp_space --------
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:55: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 21:12:56: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 21:13:03: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 21:59:56: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 22:00:16: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 11/08/2013 - 22:02:14: -------- Mapchange to awp_india --------
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:14: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:02:15: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 22:02:21: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 22:25:14: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 22:25:34: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_metro
+L 11/08/2013 - 22:51:33: -------- Mapchange to awp_metro --------
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 22:51:33: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 22:51:40: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 11/08/2013 - 23:14:33: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 11/08/2013 - 23:14:53: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_snowfun
+L 11/08/2013 - 23:40:53: -------- Mapchange to awp_snowfun --------
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "amxbans_main.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "amxbans_core.amxx" failed to load: Module/Library Class "sqlx" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "ReasonKicker.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library Class "xstats" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "hsonly.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "ptb.amxx" failed to load: Module/Library "cstrike" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "spawn_protection_pl.amxx" failed to load: Module/Library "fun" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "admin_spec_esp.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "admin_gag.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "adminlisten.amxx" failed to load: Module/Library "engine" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "amxbans_freeze.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:40:54: [AMXX] Plugin "amxbans_ssban.amxx" failed to load: Module/Library "fakemeta" required for plugin.  Check modules.ini.
+L 11/08/2013 - 23:41:00: [mapchooser4.amxx] Found 55 maps in maps folder
+L 11/08/2013 - 23:41:07: [mapchooser4.amxx] xvars for mapchooser 4 setuped.

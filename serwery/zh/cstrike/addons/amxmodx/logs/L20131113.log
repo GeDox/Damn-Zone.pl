@@ -1,0 +1,53 @@
+L 11/13/2013 - 06:28:19: [afkdf.amxx] Feri zostal wywalony za bycie AFK przez 90 sekund
+L 11/13/2013 - 12:40:00: [afkdf.amxx] FerdeKK KjepSkIi zostal wywalony za bycie AFK przez 90 sekund
+L 11/13/2013 - 13:04:09: -------- Mapchange to gg_33_circa --------
+L 11/13/2013 - 13:04:17: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 13:04:17: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 13:04:17: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 13:04:17: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384347857,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 13:04:17: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 13:04:17: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 15:35:35: -------- Mapchange to de_mirage --------
+L 11/13/2013 - 15:35:37: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 15:35:37: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 15:35:37: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 15:35:37: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384356937,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 15:35:37: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 15:35:37: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 15:47:26: [afkdf.amxx] $kamil$ zostal wywalony za bycie AFK przez 90 sekund
+L 11/13/2013 - 15:48:46: [afkdf.amxx] | Zuzii ~ zostal wywalony za bycie AFK przez 90 sekund
+L 11/13/2013 - 17:20:20: -------- Mapchange to cs_assault_upc --------
+L 11/13/2013 - 17:20:30: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 17:20:31: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 17:20:31: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 17:20:31: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384363231,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 17:20:31: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 17:20:31: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 18:43:09: -------- Mapchange to de_inferno --------
+L 11/13/2013 - 18:43:13: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 18:43:14: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 18:43:14: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 18:43:14: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 18:43:14: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384368194,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 18:43:14: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 19:42:24: -------- Mapchange to de_westwood --------
+L 11/13/2013 - 19:42:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 19:42:29: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 19:42:29: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 19:42:29: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384371749,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 19:42:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 19:42:29: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 20:43:21: -------- Mapchange to zm_rats2009 --------
+L 11/13/2013 - 20:43:21: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 20:43:22: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 20:43:22: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 20:43:22: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384375402,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 20:43:22: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 20:43:22: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.
+L 11/13/2013 - 21:35:29: -------- Mapchange to gg_buzzkill --------
+L 11/13/2013 - 21:35:29: [AMXX] Failed to open dictionary file: cstrike/addons/amxmodx/data/lang/minigun.txt
+L 11/13/2013 - 21:35:29: [amxbans_main.amxx] [AMXBans] Received DB Info Tuple from amxbans_core: 1 | amx
+L 11/13/2013 - 21:35:29: [amxbans_main.amxx] [AMXBans] The server IP:PORT is: 185.17.41.144:27002
+L 11/13/2013 - 21:35:29: [amxbans_main.amxx] [AMXBANS DEBUG] UPDATE `amx_serverinfo` SET timestamp=1384378529,hostname='[ZombieHell][GXPMod][RESP][UNIKAT!] @Damn-Zone.pl',gametype='cstrike',amxban_version='1.5.1', amxban_menu=1 WHERE address = '185.17.41.144:27002'
+L 11/13/2013 - 21:35:29: [amxbans_main.amxx] [AMXBans] AMXBans Gm 1.5.1 jest wlaczony
+L 11/13/2013 - 21:35:30: [amxbans_main.amxx] [AMXBans] Nie znaleziono powodow banow w bazie danych. Zaladowano standardowe.

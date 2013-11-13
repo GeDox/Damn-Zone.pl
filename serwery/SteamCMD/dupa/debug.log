@@ -1,0 +1,3 @@
+----------------------------------------------
+CRASH: Fri Oct 25 20:45:51 UTC 2013
+Start Line: ./hlds_linux -game cstrike +ip -pingboost 3 +sys_ticrate 1100 +exec server.cfg +map de_dust -port -maxplayers 30

@@ -1,0 +1,35 @@
+[en]
+IS_GUARDIAN_TS = \g%s\y jest \gKapitanem\y TT.
+IS_GUARDIAN_CT = \g%s\y jest \gKapitanem\y CT.
+HAS_BEEN_CHOSEN_TS = \t%s\y zostal wybrany \gKapitanem\y \tTT\y .
+HAS_BEEN_CHOSEN_CT = \t%s\y zostal wybrany \gKapitanem\y \tCT\y .
+COLOR_TS_DEAD = \gKapitan\t %s\y \tTT\y nie zyje!
+COLOR_CT_DEAD = \gKapitan\t %s\y \tCT\y nie zyje!
+TS_DEAD = Kapitan %s TT umarl!
+CT_DEAD = Kapitan %s CT umarl!
+REVIVE = Please wait, you will respawn in few seconds...
+DEAD = Dead
+
+[es]
+IS_GUARDIAN_TS = \g%s\y es el \gGuardian\y del Equipo Terrorista.
+IS_GUARDIAN_CT = \g%s\y es el \gGuardian\y del Equipo Anti-Terrorista.
+HAS_BEEN_CHOSEN_TS = \t%s\y fue seleccionado como el \gGuardian\y del \tEquipo Terrorista\y.
+HAS_BEEN_CHOSEN_CT = \t%s\y fue seleccionado como el \gGuardian\y del \tEquipo Anti-Terrorista\y.
+COLOR_TS_DEAD = El \gGuardian\t %s\y del \tEquipo Terrorista\y ha muerto!
+COLOR_CT_DEAD = El \gGuardian\t %s\y del \tEquipo Anti-Terrorista\y ha muerto!
+TS_DEAD = El Guardian %s en el Equipo Terrorista ha muerto!
+CT_DEAD = El Guardian %s en el Equipo Anti-Terrorista ha muerto!
+REVIVE = Por favor, espere, aparecera en unos pocos segundos...
+DEAD = Muerto
+
+[bp]
+IS_GUARDIAN_TS = \g%s\y e o \gGuardiao\y do Time Terrorista.
+IS_GUARDIAN_CT = \g%s\y e o \gGuardiao\y do Time Contra-Terrorista.
+HAS_BEEN_CHOSEN_TS = \t%s\y foi escolhido como \gGuardiao\y para os \tTerroristas\y .
+HAS_BEEN_CHOSEN_CT = \t%s\y foi escolhido como \gGuardiao\y para os \tContra-Terroristas\y .
+COLOR_TS_DEAD = \gGuardiao\t %s\y do Time \tTerrorista\y morreu!
+COLOR_CT_DEAD = \gGuardiao\t %s\y do Time \tContra-Terrorista\y morreu!
+TS_DEAD = Guardiao %s do Time Terrorista morreu!
+CT_DEAD = Guardiao %s do Time Countra-Terrorista morreu!
+REVIVE = Aguarde, voce ira renascer em alguns segundos...
+DEAD = Morto

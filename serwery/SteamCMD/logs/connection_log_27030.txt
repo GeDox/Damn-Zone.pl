@@ -1,0 +1,87 @@
+
+
+[2013-11-01 18:22:50] Log session started
+
+[2013-11-01 18:22:50] [0,0] SetSteamID( [A:1:0:0] )
+[2013-11-01 18:22:50] [1,2] Connect() starting connection (eNetQOSLevelLow, 146.66.152.15:27018, UDP)
+
+[2013-11-01 18:22:51] [1,2] ConnectionCompleted() (146.66.152.14:27017, UDP)
+[2013-11-01 18:22:52] [1,2] RecvMsgClientLogOnResponse() : [A:1:754973697:3741] 'OK'
+[2013-11-01 19:03:20] [3,2] RecvMsgClientLoggedOff('Service Unavailable')
+[2013-11-01 19:03:20] [3,2] AsyncDisconnect()
+[2013-11-01 19:03:20] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Service Unavailable' (146.66.152.14:27017, UDP)
+[2013-11-01 19:03:20] [0,0] 
+[2013-11-01 19:03:20] [0,0] StartAutoReconnect() will start in 21 seconds
+[2013-11-01 19:03:41] [1,10] Connect() starting connection (eNetQOSLevelLow, 146.66.152.15:27018, UDP)
+
+[2013-11-01 19:03:43] [1,10] ConnectionCompleted() (103.28.54.11:27017, UDP)
+[2013-11-01 19:03:43] [1,10] RecvMsgClientLogOnResponse() : [A:1:754973697:3741] 'OK'
+[2013-11-01 19:06:30] [3,10] RecvMsgClientLoggedOff('Service Unavailable')
+[2013-11-01 19:06:30] [3,10] AsyncDisconnect()
+[2013-11-01 19:06:31] [0,0] ConnectionDisconnected('OK') : 'Service Unavailable' (103.28.54.11:27017, UDP)
+[2013-11-01 19:06:31] [0,0] 
+[2013-11-01 19:06:31] [0,0] StartAutoReconnect() will start in 13 seconds
+[2013-11-01 19:06:44] [1,14] Connect() starting connection (eNetQOSLevelLow, 146.66.152.15:27018, UDP)
+
+[2013-11-01 19:06:46] [1,14] ConnectionCompleted() (103.28.54.11:27017, UDP)
+[2013-11-01 19:06:46] [1,14] RecvMsgClientLogOnResponse() : [A:1:754973697:3741] 'Service Unavailable'
+[2013-11-01 19:06:46] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Failure' (103.28.54.11:27017, UDP)
+[2013-11-01 19:06:46] [0,0] 
+[2013-11-01 19:06:46] [0,0] StartAutoReconnect() will start in 9 seconds
+[2013-11-01 19:06:55] [1,16] Connect() starting connection (eNetQOSLevelLow, 146.66.152.15:27018, UDP)
+
+[2013-11-01 19:06:57] [1,16] ConnectionCompleted() (103.28.54.11:27017, UDP)
+[2013-11-01 19:07:03] [0,16] RecvMsgClientLogOnResponse() : [A:1:754973697:3741] 'Service Unavailable'
+[2013-11-01 19:07:03] [0,0] ConnectionDisconnected('Disconnected By Remote Host') : 'Failure' (103.28.54.11:27017, UDP)
+[2013-11-01 19:07:03] [0,0] 
+[2013-11-01 19:07:03] [0,0] StartAutoReconnect() will start in 37 seconds
+[2013-11-01 19:07:40] [1,18] Connect() starting connection (eNetQOSLevelLow, 146.66.152.15:27018, UDP)
+
+[2013-11-01 19:07:42] [1,18] ConnectionCompleted() (103.28.54.11:27017, UDP)
+[2013-11-01 19:07:42] [1,18] RecvMsgClientLogOnResponse() : [A:1:754973697:3741] 'OK'
+
+
+[2013-11-02 12:06:38] Log session started
+
+[2013-11-02 12:06:38] [0,0] SetSteamID( [A:1:0:0] )
+[2013-11-02 12:06:38] [1,2] Connect() starting connection (eNetQOSLevelLow, 81.171.115.8:27017, UDP)
+
+[2013-11-02 12:06:39] [1,2] ConnectionCompleted() (146.66.152.15:27019, UDP)
+[2013-11-02 12:06:39] [1,2] RecvMsgClientLogOnResponse() : [A:1:388064256:3744] 'OK'
+
+
+[2013-11-02 12:43:55] Log session started
+
+[2013-11-02 12:43:55] [0,0] SetSteamID( [A:1:0:0] )
+[2013-11-02 12:43:55] [1,2] Connect() starting connection (eNetQOSLevelLow, 81.171.115.7:27017, UDP)
+
+[2013-11-02 12:43:56] [1,2] ConnectionCompleted() (146.66.152.13:27017, UDP)
+[2013-11-02 12:43:56] [1,2] RecvMsgClientLogOnResponse() : [A:1:704177154:3744] 'OK'
+
+
+[2013-11-02 12:51:22] Log session started
+
+[2013-11-02 12:51:22] [0,0] SetSteamID( [A:1:0:0] )
+[2013-11-02 12:51:22] [1,2] Connect() starting connection (eNetQOSLevelLow, 146.66.152.12:27017, UDP)
+
+[2013-11-02 12:51:23] [1,2] ConnectionCompleted() (146.66.152.12:27017, UDP)
+[2013-11-02 12:51:24] [1,2] RecvMsgClientLogOnResponse() : [A:1:777656322:3744] 'OK'
+
+
+[2013-11-02 13:14:13] Log session started
+
+[2013-11-02 13:14:13] [0,0] SetSteamID( [A:1:0:0] )
+[2013-11-02 13:14:13] [1,2] Connect() starting connection (eNetQOSLevelLow, 209.197.29.196:27017, UDP)
+
+[2013-11-02 13:14:14] [1,2] ConnectionCompleted() (146.66.152.12:27019, UDP)
+[2013-11-02 13:14:15] [1,2] RecvMsgClientLogOnResponse() : [A:1:1041021954:3744] 'OK'
+[2013-11-02 20:03:06] [0,0] ConnectionDisconnected('I/O Operation Failed') : 'OK' (146.66.152.12:27019, UDP)
+[2013-11-02 20:03:06] [0,0] CUDPConnection::OnFailedSend() failure info
+  pending unsent: 0, unacked sent: 1, our seq sent: 987
+  message pending type 6, packets 1, seq [987, 987], first unacked: 987, size 48
+
+[2013-11-02 20:03:06] [0,0] StartAutoReconnect() will start in 11 seconds
+[2013-11-02 20:03:17] [1,6] Connect() starting connection (eNetQOSLevelLow, 209.197.29.196:27017, UDP)
+
+[2013-11-02 20:03:24] [1,6] ConnectionCompleted() (146.66.152.15:27019, UDP)
+[2013-11-02 20:03:27] [1,6] RecvMsgClientLogOnResponse() : [A:1:1041021954:3744] 'OK'
